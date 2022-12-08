@@ -1,0 +1,21 @@
+2022-12-08 14:24:44 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:25:06 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 14:25:56 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 14:27:00 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 14:27:05 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 14:28:04 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 14:28:46 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 14:33:11 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 14:33:39 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 14:36:06 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:36:19 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:37:01 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:37:49 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:38:28 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:39:19 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:39:47 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:40:16 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:40:41 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:41:09 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 16:17:25 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 17:07:51 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired

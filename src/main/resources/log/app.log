@@ -1,0 +1,1569 @@
+2022-12-04 17:23:50 DEBUG Main:10 - debug
+  2022-12-04 17:23:50 INFO  Main:11 - info
+  2022-12-04 17:23:50 ERROR Main:12 - error
+  2022-12-04 17:23:50 WARN  Main:13 - warn
+  2022-12-04 17:23:50 FATAL Main:14 - fatal
+  2022-12-04 17:32:39 DEBUG Main:10 - debug
+  2022-12-04 17:32:39 INFO  Main:11 - info
+  2022-12-04 17:32:39 ERROR Main:12 - error
+  2022-12-04 17:32:39 WARN  Main:13 - warn
+  2022-12-04 17:32:39 FATAL Main:14 - fatal
+  2022-12-04 18:25:58 INFO  Main:11 - Crossover{passability=MEDIUM} Car{seatPlaceNumber=4, carNumber='2552', maxSpeed=210, carWight=2, carLength=2, carHeight=3}
+  2022-12-05 11:20:24 INFO  Main:12 - Driver{licensesList=License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=16/03/2018, dateOfExpired=16/03/2023, category=B}, drivingExperience=MEDIUM, knowledgeOfCity=HEIGHT} Person{dateOfBirth='08/08/2000', name='Ann', surname='Annieson', accessRights='Driver', phoneNumber=670023456, gender='FEMALE'}
+  2022-12-05 11:21:46 INFO  Main:14 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=16/03/2018, dateOfExpired=16/03/2023, category=B}
+  2022-12-05 11:27:54 INFO  Main:20 - Mon Jan 16 00:03:00 EET 2023
+  2022-12-05 11:30:39 INFO  Main:20 - Mon Jan 02 00:00:00 EET 2023
+  2022-12-05 11:31:13 INFO  Main:20 - Thu Mar 16 00:00:00 EET 2023
+  2022-12-05 11:32:13 INFO  Main:20 - 1678917600000
+  2022-12-05 11:32:30 INFO  Main:20 - 16
+  2022-12-05 11:32:50 INFO  Main:20 - 4
+  2022-12-05 11:33:11 INFO  Main:20 - 2
+  2022-12-05 11:36:41 INFO  Main:23 - Thu Mar 16 00:00:00 EET 2023
+  2022-12-05 11:38:13 INFO  Main:23 - 16 Mar 2023, 00:00:00
+  2022-12-05 11:40:24 INFO  Main:14 - Thu Mar 16 00:00:00 EET 2023
+  2022-12-05 11:41:09 INFO  Main:16 - Thu Mar 16 00:00:00 EET 2023
+  2022-12-05 11:41:34 INFO  Main:16 - 2
+  2022-12-05 11:41:59 INFO  Main:16 - 0
+  2022-12-05 11:44:07 INFO  Main:18 - 0
+  2022-12-05 11:44:15 INFO  Main:18 - Thu Mar 16 00:00:00 EET 2023
+  2022-12-05 11:45:10 INFO  Main:18 - Thu Mar 16 00:00:00 EET 2023
+  2022-12-05 11:47:21 INFO  Main:18 - '1''2''/''2''3''/''2''0''2''2'
+  2022-12-05 11:49:15 INFO  Main:18 - {DayOfMonth=16, MinuteOfHour=3, Year=2023},ISO
+  2022-12-05 11:49:29 INFO  Main:18 - {},ISO resolved to 2023-03-16
+  2022-12-05 11:51:39 INFO  Main:18 - {},ISO resolved to 2023-03-16
+  2022-12-05 12:24:30 INFO  Main:19 - {},ISO resolved to 2023-03-16
+  2022-12-05 12:41:00 INFO  Main:16 - {},ISO resolved to 2023-03-16
+  2022-12-05 18:49:01 INFO  Main:16 - 16/03/2023
+  2022-12-05 18:49:42 INFO  Main:16 - 16/03/2023
+  2022-12-05 18:50:05 INFO  Main:16 - 08/08/2000
+  2022-12-05 18:51:10 INFO  Main:16 - 08/08/2000
+  2022-12-05 18:51:23 INFO  Main:16 - 16/03/2023
+  2022-12-05 18:55:13 INFO  Main:16 - 08/08/2000
+  2022-12-05 18:55:45 INFO  Main:16 - 08/08/2000
+  2022-12-05 18:56:34 INFO  Main:16 - 08/08/2000
+  2022-12-05 18:56:45 INFO  Main:16 - 08/08/2000
+  2022-12-05 19:03:34 INFO  Main:16 - {},ISO resolved to 2000-08-08
+  2022-12-05 19:04:17 INFO  Main:16 - {},ISO resolved to 2000-08-08
+  2022-12-05 19:07:28 INFO  Main:16 - {},ISO resolved to 2023-03-16
+  2022-12-05 19:25:19 INFO  Main:16 - {},ISO resolved to 2023-03-16
+  2022-12-05 19:34:47 INFO  Main:17 - 2022-12-05T19:34:47.406290
+  2022-12-05 20:03:32 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth={},ISO resolved to 1990-07-20, dateOfIssue={},ISO resolved to 2020-08-11, dateOfExpired={},ISO resolved to 2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth={},ISO resolved to 1989-05-14, dateOfIssue={},ISO resolved to 2021-04-23, dateOfExpired={},ISO resolved to 2021-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth={},ISO resolved to 2000-08-08, dateOfIssue={},ISO resolved to 2018-03-16, dateOfExpired={},ISO resolved to 2023-03-16, category=B}]
+  2022-12-05 20:18:48 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth={},ISO resolved to 1990-07-20, dateOfIssue={},ISO resolved to 2020-08-11, dateOfExpired=11/08/2025, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth={},ISO resolved to 1989-05-14, dateOfIssue={},ISO resolved to 2021-04-23, dateOfExpired=23/04/2021, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth={},ISO resolved to 2000-08-08, dateOfIssue={},ISO resolved to 2018-03-16, dateOfExpired=16/03/2023, category=B}]
+  2022-12-05 20:20:33 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth={},ISO resolved to 1990-07-20, dateOfIssue={},ISO resolved to 2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth={},ISO resolved to 1989-05-14, dateOfIssue={},ISO resolved to 2021-04-23, dateOfExpired=23/04/2021, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth={},ISO resolved to 2000-08-08, dateOfIssue={},ISO resolved to 2018-03-16, dateOfExpired=16/03/2023, category=B}]
+  2022-12-05 20:20:43 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth={},ISO resolved to 1990-07-20, dateOfIssue={},ISO resolved to 2020-08-11, dateOfExpired=2020-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth={},ISO resolved to 1989-05-14, dateOfIssue={},ISO resolved to 2021-04-23, dateOfExpired=23/04/2021, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth={},ISO resolved to 2000-08-08, dateOfIssue={},ISO resolved to 2018-03-16, dateOfExpired=16/03/2023, category=B}]
+  2022-12-05 20:33:28 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=23/04/2021, dateOfExpired=23/04/2021, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=16/03/2018, dateOfExpired=16/03/2023, category=B}]
+  2022-12-05 20:43:56 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=23/04/2021, dateOfExpired=23/04/2021, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=16/03/2018, dateOfExpired=16/03/2023, category=B}]
+  2022-12-05 20:44:21 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=23/04/2021, dateOfExpired=23/04/2021, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=16/03/2018, dateOfExpired=16/03/2020, category=B}]
+  2022-12-05 20:45:41 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2021-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 20:46:42 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2020-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 20:47:17 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 20:48:35 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2020-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 20:48:47 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 20:53:11 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 20:55:50 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 20:56:27 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 20:56:39 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2020-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 20:57:15 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 21:05:01 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 21:05:16 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2020-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 21:05:55 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 21:06:06 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2020-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 21:15:31 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 21:15:39 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=B}]
+  2022-12-05 21:15:49 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-05 23:05:42 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-06 10:56:27 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-06 11:29:53 INFO  LicenseList:40 - License is valid
+  2022-12-06 11:29:53 INFO  LicenseList:42 - -1
+  2022-12-06 11:29:53 INFO  LicenseList:40 - License is valid
+  2022-12-06 11:29:53 INFO  LicenseList:42 - -1
+  2022-12-06 11:29:53 INFO  LicenseList:40 - License is valid
+  2022-12-06 11:29:53 INFO  LicenseList:42 - -1
+  2022-12-06 11:29:53 INFO  Main:16 - [License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}]
+  2022-12-06 11:52:38 INFO  Main:20 - Pickup{cargoCarryMass=300, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+  2022-12-06 12:05:37 INFO  Main:11 - class Car.Pickup
+  2022-12-06 12:08:28 INFO  Main:12 - Car.Pickup
+  2022-12-06 12:08:46 INFO  Main:12 - [Ljava.lang.reflect.Field;@5bcea91b
+  2022-12-06 12:08:57 INFO  Main:12 - [Ljava.lang.reflect.Field;@29b5cd00
+  2022-12-06 12:12:04 INFO  Main:12 - Pickup{cargoCarryMass=300, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+  2022-12-06 12:12:17 INFO  Main:12 - Pickup{cargoCarryMass=600, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+  2022-12-06 12:22:25 INFO  Pickup:43 - exception.CargoOverloadingException: Too much cargo
+  2022-12-06 12:22:25 INFO  Main:14 - 1
+  2022-12-06 12:50:54 INFO  Pickup:39 - exception.CargoOverloadingException: Too much cargo
+  2022-12-06 12:51:53 INFO  Pickup:39 - exception.CargoOverloadingException: Too much cargo
+  2022-12-06 12:51:53 INFO  Main:15 - [Pickup{cargoCarryMass=600, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}, Crossover{passability=MEDIUM} Car{seatPlaceNumber=4, carNumber='2552', maxSpeed=210, carWight=2, carLength=2, carHeight=3}, Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}, Cabriolet{OpenRoof='Yes'} Car{seatPlaceNumber=4, carNumber='1434', maxSpeed=180, carWight=2, carLength=3, carHeight=1}, Car{seatPlaceNumber=4, carNumber='1234', maxSpeed=110, carWight=2, carLength=3, carHeight=2}]
+  2022-12-06 12:56:08 INFO  Pickup:37 - Cargo mass acceptable
+  2022-12-06 12:57:42 INFO  Main:15 - [Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}, Crossover{passability=MEDIUM} Car{seatPlaceNumber=4, carNumber='2552', maxSpeed=210, carWight=2, carLength=2, carHeight=3}, Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}, Cabriolet{OpenRoof='Yes'} Car{seatPlaceNumber=4, carNumber='1434', maxSpeed=180, carWight=2, carLength=3, carHeight=1}, Car{seatPlaceNumber=4, carNumber='1234', maxSpeed=110, carWight=2, carLength=3, carHeight=2}]
+  2022-12-06 12:58:45 INFO  Main:15 - [Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}, Crossover{passability=MEDIUM} Car{seatPlaceNumber=4, carNumber='2552', maxSpeed=210, carWight=2, carLength=2, carHeight=3}, Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}, Cabriolet{OpenRoof='Yes'} Car{seatPlaceNumber=4, carNumber='1434', maxSpeed=180, carWight=2, carLength=3, carHeight=1}, Car{seatPlaceNumber=4, carNumber='1234', maxSpeed=110, carWight=2, carLength=3, carHeight=2}]
+  2022-12-06 13:51:45 INFO  Taxi.Order:45 - 5
+  2022-12-06 13:53:07 INFO  Taxi.Order:49 - 22
+  2022-12-06 13:53:18 INFO  Taxi.Order:49 - 27
+  2022-12-06 14:04:25 ERROR Taxi.Order:51 - exception.IncorrectChoiceException: Incorrect Choice
+  2022-12-06 14:04:25 INFO  Taxi.Order:53 - 22
+  2022-12-06 14:05:06 ERROR Taxi.Order:51 - exception.IncorrectChoiceException: Incorrect ChoiceYes
+  2022-12-06 14:05:06 INFO  Taxi.Order:53 - 22
+  2022-12-06 14:06:20 ERROR Taxi.Order:51 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yess, No, No]
+  2022-12-06 14:06:20 INFO  Taxi.Order:53 - 22
+  2022-12-06 14:07:30 ERROR Taxi.Order:51 - exception.IncorrectChoiceException: Incorrect Choice0
+  2022-12-06 14:07:30 INFO  Taxi.Order:53 - 22
+  2022-12-06 14:07:50 ERROR Taxi.Order:51 - exception.IncorrectChoiceException: Incorrect Choice0
+  2022-12-06 14:07:50 INFO  Taxi.Order:53 - 22
+  2022-12-06 14:10:22 ERROR Taxi.Order:52 - exception.IncorrectChoiceException: Incorrect Choicefalse
+  2022-12-06 14:10:22 INFO  Taxi.Order:54 - 22
+  2022-12-06 14:10:41 ERROR Taxi.Order:51 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
+  2022-12-06 14:10:41 INFO  Taxi.Order:53 - 22
+  2022-12-06 14:11:37 ERROR Taxi.Order:51 - exception.IncorrectChoiceException: Incorrect Choice[Yes, No, No, No]
+  2022-12-06 14:11:37 INFO  Taxi.Order:53 - 22
+  2022-12-06 14:12:29 ERROR Taxi.Order:48 - exception.IncorrectChoiceException: Incorrect Choice[Yes, No, No, No]
+  2022-12-06 14:12:29 INFO  Taxi.Order:56 - 22
+  2022-12-06 14:12:45 ERROR Taxi.Order:48 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
+  2022-12-06 14:12:45 INFO  Taxi.Order:56 - 27
+  2022-12-06 14:13:00 ERROR Taxi.Order:48 - exception.IncorrectChoiceException: Incorrect Choice
+  2022-12-06 14:13:00 INFO  Taxi.Order:56 - 27
+  2022-12-06 14:15:01 ERROR Taxi.Order:52 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
+  2022-12-06 14:15:01 INFO  Taxi.Order:54 - 22
+  2022-12-06 14:20:03 INFO  Taxi.Order:58 - 17
+  2022-12-06 14:20:36 INFO  Taxi.Order:58 - 17
+  2022-12-06 14:26:17 INFO  Taxi.Order:57 - 22
+  2022-12-06 14:26:27 INFO  Taxi.Order:57 - 22
+  2022-12-06 14:27:59 ERROR Taxi.Order:52 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yess, No, No]
+  2022-12-06 14:27:59 INFO  Taxi.Order:54 - 22
+  2022-12-06 14:28:08 ERROR Taxi.Order:52 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
+  2022-12-06 14:28:08 INFO  Taxi.Order:54 - 22
+  2022-12-06 14:30:01 ERROR Taxi.Order:54 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
+  2022-12-06 14:30:01 INFO  Taxi.Order:56 - 22
+  2022-12-06 14:32:00 ERROR Taxi.Order:54 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
+  2022-12-06 14:32:00 INFO  Taxi.Order:56 - 22
+  2022-12-06 14:36:03 ERROR Taxi.Order:59 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
+  2022-12-06 14:36:03 INFO  Taxi.Order:61 - 27
+  2022-12-06 14:36:13 ERROR Taxi.Order:59 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yess, No, No]
+  2022-12-06 14:36:13 INFO  Taxi.Order:61 - 22
+  2022-12-06 14:36:32 ERROR Taxi.Order:59 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, Yes, No]
+  2022-12-06 14:36:32 INFO  Taxi.Order:61 - 32
+  2022-12-06 14:37:25 ERROR Taxi.Order:59 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, Yes, No]
+  2022-12-06 14:37:25 INFO  Taxi.Order:61 - 32
+  2022-12-06 14:37:35 ERROR Taxi.Order:59 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, Yes, No]
+  2022-12-06 14:37:35 INFO  Taxi.Order:61 - 32
+  2022-12-06 14:39:07 INFO  Taxi.Order:60 - 32
+  2022-12-06 14:40:05 INFO  Taxi.Order:59 - 32
+  2022-12-06 14:40:51 INFO  Taxi.Order:62 - 32
+  2022-12-06 14:40:58 ERROR Taxi.Order:60 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, Yess, No]
+  2022-12-06 14:40:58 INFO  Taxi.Order:62 - 27
+2022-12-06 16:51:11 INFO  Order:64 - 32
+2022-12-06 16:51:11 INFO  Main:15 - good
+2022-12-06 16:51:41 INFO  Order:64 - 32
+2022-12-06 16:51:41 INFO  Client:42 - Taxi.Order created
+2022-12-06 16:51:41 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 16:51:41 INFO  Driver:35 - Driver on the way
+2022-12-06 16:52:27 INFO  Order:64 - Price 32
+2022-12-06 16:52:27 INFO  Client:42 - Taxi.Order created
+2022-12-06 16:52:27 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 16:52:27 INFO  Driver:35 - Driver on the way
+2022-12-06 16:54:50 INFO  Order:64 - Price 32
+2022-12-06 16:54:50 INFO  Client:42 - Taxi.Order created
+2022-12-06 16:54:50 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 16:54:50 INFO  Driver:35 - Driver on the way
+2022-12-06 16:55:13 INFO  Order:64 - Price 32
+2022-12-06 16:55:14 INFO  Client:42 - Taxi.Order created
+2022-12-06 16:55:14 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 16:55:14 INFO  Driver:35 - Driver on the way
+2022-12-06 16:55:14 INFO  Main:26 - FORD
+2022-12-06 16:57:07 INFO  Order:64 - Price 32
+2022-12-06 16:57:07 INFO  Client:42 - Taxi.Order created
+2022-12-06 16:57:07 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 16:57:07 INFO  Driver:35 - Driver on the way
+2022-12-06 16:57:07 INFO  Main:26 - FORD
+2022-12-06 16:57:07 INFO  Main:27 - Driver{licensesList=License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, drivingExperience=MEDIUM, knowledgeOfCity=MEDIUM} Person{dateOfBirth='1990-07-20', name='Jack', surname='Jonson', accessRights='Driver', phoneNumber=960909090, gender='MALE'}
+2022-12-06 16:57:29 INFO  Order:64 - Price 32
+2022-12-06 16:57:29 INFO  Client:42 - Taxi.Order created
+2022-12-06 16:57:29 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 16:57:29 INFO  Driver:35 - Driver on the way
+2022-12-06 16:57:29 INFO  Main:26 - FORD
+2022-12-06 16:57:29 INFO  Main:27 - Driver{licensesList=License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, drivingExperience=MEDIUM, knowledgeOfCity=MEDIUM} Person{dateOfBirth='1990-07-20', name='Jack', surname='Jonson', accessRights='Driver', phoneNumber=960909090, gender='MALE'}
+2022-12-06 16:58:07 INFO  Order:64 - Price 32
+2022-12-06 16:58:07 INFO  Client:42 - Taxi.Order created
+2022-12-06 16:58:07 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 16:58:07 INFO  Driver:35 - Driver on the way
+2022-12-06 16:58:07 INFO  Main:26 - FORD
+2022-12-06 16:58:07 INFO  Main:27 - 2025-08-11
+2022-12-06 16:58:34 INFO  Order:64 - Price 32
+2022-12-06 16:58:34 INFO  Client:42 - Taxi.Order created
+2022-12-06 16:58:34 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 16:58:34 INFO  Driver:35 - Driver on the way
+2022-12-06 16:58:34 INFO  Main:26 - FORD
+2022-12-06 16:58:34 INFO  Main:27 - Jack
+2022-12-06 16:58:34 INFO  Main:28 - 2025-08-11
+2022-12-06 16:59:00 INFO  Order:64 - Price 32
+2022-12-06 16:59:00 INFO  Client:42 - Taxi.Order created
+2022-12-06 16:59:00 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 16:59:00 INFO  Driver:35 - Driver on the way
+2022-12-06 16:59:00 INFO  Main:26 - FORD
+2022-12-06 16:59:00 INFO  Main:27 - Jack
+2022-12-06 16:59:00 INFO  Main:28 - MEDIUM
+2022-12-06 16:59:00 INFO  Main:29 - 2025-08-11
+2022-12-06 17:04:42 INFO  Order:64 - Price 32
+2022-12-06 17:04:42 INFO  Client:42 - Taxi.Order created
+2022-12-06 17:04:42 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 17:04:42 INFO  Driver:35 - Driver on the way
+2022-12-06 17:04:42 INFO  Main:27 - FORD
+2022-12-06 17:04:42 INFO  Main:28 - 1234
+2022-12-06 17:04:42 INFO  Main:29 - Jack
+2022-12-06 17:04:42 INFO  Main:30 - MEDIUM
+2022-12-06 17:04:42 INFO  Main:31 - 2025-08-11
+2022-12-06 17:13:16 INFO  Order:64 - Price 32
+2022-12-06 17:13:16 INFO  Client:42 - Taxi.Order created
+2022-12-06 17:13:16 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 17:13:16 INFO  Driver:35 - Driver on the way
+2022-12-06 17:13:16 INFO  Main:24 - FORD
+2022-12-06 17:13:16 INFO  Main:25 - 1234
+2022-12-06 17:13:16 INFO  Pickup:37 - Cargo mass acceptable
+2022-12-06 17:13:16 INFO  Main:28 - Jack
+2022-12-06 17:13:16 INFO  Main:29 - MEDIUM
+2022-12-06 17:13:16 INFO  Main:30 - 2025-08-11
+2022-12-06 17:15:00 INFO  Order:64 - Price 32
+2022-12-06 17:15:00 INFO  Client:42 - Taxi.Order created
+2022-12-06 17:15:00 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 17:15:00 INFO  Driver:35 - Driver on the way
+2022-12-06 17:15:00 INFO  Main:24 - FORD
+2022-12-06 17:15:00 INFO  Main:25 - 1234
+2022-12-06 17:15:00 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:15:00 INFO  Main:28 - Jack
+2022-12-06 17:15:00 INFO  Main:29 - MEDIUM
+2022-12-06 17:15:00 INFO  Main:30 - 2025-08-11
+2022-12-06 17:16:36 INFO  Order:64 - Price 32
+2022-12-06 17:16:36 INFO  Client:42 - Taxi.Order created
+2022-12-06 17:16:36 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 17:16:36 INFO  Driver:35 - Driver on the way
+2022-12-06 17:16:36 INFO  Main:24 - FORD
+2022-12-06 17:16:36 INFO  Main:25 - 1234
+2022-12-06 17:16:36 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:16:36 INFO  Main:27 - Jack
+2022-12-06 17:16:36 INFO  Main:28 - MEDIUM
+2022-12-06 17:16:36 INFO  Main:29 - 2025-08-11
+2022-12-06 17:16:49 INFO  Order:64 - Price 32
+2022-12-06 17:16:49 INFO  Client:42 - Taxi.Order created
+2022-12-06 17:16:49 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 17:16:49 INFO  Driver:35 - Driver on the way
+2022-12-06 17:16:49 INFO  Main:24 - FORD
+2022-12-06 17:16:49 INFO  Main:25 - 1234
+2022-12-06 17:16:49 INFO  Pickup:42 - Cargo mass acceptable
+2022-12-06 17:16:49 INFO  Main:27 - Jack
+2022-12-06 17:16:49 INFO  Main:28 - MEDIUM
+2022-12-06 17:16:49 INFO  Main:29 - 2025-08-11
+2022-12-06 17:24:25 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:24:25 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:24:25 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:24:25 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:24:25 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:24:25 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:24:25 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:24:25 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:24:25 INFO  Pickup:44 - exception.CargoOverloadingException: Too much cargo
+2022-12-06 17:24:25 INFO  Order:64 - Price 32
+2022-12-06 17:24:25 INFO  Client:42 - Taxi.Order created
+2022-12-06 17:24:25 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 17:24:25 INFO  Driver:35 - Driver on the way
+2022-12-06 17:24:25 INFO  Main:25 - FORD
+2022-12-06 17:24:25 INFO  Main:26 - 1234
+2022-12-06 17:24:25 INFO  Main:28 - Jack
+2022-12-06 17:24:25 INFO  Main:29 - MEDIUM
+2022-12-06 17:24:25 INFO  Main:30 - 2025-08-11
+2022-12-06 17:24:47 INFO  Pickup:42 - Cargo mass acceptable
+2022-12-06 17:24:47 INFO  Pickup:42 - Cargo mass acceptable
+2022-12-06 17:24:47 INFO  Pickup:42 - Cargo mass acceptable
+2022-12-06 17:24:47 INFO  Pickup:42 - Cargo mass acceptable
+2022-12-06 17:24:47 INFO  Pickup:42 - Cargo mass acceptable
+2022-12-06 17:24:47 INFO  Pickup:42 - Cargo mass acceptable
+2022-12-06 17:24:47 INFO  Pickup:42 - Cargo mass acceptable
+2022-12-06 17:24:47 INFO  Pickup:42 - Cargo mass acceptable
+2022-12-06 17:24:47 INFO  Pickup:42 - Cargo mass acceptable
+2022-12-06 17:24:47 INFO  Order:64 - Price 32
+2022-12-06 17:24:47 INFO  Client:42 - Taxi.Order created
+2022-12-06 17:24:47 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 17:24:47 INFO  Driver:35 - Driver on the way
+2022-12-06 17:24:47 INFO  Main:25 - FORD
+2022-12-06 17:24:47 INFO  Main:26 - 1234
+2022-12-06 17:24:47 INFO  Main:28 - Jack
+2022-12-06 17:24:47 INFO  Main:29 - MEDIUM
+2022-12-06 17:24:47 INFO  Main:30 - 2025-08-11
+2022-12-06 17:56:52 INFO  Taxi:36 - java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
+2022-12-06 18:05:00 INFO  Taxi:36 - java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
+2022-12-06 18:44:39 INFO  Order:64 - Price 32
+2022-12-06 18:44:39 INFO  Client:42 - Taxi.Order created
+2022-12-06 18:44:39 INFO  Dispatcher:39 - Taxi.Order confirmed
+2022-12-06 18:44:39 INFO  Driver:35 - Driver on the way
+2022-12-06 18:56:31 INFO  Order:64 - Price 32
+2022-12-06 18:56:31 INFO  Dispatcher:42 - stuff.Order not confirmed, try again
+2022-12-06 18:57:21 INFO  LicenseList:43 - License is valid 
+2022-12-06 18:57:21 INFO  LicenseList:45 - -1
+2022-12-06 18:57:21 INFO  LicenseList:43 - License is valid 
+2022-12-06 18:57:21 INFO  LicenseList:45 - -1
+2022-12-06 18:57:21 INFO  LicenseList:43 - License is valid 
+2022-12-06 18:57:21 INFO  LicenseList:45 - -1
+2022-12-06 18:57:40 INFO  LicenseList:43 - License is valid 0
+2022-12-06 18:57:40 INFO  LicenseList:45 - -1
+2022-12-06 18:57:40 INFO  LicenseList:43 - License is valid 1
+2022-12-06 18:57:40 INFO  LicenseList:45 - -1
+2022-12-06 18:57:40 INFO  LicenseList:43 - License is valid 2
+2022-12-06 18:57:40 INFO  LicenseList:45 - -1
+2022-12-06 18:58:11 INFO  LicenseList:43 - License is valid Jack
+2022-12-06 18:58:11 INFO  LicenseList:45 - -1
+2022-12-06 18:58:11 INFO  LicenseList:43 - License is valid John
+2022-12-06 18:58:11 INFO  LicenseList:45 - -1
+2022-12-06 18:58:11 INFO  LicenseList:43 - License is valid Ann
+2022-12-06 18:58:11 INFO  LicenseList:45 - -1
+2022-12-06 18:58:52 INFO  LicenseList:43 - Jack License is valid 
+2022-12-06 18:58:52 INFO  LicenseList:45 - -1
+2022-12-06 18:58:52 INFO  LicenseList:43 - John License is valid 
+2022-12-06 18:58:52 INFO  LicenseList:45 - -1
+2022-12-06 18:58:52 INFO  LicenseList:43 - Ann License is valid 
+2022-12-06 18:58:52 INFO  LicenseList:45 - -1
+2022-12-06 19:05:15 INFO  Driver:57 - Jack License is valid 
+2022-12-06 19:05:15 INFO  Driver:59 - -1
+2022-12-06 19:05:15 INFO  Driver:57 - John License is valid 
+2022-12-06 19:05:15 INFO  Driver:59 - -1
+2022-12-06 19:05:15 INFO  Driver:57 - Ann License is valid 
+2022-12-06 19:05:15 INFO  Driver:59 - -1
+2022-12-06 19:05:46 INFO  Driver:57 - Jack License is valid 
+2022-12-06 19:05:46 INFO  Driver:59 - -1
+2022-12-06 19:05:46 INFO  Driver:58 - John License is invalid
+2022-12-06 19:05:46 INFO  Driver:59 - 1
+2022-12-06 19:05:46 INFO  Driver:57 - Ann License is valid 
+2022-12-06 19:05:46 INFO  Driver:59 - -1
+2022-12-06 19:05:57 INFO  Driver:57 - Jack License is valid 
+2022-12-06 19:05:57 INFO  Driver:59 - -1
+2022-12-06 19:05:57 INFO  Driver:57 - John License is valid 
+2022-12-06 19:05:57 INFO  Driver:59 - -1
+2022-12-06 19:05:57 INFO  Driver:57 - Ann License is valid 
+2022-12-06 19:05:57 INFO  Driver:59 - -1
+2022-12-06 19:08:02 INFO  Driver:57 - Jack License is valid 
+2022-12-06 19:08:02 INFO  Driver:59 - -1
+2022-12-06 19:08:02 INFO  Driver:57 - John License is valid 
+2022-12-06 19:08:02 INFO  Driver:59 - -1
+2022-12-06 19:08:02 INFO  Driver:57 - Ann License is valid 
+2022-12-06 19:08:02 INFO  Driver:59 - -1
+2022-12-06 19:08:33 INFO  Main:23 - B
+2022-12-06 19:19:10 INFO  Driver:57 - Jack License is valid 
+2022-12-06 19:19:10 INFO  Driver:59 - -1
+2022-12-06 19:19:10 INFO  Driver:57 - John License is valid 
+2022-12-06 19:19:10 INFO  Driver:59 - -1
+2022-12-06 19:19:10 INFO  Driver:57 - Ann License is valid 
+2022-12-06 19:19:10 INFO  Driver:59 - -1
+2022-12-06 19:40:04 INFO  Driver:57 - Jack License is valid 
+2022-12-06 19:40:04 INFO  Driver:59 - -1
+2022-12-06 19:40:04 INFO  Driver:57 - John License is valid 
+2022-12-06 19:40:04 INFO  Driver:59 - -1
+2022-12-06 19:40:04 INFO  Driver:57 - Ann License is valid 
+2022-12-06 19:40:04 INFO  Driver:59 - -1
+2022-12-06 19:41:30 INFO  Driver:57 - Jack License is valid 
+2022-12-06 19:41:30 INFO  Driver:59 - -1
+2022-12-06 19:41:30 INFO  Driver:58 - John License is invalid
+2022-12-06 19:41:30 INFO  Driver:59 - 1
+2022-12-06 19:41:30 INFO  Driver:57 - Ann License is valid 
+2022-12-06 19:41:30 INFO  Driver:59 - -1
+2022-12-06 19:49:27 INFO  Order:64 - Price 32
+2022-12-06 19:49:27 INFO  Main:21 - 32
+2022-12-06 19:49:55 INFO  Order:64 - Price 27
+2022-12-06 19:49:55 INFO  Main:21 - 27
+2022-12-06 19:50:10 ERROR Order:62 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, Nojjj, No]
+2022-12-06 19:50:10 INFO  Order:64 - Price 27
+2022-12-06 19:50:10 INFO  Main:21 - 27
+2022-12-06 19:53:52 INFO  Order:64 - Price 32
+2022-12-06 19:53:52 INFO  Client:42 - stuff.Order created
+2022-12-06 19:53:52 INFO  Dispatcher:39 - Order confirmed
+2022-12-06 19:53:52 INFO  Driver:40 - Driver on the way
+2022-12-06 19:53:52 INFO  Main:28 - FORD
+2022-12-06 19:53:52 INFO  Main:29 - 1234
+2022-12-06 19:53:52 INFO  Main:30 - Jack
+2022-12-06 19:53:52 INFO  Main:31 - MEDIUM
+2022-12-06 19:53:52 INFO  Main:32 - 2025-08-11
+2022-12-07 12:44:58 INFO  Order:64 - Price 32
+2022-12-07 12:44:58 INFO  Client:42 - stuff.Order created
+2022-12-07 12:44:58 INFO  Dispatcher:39 - Order confirmed
+2022-12-07 12:44:58 INFO  Driver:40 - Driver on the way
+2022-12-07 12:44:58 INFO  Main:28 - FORD
+2022-12-07 12:44:58 INFO  Main:29 - 1234
+2022-12-07 12:44:58 INFO  Main:30 - PICKUP
+2022-12-07 12:44:58 INFO  Main:31 - Jack
+2022-12-07 12:44:58 INFO  Main:32 - MEDIUM
+2022-12-07 12:44:58 INFO  Main:33 - 2025-08-11
+2022-12-07 12:45:20 INFO  Main:30 - PICKUP
+2022-12-07 12:45:41 INFO  Main:30 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-07 12:46:44 INFO  Main:30 - 5
+2022-12-07 12:48:58 INFO  Main:30 - [Ljava.lang.reflect.Field;@5ed828d
+2022-12-07 12:49:07 INFO  Main:30 - class Car.Pickup
+2022-12-07 12:50:43 INFO  Main:30 - class Car.Pickup
+2022-12-07 12:52:31 INFO  Main:30 - [Ljava.lang.reflect.Field;@5ed828d
+2022-12-07 12:52:43 INFO  Main:30 - [Ljava.lang.reflect.Field;@5f3a4b84
+2022-12-07 12:53:22 INFO  Main:30 - 2
+2022-12-07 13:40:53 INFO  Order:64 - Price 32
+2022-12-07 13:40:53 INFO  Client:42 - stuff.Order created
+2022-12-07 13:40:53 INFO  Order:64 - Price 32
+2022-12-07 13:40:53 INFO  Client:42 - stuff.Order created
+2022-12-07 13:40:53 INFO  Dispatcher:39 - Order confirmed
+2022-12-07 13:40:53 INFO  Order:64 - Price 32
+2022-12-07 13:40:53 INFO  Client:42 - stuff.Order created
+2022-12-07 13:40:53 INFO  Dispatcher:39 - Order confirmed
+2022-12-07 13:40:53 INFO  Driver:40 - Driver on the way
+2022-12-07 13:40:53 INFO  Order:64 - Price 32
+2022-12-07 13:40:53 INFO  Client:42 - stuff.Order created
+2022-12-07 13:40:53 INFO  Dispatcher:39 - Order confirmed
+2022-12-07 13:40:53 INFO  Driver:40 - Driver on the way
+2022-12-07 14:17:08 INFO  Order:72 - Price 32
+2022-12-07 14:19:05 INFO  Order:72 - Price 32
+2022-12-07 14:19:50 INFO  Order:72 - Price 32
+2022-12-07 14:20:47 INFO  Order:72 - Price 32
+2022-12-07 14:20:58 INFO  Order:72 - Price 32
+2022-12-07 14:22:44 INFO  Order:72 - Price 32
+2022-12-07 14:28:19 INFO  Order:72 - Price 32
+2022-12-07 14:28:20 INFO  Client:41 - Order created
+2022-12-07 14:28:53 INFO  Order:72 - Price 32
+2022-12-07 14:28:53 INFO  Client:41 - Order created
+2022-12-07 14:29:20 INFO  Order:72 - Price 32
+2022-12-07 14:29:20 INFO  Client:41 - Order created
+2022-12-07 14:29:20 INFO  Order:72 - Price 32
+2022-12-07 14:30:28 INFO  Order:72 - Price 32
+2022-12-07 14:30:28 INFO  Client:41 - Order created
+2022-12-07 14:33:51 INFO  Order:72 - Price 32
+2022-12-07 14:33:51 INFO  Client:41 - Order created
+2022-12-07 14:33:51 INFO  Order:72 - Price 32
+2022-12-07 14:33:51 INFO  Client:41 - Order created
+2022-12-07 14:33:51 INFO  Dispatcher:42 - Order confirmed
+2022-12-07 14:35:31 INFO  Order:72 - Price 32
+2022-12-07 14:35:31 INFO  Client:41 - Order created
+2022-12-07 14:35:31 INFO  Order:72 - Price 32
+2022-12-07 14:35:31 INFO  Client:41 - Order created
+2022-12-07 14:35:31 INFO  Dispatcher:42 - Order confirmed
+2022-12-07 14:36:48 INFO  Order:72 - Price 32
+2022-12-07 14:36:48 INFO  Client:41 - Order created
+2022-12-07 14:36:48 INFO  Order:72 - Price 32
+2022-12-07 14:36:48 INFO  Client:41 - Order created
+2022-12-07 14:36:48 INFO  Dispatcher:42 - Order confirmed
+2022-12-07 14:37:07 INFO  Order:72 - Price 32
+2022-12-07 14:37:07 INFO  Client:41 - Order created
+2022-12-07 14:37:07 INFO  Order:72 - Price 32
+2022-12-07 14:37:07 INFO  Client:41 - Order created
+2022-12-07 14:37:07 INFO  Dispatcher:42 - Order confirmed
+2022-12-07 14:37:07 INFO  Order:72 - Price 32
+2022-12-07 14:37:07 INFO  Client:41 - Order created
+2022-12-07 14:37:07 INFO  Dispatcher:42 - Order confirmed
+2022-12-07 14:37:07 INFO  Driver:41 - Driver on the way
+2022-12-07 14:38:27 INFO  Order:72 - Price 32
+2022-12-07 14:38:27 INFO  Client:41 - Order created
+2022-12-07 14:38:27 INFO  Order:72 - Price 32
+2022-12-07 14:38:27 INFO  Client:41 - Order created
+2022-12-07 14:38:27 INFO  Dispatcher:42 - Order confirmed
+2022-12-07 14:38:27 INFO  Order:72 - Price 32
+2022-12-07 14:38:27 INFO  Client:41 - Order created
+2022-12-07 14:38:27 INFO  Dispatcher:42 - Order confirmed
+2022-12-07 14:38:27 INFO  Driver:41 - Driver on the way
+2022-12-07 14:44:58 INFO  Order:72 - Price 32
+2022-12-07 14:44:58 INFO  Client:41 - Order created
+2022-12-07 14:45:12 INFO  Order:72 - Price 32
+2022-12-07 14:45:12 INFO  Client:41 - Order created
+2022-12-07 14:45:12 INFO  Order:72 - Price 32
+2022-12-07 14:45:12 INFO  Client:41 - Order created
+2022-12-07 14:45:12 INFO  Dispatcher:42 - Order confirmed
+2022-12-07 14:45:12 INFO  Order:72 - Price 32
+2022-12-07 14:45:12 INFO  Client:41 - Order created
+2022-12-07 14:45:12 INFO  Dispatcher:42 - Order confirmed
+2022-12-07 14:45:12 INFO  Driver:41 - Driver on the way
+2022-12-07 14:45:50 INFO  Order:72 - Price 32
+2022-12-07 14:45:50 INFO  Client:41 - Order created
+2022-12-07 14:45:50 INFO  Dispatcher:42 - Order confirmed
+2022-12-07 14:45:50 INFO  Driver:41 - Driver on the way
+2022-12-07 14:47:36 INFO  Order:72 - Price 27
+2022-12-07 14:47:36 INFO  Client:41 - Order created
+2022-12-07 14:47:36 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 14:47:36 INFO  Driver:41 - Driver on the way
+2022-12-07 14:49:35 INFO  Order:72 - Price 27
+2022-12-07 14:49:35 INFO  Client:41 - Order created
+2022-12-07 14:49:35 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 14:49:35 INFO  Driver:41 - Driver on the way
+2022-12-07 14:49:35 INFO  Main:40 - FORD
+2022-12-07 14:49:35 INFO  Main:41 - 1234
+2022-12-07 14:49:35 INFO  Main:43 - Jack
+2022-12-07 14:49:35 INFO  Main:44 - MEDIUM
+2022-12-07 14:49:35 INFO  Main:45 - 2025-08-11
+2022-12-07 14:53:04 INFO  Order:72 - Price 27
+2022-12-07 14:53:04 INFO  Client:41 - Order created
+2022-12-07 14:53:04 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 14:53:04 INFO  Driver:41 - Driver on the way
+2022-12-07 14:53:04 INFO  Main:31 - FORD
+2022-12-07 14:53:04 INFO  Main:32 - 1234
+2022-12-07 14:53:04 INFO  Main:33 - Jack
+2022-12-07 14:53:04 INFO  Main:34 - MEDIUM
+2022-12-07 14:53:04 INFO  Main:35 - 2025-08-11
+2022-12-07 14:55:52 INFO  Order:72 - Price 27
+2022-12-07 14:55:52 INFO  Client:41 - Order created
+2022-12-07 14:55:52 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 14:55:52 INFO  Driver:41 - Driver on the way
+2022-12-07 14:55:52 INFO  Main:30 - FORD
+2022-12-07 14:55:52 INFO  Main:31 - 1234
+2022-12-07 14:55:52 INFO  Main:32 - Jack
+2022-12-07 14:55:52 INFO  Main:33 - MEDIUM
+2022-12-07 14:55:52 INFO  Main:34 - 2025-08-11
+2022-12-07 14:56:37 INFO  Order:72 - Price 27
+2022-12-07 14:56:37 INFO  Client:41 - Order created
+2022-12-07 14:56:37 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 14:56:37 INFO  Driver:41 - Driver on the way
+2022-12-07 14:56:37 INFO  Main:30 - FORD
+2022-12-07 14:56:37 INFO  Main:31 - 1234
+2022-12-07 14:56:37 INFO  Main:32 - Jack
+2022-12-07 14:56:37 INFO  Main:33 - MEDIUM
+2022-12-07 14:56:37 INFO  Main:34 - 2025-08-11
+2022-12-07 15:05:38 INFO  Order:72 - Price 27
+2022-12-07 15:05:38 INFO  Client:41 - Order created
+2022-12-07 15:05:38 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:05:38 INFO  Driver:41 - Driver on the way
+2022-12-07 15:05:38 INFO  Main:28 - FORD
+2022-12-07 15:05:38 INFO  Main:29 - 1234
+2022-12-07 15:05:38 INFO  Main:30 - Jack
+2022-12-07 15:05:38 INFO  Main:31 - MEDIUM
+2022-12-07 15:05:38 INFO  Main:32 - 2025-08-11
+2022-12-07 15:06:03 INFO  Order:72 - Price 27
+2022-12-07 15:06:03 INFO  Client:41 - Order created
+2022-12-07 15:06:03 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:06:03 INFO  Driver:41 - Driver on the way
+2022-12-07 15:06:03 INFO  Main:28 - FORD
+2022-12-07 15:06:03 INFO  Main:29 - 2552
+2022-12-07 15:06:03 INFO  Main:30 - John
+2022-12-07 15:06:03 INFO  Main:31 - MEDIUM
+2022-12-07 15:06:03 INFO  Main:32 - 2026-04-23
+2022-12-07 15:10:34 ERROR Order:70 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, Noo, No]
+2022-12-07 15:10:34 INFO  Order:72 - Price 27
+2022-12-07 15:10:34 INFO  Client:41 - Order created
+2022-12-07 15:10:34 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:10:34 INFO  Driver:41 - Driver on the way
+2022-12-07 15:10:34 INFO  Main:28 - FORD
+2022-12-07 15:10:34 INFO  Main:29 - 2552
+2022-12-07 15:10:34 INFO  Main:30 - John
+2022-12-07 15:10:34 INFO  Main:31 - MEDIUM
+2022-12-07 15:10:34 INFO  Main:32 - 2026-04-23
+2022-12-07 15:11:41 INFO  Order:72 - Price 27
+2022-12-07 15:11:41 INFO  Client:41 - Order created
+2022-12-07 15:11:41 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:11:41 INFO  Driver:41 - Driver on the way
+2022-12-07 15:11:41 INFO  Main:28 - FORD
+2022-12-07 15:11:41 INFO  Main:29 - 2552
+2022-12-07 15:11:41 INFO  Main:30 - John
+2022-12-07 15:11:41 INFO  Main:31 - MEDIUM
+2022-12-07 15:11:41 INFO  Main:32 - 2026-04-23
+2022-12-07 15:12:29 INFO  Order:72 - Price 27
+2022-12-07 15:12:29 INFO  Client:41 - Order created
+2022-12-07 15:12:29 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:12:29 INFO  Driver:41 - Driver on the way
+2022-12-07 15:12:29 INFO  Main:28 - FORD
+2022-12-07 15:12:29 INFO  Main:29 - 2552
+2022-12-07 15:12:29 INFO  Main:30 - John
+2022-12-07 15:12:29 INFO  Main:31 - MEDIUM
+2022-12-07 15:12:29 INFO  Main:32 - 2026-04-23
+2022-12-07 15:12:53 INFO  Order:73 - Price 0
+2022-12-07 15:12:53 INFO  Dispatcher:43 - Order not confirmed, try again
+2022-12-07 15:12:53 INFO  Main:28 - FORD
+2022-12-07 15:12:53 INFO  Main:29 - 2552
+2022-12-07 15:12:53 INFO  Main:30 - John
+2022-12-07 15:12:53 INFO  Main:31 - MEDIUM
+2022-12-07 15:12:53 INFO  Main:32 - 2026-04-23
+2022-12-07 15:13:49 INFO  Order:73 - Price 0
+2022-12-07 15:13:49 INFO  Dispatcher:43 - Order not confirmed, try again
+2022-12-07 15:13:49 INFO  Order:73 - Price 0
+2022-12-07 15:13:49 INFO  Dispatcher:43 - Order not confirmed, try again
+2022-12-07 15:15:32 INFO  Order:73 - Price 0
+2022-12-07 15:15:32 INFO  Dispatcher:43 - Order not confirmed, try again
+2022-12-07 15:16:06 ERROR Order:71 - exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, Nod, No]
+2022-12-07 15:16:07 INFO  Order:73 - Price 0
+2022-12-07 15:16:07 INFO  Dispatcher:43 - Order not confirmed, try again
+2022-12-07 15:16:17 INFO  Order:73 - Price 27
+2022-12-07 15:16:17 INFO  Client:41 - Order created
+2022-12-07 15:16:17 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:16:17 INFO  Order:73 - Price 27
+2022-12-07 15:16:17 INFO  Client:41 - Order created
+2022-12-07 15:16:17 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:16:17 INFO  Driver:41 - Driver on the way
+2022-12-07 15:16:17 INFO  Main:29 - FORD
+2022-12-07 15:16:17 INFO  Main:30 - 2552
+2022-12-07 15:16:17 INFO  Main:31 - John
+2022-12-07 15:16:17 INFO  Main:32 - MEDIUM
+2022-12-07 15:16:17 INFO  Main:33 - 2026-04-23
+2022-12-07 15:17:08 INFO  Order:73 - Price 27
+2022-12-07 15:17:08 INFO  Client:41 - Order created
+2022-12-07 15:17:08 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:17:20 INFO  Order:73 - Price 27
+2022-12-07 15:17:20 INFO  Client:41 - Order created
+2022-12-07 15:17:20 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:17:20 INFO  Order:73 - Price 27
+2022-12-07 15:17:20 INFO  Client:41 - Order created
+2022-12-07 15:17:20 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:17:20 INFO  Driver:41 - Driver on the way
+2022-12-07 15:17:20 INFO  Main:29 - FORD
+2022-12-07 15:17:20 INFO  Main:30 - 2552
+2022-12-07 15:17:20 INFO  Main:31 - John
+2022-12-07 15:17:20 INFO  Main:32 - MEDIUM
+2022-12-07 15:17:20 INFO  Main:33 - 2026-04-23
+2022-12-07 15:18:08 INFO  Order:73 - Price 27
+2022-12-07 15:18:08 INFO  Client:41 - Order created
+2022-12-07 15:18:08 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:18:08 INFO  Order:73 - Price 27
+2022-12-07 15:18:08 INFO  Client:41 - Order created
+2022-12-07 15:18:08 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:18:08 INFO  Driver:41 - Driver on the way
+2022-12-07 15:18:08 INFO  Main:29 - FORD
+2022-12-07 15:18:08 INFO  Main:30 - 2552
+2022-12-07 15:18:08 INFO  Main:31 - John
+2022-12-07 15:18:08 INFO  Main:32 - MEDIUM
+2022-12-07 15:18:08 INFO  Main:33 - 2026-04-23
+2022-12-07 15:18:45 INFO  Order:73 - Price 27
+2022-12-07 15:18:45 INFO  Order:73 - Price 27
+2022-12-07 15:18:45 INFO  Client:41 - Order created
+2022-12-07 15:18:45 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:18:45 INFO  Driver:41 - Driver on the way
+2022-12-07 15:18:45 INFO  Main:29 - FORD
+2022-12-07 15:18:45 INFO  Main:30 - 2552
+2022-12-07 15:18:45 INFO  Main:31 - John
+2022-12-07 15:18:45 INFO  Main:32 - MEDIUM
+2022-12-07 15:18:45 INFO  Main:33 - 2026-04-23
+2022-12-07 15:20:02 INFO  Client:41 - Order created
+2022-12-07 15:20:02 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:20:02 INFO  Driver:41 - Driver on the way
+2022-12-07 15:20:02 INFO  Main:29 - Price 27
+2022-12-07 15:20:02 INFO  Main:30 - FORD
+2022-12-07 15:20:02 INFO  Main:31 - 2552
+2022-12-07 15:20:02 INFO  Main:32 - John
+2022-12-07 15:20:02 INFO  Main:33 - MEDIUM
+2022-12-07 15:20:02 INFO  Main:34 - 2026-04-23
+2022-12-07 15:20:35 INFO  Main:21 - Price 27
+2022-12-07 15:20:35 INFO  Client:41 - Order created
+2022-12-07 15:20:35 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:20:35 INFO  Driver:41 - Driver on the way
+2022-12-07 15:20:35 INFO  Main:30 - FORD
+2022-12-07 15:20:35 INFO  Main:31 - 2552
+2022-12-07 15:20:35 INFO  Main:32 - John
+2022-12-07 15:20:35 INFO  Main:33 - MEDIUM
+2022-12-07 15:20:35 INFO  Main:34 - 2026-04-23
+2022-12-07 15:20:52 INFO  Client:41 - Order created
+2022-12-07 15:20:52 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:20:52 INFO  Driver:41 - Driver on the way
+2022-12-07 15:20:52 INFO  Main:29 - Price 27
+2022-12-07 15:20:52 INFO  Main:30 - FORD
+2022-12-07 15:20:52 INFO  Main:31 - 2552
+2022-12-07 15:20:52 INFO  Main:32 - John
+2022-12-07 15:20:52 INFO  Main:33 - MEDIUM
+2022-12-07 15:20:52 INFO  Main:34 - 2026-04-23
+2022-12-07 15:24:37 INFO  Client:41 - Order created
+2022-12-07 15:24:37 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:24:37 INFO  Driver:41 - Driver on the way
+2022-12-07 15:24:37 INFO  Main:28 - Price - 27
+2022-12-07 15:24:37 INFO  Main:29 - Car model - FORD
+2022-12-07 15:24:37 INFO  Main:30 - Car number - 2552
+2022-12-07 15:24:37 INFO  Main:31 - Driver name - John
+2022-12-07 15:24:37 INFO  Main:32 - Driver knowledge of city Level - MEDIUM
+2022-12-07 15:24:37 INFO  Main:33 - Driver license expired date - 2026-04-23
+2022-12-07 15:25:50 INFO  Client:41 - Order created
+2022-12-07 15:25:50 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:25:50 INFO  Driver:41 - Driver on the way
+2022-12-07 15:25:50 INFO  Main:28 - Price - 27
+2022-12-07 15:25:50 INFO  Main:29 - Car model - FORD
+2022-12-07 15:25:50 INFO  Main:30 - Car number - 2552
+2022-12-07 15:25:50 INFO  Main:31 - Driver name - John
+2022-12-07 15:25:50 INFO  Main:32 - Driver phone number - 970756443
+2022-12-07 15:25:50 INFO  Main:33 - Driver knowledge of city Level - MEDIUM
+2022-12-07 15:25:50 INFO  Main:34 - Driver license expired date - 2026-04-23
+2022-12-07 15:26:12 INFO  Client:41 - Order created
+2022-12-07 15:26:12 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:26:12 INFO  Driver:41 - Driver on the way
+2022-12-07 15:26:12 INFO  Main:28 - Price - 27
+2022-12-07 15:26:12 INFO  Main:29 - Car model - FORD
+2022-12-07 15:26:12 INFO  Main:30 - Car number - 2552
+2022-12-07 15:26:12 INFO  Main:31 - Driver name - John
+2022-12-07 15:26:12 INFO  Main:32 - Driver phone number - +380970756443
+2022-12-07 15:26:12 INFO  Main:33 - Driver knowledge of city Level - MEDIUM
+2022-12-07 15:26:12 INFO  Main:34 - Driver license expired date - 2026-04-23
+2022-12-07 15:35:04 INFO  Client:41 - Order created
+2022-12-07 15:35:04 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 15:35:04 INFO  Driver:41 - Driver on the way
+2022-12-07 15:35:04 INFO  Main:28 - Price - 27
+2022-12-07 15:35:04 INFO  Main:29 - Car model - FORD
+2022-12-07 15:35:04 INFO  Main:30 - Car number - 2552
+2022-12-07 15:35:04 INFO  Main:31 - Driver name - John
+2022-12-07 15:35:04 INFO  Main:32 - Driver phone number - +380970756443
+2022-12-07 15:35:04 INFO  Main:33 - Driver knowledge of city Level - MEDIUM
+2022-12-07 15:35:04 INFO  Main:34 - Driver license expired date - 2026-04-23
+2022-12-07 15:58:31 INFO  Main:39 - Driver name - John
+2022-12-07 16:03:15 INFO  Main:42 -
+2022-12-07 16:03:42 INFO  Driver:78 - 106527600000
+2022-12-07 16:03:42 INFO  Main:42 -
+2022-12-07 16:11:18 INFO  Driver:83 - 1232
+2022-12-07 16:11:18 INFO  Main:42 -
+2022-12-07 16:12:13 INFO  Driver:83 - 3
+2022-12-07 16:12:13 INFO  Main:42 -
+2022-12-07 16:12:52 INFO  Driver:83 - 3.0
+2022-12-07 16:12:52 INFO  Main:42 -
+2022-12-07 16:14:45 INFO  Driver:85 - 3 0
+2022-12-07 16:14:45 INFO  Main:42 -
+2022-12-07 16:15:03 INFO  Driver:85 - 3 0.0
+2022-12-07 16:15:03 INFO  Main:42 -
+2022-12-07 18:01:29 INFO  Driver:85 - 1232
+2022-12-07 18:01:29 INFO  Main:42 -
+2022-12-07 18:02:15 INFO  Driver:85 - 977
+2022-12-07 18:02:15 INFO  Main:42 -
+2022-12-07 18:06:06 INFO  Driver:85 - 2 0.0
+2022-12-07 18:06:06 INFO  Main:42 -
+2022-12-07 18:15:19 INFO  Driver:85 - 247 20.0
+2022-12-07 18:15:19 INFO  Main:42 -
+2022-12-07 18:18:22 INFO  Driver:85 - 2 0.0
+2022-12-07 18:18:22 INFO  Main:42 -
+2022-12-07 18:18:32 INFO  Driver:85 - 2 0
+2022-12-07 18:18:32 INFO  Main:42 -
+2022-12-07 18:18:52 INFO  Driver:85 - 247 8
+2022-12-07 18:18:52 INFO  Main:42 -
+2022-12-07 18:19:16 INFO  Driver:85 - 2  0
+2022-12-07 18:19:16 INFO  Main:42 -
+2022-12-07 18:20:19 INFO  Driver:85 - 2  8
+2022-12-07 18:20:19 INFO  Main:42 -
+2022-12-07 18:23:25 INFO  Driver:86 - 2  8 7
+2022-12-07 18:23:25 INFO  Main:42 -
+2022-12-07 18:23:42 INFO  Driver:86 - 2  7 30
+2022-12-07 18:23:42 INFO  Main:42 -
+2022-12-07 18:27:44 INFO  Driver:86 - 2  7 7
+2022-12-07 18:27:44 INFO  Main:42 -
+2022-12-07 18:28:52 INFO  Driver:86 - 2  7 30
+2022-12-07 18:28:52 INFO  Main:42 -
+2022-12-07 18:29:20 INFO  Driver:85 - 977
+2022-12-07 18:29:20 INFO  Driver:86 - 2  7 30
+2022-12-07 18:29:20 INFO  Main:42 -
+2022-12-07 18:32:52 INFO  Driver:85 - 977
+2022-12-07 18:32:52 INFO  Driver:86 - 2 year(s), 7 month(es),  30 day(s)
+2022-12-07 18:32:52 INFO  Main:42 -
+2022-12-07 18:35:44 INFO  Main:41 - Jack
+2022-12-07 18:35:44 INFO  Main:42 - 2025-08-11
+2022-12-07 18:35:45 INFO  Driver:85 - 2 year(s), 7 month(s),  30 day(s)
+2022-12-07 18:35:45 INFO  Main:43 -
+2022-12-07 18:36:34 INFO  Main:41 - Jack
+2022-12-07 18:36:34 INFO  Main:42 - 2025-08-11
+2022-12-07 18:36:34 INFO  Driver:85 - 2 year(s), 7 month(s),  30 day(s)
+2022-12-07 18:37:06 INFO  Main:41 - John
+2022-12-07 18:37:06 INFO  Main:42 - 2026-04-23
+2022-12-07 18:37:06 INFO  Driver:85 - 3 year(s), 4 month(s),  13 day(s)
+2022-12-07 18:39:40 INFO  Main:41 - Ann
+2022-12-07 18:39:40 INFO  Main:42 - 2023-03-16
+2022-12-07 18:39:41 INFO  Driver:85 - 0 year(s), 3 month(s),  6 day(s)
+2022-12-07 18:43:17 INFO  Main:41 - Jack
+2022-12-07 18:43:17 INFO  Main:42 - 2025-08-11
+2022-12-07 18:43:17 INFO  Driver:85 - 2 year(s), 7 month(s),  30 day(s)
+2022-12-07 18:43:35 INFO  Main:41 - John
+2022-12-07 18:43:35 INFO  Main:42 - 2026-04-23
+2022-12-07 18:43:35 INFO  Driver:85 - 3 year(s), 4 month(s),  13 day(s)
+2022-12-07 18:58:29 INFO  Main:41 - John
+2022-12-07 18:58:29 INFO  Main:42 - 2026-04-23
+2022-12-07 18:58:29 INFO  Driver:91 - -23
+2022-12-07 18:59:09 INFO  Main:41 - John
+2022-12-07 18:59:09 INFO  Main:42 - 2026-04-23
+2022-12-07 18:59:09 INFO  Driver:91 - 23
+2022-12-07 19:00:27 INFO  Main:41 - John
+2022-12-07 19:00:27 INFO  Main:42 - 2026-04-23
+2022-12-07 19:00:32 INFO  Main:41 - John
+2022-12-07 19:00:32 INFO  Main:42 - 2026-04-23
+2022-12-07 19:00:40 INFO  Main:41 - John
+2022-12-07 19:00:40 INFO  Main:42 - 2026-04-23
+2022-12-07 19:01:01 INFO  Main:41 - John
+2022-12-07 19:01:01 INFO  Main:42 - 2026-04-23
+2022-12-07 19:01:14 INFO  Main:41 - John
+2022-12-07 19:01:14 INFO  Main:42 - 2026-04-23
+2022-12-07 19:01:27 INFO  Main:41 - John
+2022-12-07 19:01:27 INFO  Main:42 - 2026-04-23
+2022-12-07 19:01:27 INFO  Driver:91 - 3 4 16
+2022-12-07 19:02:36 INFO  Main:41 - John
+2022-12-07 19:02:36 INFO  Main:42 - 2026-04-23
+2022-12-07 19:02:36 INFO  Driver:91 - 3 year(s), 4 month(s), 16 day(s)
+2022-12-07 19:03:30 INFO  Main:41 - Ann
+2022-12-07 19:03:30 INFO  Main:42 - 2023-03-16
+2022-12-07 19:03:31 INFO  Driver:91 - 0 year(s), 3 month(s), 9 day(s)
+2022-12-07 19:17:08 INFO  Main:41 - Ann
+2022-12-07 19:17:08 INFO  Main:42 - 2023-03-16
+2022-12-07 19:17:08 INFO  Driver:81 - 0 year(s), 3 month(s), 9 day(s)
+2022-12-07 19:26:10 INFO  Main:42 - Ann
+2022-12-07 19:26:10 INFO  Main:43 - 2023-03-16
+2022-12-07 19:26:10 INFO  Driver:79 - 0 year(s), 3 month(s), 9 day(s)
+2022-12-07 19:27:42 INFO  Main:42 - Ann
+2022-12-07 19:27:42 INFO  Main:43 - 2023-03-16
+2022-12-07 19:27:42 INFO  Driver:79 - 0 year(s), 3 month(s), 9 day(s)
+2022-12-07 19:27:54 INFO  Main:42 - Ann
+2022-12-07 19:27:54 INFO  Main:43 - 2023-03-16
+2022-12-07 19:27:54 INFO  Driver:79 - 0 year(s), 3 month(s), 9 day(s)
+2022-12-07 19:29:14 INFO  Main:42 - Ann
+2022-12-07 19:29:14 INFO  Main:43 - 2023-03-16
+2022-12-07 19:29:14 INFO  Driver:79 - 0 year(s), 3 month(s), 9 day(s)
+2022-12-07 19:30:34 INFO  Main:42 - Ann
+2022-12-07 19:30:34 INFO  Main:43 - 2023-03-16
+2022-12-07 19:30:34 INFO  Driver:79 - 0 year(s), 3 month(s), 9 day(s)
+2022-12-07 20:14:54 INFO  Main:42 - Ann
+2022-12-07 20:14:54 INFO  Main:43 - 2023-03-16
+2022-12-07 20:14:54 INFO  Driver:79 - 0 year(s), 3 month(s), 9 day(s)
+2022-12-07 20:17:15 INFO  Main:42 - Ann
+2022-12-07 20:17:15 INFO  Main:43 - 2023-03-16
+2022-12-07 20:17:15 INFO  Driver:86 - 0 year(s), 3 month(s),  6 day(s)
+2022-12-07 20:17:15 INFO  Driver:91 - 0 year(s), 3 month(s), 9 day(s)
+2022-12-07 20:18:04 INFO  Main:42 - Jack
+2022-12-07 20:18:04 INFO  Main:43 - 2025-08-11
+2022-12-07 20:18:04 INFO  Driver:86 - 2 year(s), 7 month(s),  30 day(s)
+2022-12-07 20:18:04 INFO  Driver:91 - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 20:19:04 INFO  Main:42 - Jack
+2022-12-07 20:19:04 INFO  Main:43 - 2025-08-11
+2022-12-07 20:19:04 INFO  Driver:80 - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 20:21:18 INFO  Client:41 - Order created
+2022-12-07 20:21:18 INFO  Dispatcher:40 - Order confirmed
+2022-12-07 20:21:18 INFO  Driver:44 - Driver on the way
+2022-12-07 20:21:18 INFO  Main:29 - Price - 27
+2022-12-07 20:21:18 INFO  Main:30 - Car model - FORD
+2022-12-07 20:21:18 INFO  Main:31 - Car number - 1234
+2022-12-07 20:21:18 INFO  Main:32 - Driver name - Jack
+2022-12-07 20:21:18 INFO  Main:33 - Driver phone number - +380960909090
+2022-12-07 20:21:18 INFO  Main:34 - Driver knowledge of city Level - MEDIUM
+2022-12-07 20:21:18 INFO  Main:35 - Driver license expired date - 2025-08-11
+2022-12-07 20:21:19 INFO  Driver:80 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:13:35 INFO  Client:41 - Order created
+2022-12-07 21:13:35 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:13:35 INFO  Driver:42 - Driver on the way
+2022-12-07 21:13:35 INFO  Main:32 - Price - 27
+2022-12-07 21:13:35 INFO  Main:33 - Car model - FORD
+2022-12-07 21:13:35 INFO  Main:34 - Car number - 1234
+2022-12-07 21:13:35 INFO  Main:35 - Driver name - Jack
+2022-12-07 21:13:35 INFO  Main:36 - Driver phone number - +380960909090
+2022-12-07 21:13:35 INFO  Main:37 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:13:35 INFO  Main:38 - Driver license expired date - 2025-08-11
+2022-12-07 21:13:35 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:19:35 INFO  Client:41 - Order created
+2022-12-07 21:19:35 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:19:35 INFO  Driver:42 - Driver on the way
+2022-12-07 21:19:35 INFO  Main:31 - Price - 27
+2022-12-07 21:19:35 INFO  Main:32 - Car model - FORD
+2022-12-07 21:19:35 INFO  Main:33 - Car number - 1234
+2022-12-07 21:19:35 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:19:35 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:19:35 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:19:35 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:19:35 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:19:35 INFO  Main:39 - Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}
+2022-12-07 21:20:09 INFO  Client:41 - Order created
+2022-12-07 21:20:09 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:20:09 INFO  Driver:42 - Driver on the way
+2022-12-07 21:20:09 INFO  Main:31 - Price - 27
+2022-12-07 21:20:09 INFO  Main:32 - Car model - FORD
+2022-12-07 21:20:09 INFO  Main:33 - Car number - 1234
+2022-12-07 21:20:09 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:20:09 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:20:09 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:20:09 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:20:09 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:20:09 INFO  Main:39 - Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}
+2022-12-07 21:21:56 INFO  Client:41 - Order created
+2022-12-07 21:21:56 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:21:56 INFO  Driver:42 - Driver on the way
+2022-12-07 21:21:56 INFO  Main:31 - Price - 27
+2022-12-07 21:21:56 INFO  Main:32 - Car model - FORD
+2022-12-07 21:21:56 INFO  Main:33 - Car number - 1234
+2022-12-07 21:21:56 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:21:56 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:21:56 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:21:56 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:21:56 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:21:56 INFO  Main:39 - Ban
+2022-12-07 21:22:34 INFO  Client:41 - Order created
+2022-12-07 21:22:34 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:22:34 INFO  Driver:42 - Driver on the way
+2022-12-07 21:22:34 INFO  Main:31 - Price - 27
+2022-12-07 21:22:34 INFO  Main:32 - Car model - FORD
+2022-12-07 21:22:34 INFO  Main:33 - Car number - 1234
+2022-12-07 21:22:34 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:22:34 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:22:34 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:22:34 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:22:34 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:22:34 INFO  Main:39 - Dispatcher - Ban
+2022-12-07 21:22:38 INFO  Client:41 - Order created
+2022-12-07 21:22:38 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:22:38 INFO  Driver:42 - Driver on the way
+2022-12-07 21:22:38 INFO  Main:31 - Price - 27
+2022-12-07 21:22:38 INFO  Main:32 - Car model - FORD
+2022-12-07 21:22:38 INFO  Main:33 - Car number - 1234
+2022-12-07 21:22:38 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:22:38 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:22:38 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:22:38 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:22:38 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:22:38 INFO  Main:39 - Dispatcher - Ban
+2022-12-07 21:22:41 INFO  Client:41 - Order created
+2022-12-07 21:22:41 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:22:41 INFO  Driver:42 - Driver on the way
+2022-12-07 21:22:41 INFO  Main:31 - Price - 27
+2022-12-07 21:22:41 INFO  Main:32 - Car model - FORD
+2022-12-07 21:22:41 INFO  Main:33 - Car number - 1234
+2022-12-07 21:22:41 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:22:41 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:22:41 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:22:41 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:22:41 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:22:41 INFO  Main:39 - Dispatcher - Ban
+2022-12-07 21:23:44 INFO  Client:41 - Order created
+2022-12-07 21:23:44 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:23:44 INFO  Driver:42 - Driver on the way
+2022-12-07 21:23:44 INFO  Main:31 - Price - 27
+2022-12-07 21:23:44 INFO  Main:32 - Car model - FORD
+2022-12-07 21:23:44 INFO  Main:33 - Car number - 1234
+2022-12-07 21:23:44 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:23:44 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:23:44 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:23:44 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:23:44 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:23:44 INFO  Main:39 - Dispatcher - Sofi
+2022-12-07 21:23:48 INFO  Client:41 - Order created
+2022-12-07 21:23:48 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:23:48 INFO  Driver:42 - Driver on the way
+2022-12-07 21:23:48 INFO  Main:31 - Price - 27
+2022-12-07 21:23:48 INFO  Main:32 - Car model - FORD
+2022-12-07 21:23:48 INFO  Main:33 - Car number - 1234
+2022-12-07 21:23:48 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:23:48 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:23:48 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:23:48 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:23:48 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:23:48 INFO  Main:39 - Dispatcher - Ban
+2022-12-07 21:23:51 INFO  Client:41 - Order created
+2022-12-07 21:23:51 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:23:51 INFO  Driver:42 - Driver on the way
+2022-12-07 21:23:51 INFO  Main:31 - Price - 27
+2022-12-07 21:23:51 INFO  Main:32 - Car model - FORD
+2022-12-07 21:23:51 INFO  Main:33 - Car number - 1234
+2022-12-07 21:23:51 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:23:51 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:23:51 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:23:51 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:23:52 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:23:52 INFO  Main:39 - Dispatcher - Ban
+2022-12-07 21:24:04 INFO  Client:41 - Order created
+2022-12-07 21:24:04 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:24:04 INFO  Driver:42 - Driver on the way
+2022-12-07 21:24:04 INFO  Main:31 - Price - 27
+2022-12-07 21:24:04 INFO  Main:32 - Car model - FORD
+2022-12-07 21:24:04 INFO  Main:33 - Car number - 1234
+2022-12-07 21:24:04 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:24:04 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:24:04 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:24:04 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:24:04 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:24:04 INFO  Main:39 - Dispatcher - Ban
+2022-12-07 21:24:07 INFO  Client:41 - Order created
+2022-12-07 21:24:07 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:24:07 INFO  Driver:42 - Driver on the way
+2022-12-07 21:24:07 INFO  Main:31 - Price - 27
+2022-12-07 21:24:07 INFO  Main:32 - Car model - FORD
+2022-12-07 21:24:07 INFO  Main:33 - Car number - 1234
+2022-12-07 21:24:07 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:24:07 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:24:07 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:24:07 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:24:07 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:24:07 INFO  Main:39 - Dispatcher - Ban
+2022-12-07 21:24:12 INFO  Client:41 - Order created
+2022-12-07 21:24:12 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:24:12 INFO  Driver:42 - Driver on the way
+2022-12-07 21:24:12 INFO  Main:31 - Price - 27
+2022-12-07 21:24:12 INFO  Main:32 - Car model - FORD
+2022-12-07 21:24:12 INFO  Main:33 - Car number - 1234
+2022-12-07 21:24:12 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:24:12 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:24:12 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:24:12 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:24:12 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:24:12 INFO  Main:39 - Dispatcher - Ban
+2022-12-07 21:24:15 INFO  Client:41 - Order created
+2022-12-07 21:24:15 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:24:15 INFO  Driver:42 - Driver on the way
+2022-12-07 21:24:15 INFO  Main:31 - Price - 27
+2022-12-07 21:24:15 INFO  Main:32 - Car model - FORD
+2022-12-07 21:24:15 INFO  Main:33 - Car number - 1234
+2022-12-07 21:24:15 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:24:15 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:24:15 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:24:15 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:24:15 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:24:15 INFO  Main:39 - Dispatcher - Ban
+2022-12-07 21:24:24 INFO  Client:41 - Order created
+2022-12-07 21:24:24 INFO  Dispatcher:41 - Order confirmed
+2022-12-07 21:24:24 INFO  Driver:42 - Driver on the way
+2022-12-07 21:24:24 INFO  Main:31 - Price - 27
+2022-12-07 21:24:24 INFO  Main:32 - Car model - FORD
+2022-12-07 21:24:24 INFO  Main:33 - Car number - 1234
+2022-12-07 21:24:24 INFO  Main:34 - Driver name - Jack
+2022-12-07 21:24:24 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-07 21:24:24 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-07 21:24:24 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-07 21:24:24 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 4 day(s)
+2022-12-07 21:24:24 INFO  Main:39 - Dispatcher - Sofi
+2022-12-08 11:55:29 INFO  Client:41 - Order created
+2022-12-08 11:55:29 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 11:55:29 INFO  Driver:42 - Driver on the way
+2022-12-08 11:55:29 INFO  Main:31 - Price - 27
+2022-12-08 11:55:29 INFO  Main:32 - Car model - FORD
+2022-12-08 11:55:29 INFO  Main:33 - Car number - 1234
+2022-12-08 11:55:29 INFO  Main:34 - Driver name - Jack
+2022-12-08 11:55:29 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 11:55:29 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-08 11:55:29 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-08 11:55:29 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:03:47 INFO  Client:41 - Order created
+2022-12-08 12:03:47 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:03:47 INFO  Driver:42 - Driver on the way
+2022-12-08 12:03:47 INFO  Main:31 - Price - 27
+2022-12-08 12:03:47 INFO  Main:32 - Car model - FORD
+2022-12-08 12:03:47 INFO  Main:33 - Car number - 1234
+2022-12-08 12:03:47 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:03:47 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:03:47 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:03:47 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-08 12:03:48 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:03:48 INFO  Main:41 - Dispatcher - Ban
+2022-12-08 12:03:54 INFO  Client:41 - Order created
+2022-12-08 12:03:54 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:03:54 INFO  Driver:42 - Driver on the way
+2022-12-08 12:03:54 INFO  Main:31 - Price - 27
+2022-12-08 12:03:55 INFO  Main:32 - Car model - FORD
+2022-12-08 12:03:55 INFO  Main:33 - Car number - 1234
+2022-12-08 12:03:55 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:03:55 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:03:55 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:03:55 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-08 12:03:55 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:03:55 INFO  Main:41 - Dispatcher - Ban
+2022-12-08 12:03:58 INFO  Client:41 - Order created
+2022-12-08 12:03:58 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:03:58 INFO  Driver:42 - Driver on the way
+2022-12-08 12:03:58 INFO  Main:31 - Price - 27
+2022-12-08 12:03:58 INFO  Main:32 - Car model - FORD
+2022-12-08 12:03:58 INFO  Main:33 - Car number - 1234
+2022-12-08 12:03:58 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:03:58 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:03:58 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:03:58 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-08 12:03:58 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:03:58 INFO  Main:41 - Dispatcher - Ban
+2022-12-08 12:04:01 INFO  Client:41 - Order created
+2022-12-08 12:04:01 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:04:01 INFO  Driver:42 - Driver on the way
+2022-12-08 12:04:01 INFO  Main:31 - Price - 27
+2022-12-08 12:04:01 INFO  Main:32 - Car model - FORD
+2022-12-08 12:04:01 INFO  Main:33 - Car number - 1234
+2022-12-08 12:04:01 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:04:01 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:04:01 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:04:01 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-08 12:04:01 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:04:02 INFO  Main:41 - Dispatcher - Ban
+2022-12-08 12:04:11 INFO  Client:41 - Order created
+2022-12-08 12:04:11 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:04:11 INFO  Driver:42 - Driver on the way
+2022-12-08 12:04:11 INFO  Main:31 - Price - 27
+2022-12-08 12:04:11 INFO  Main:32 - Car model - FORD
+2022-12-08 12:04:11 INFO  Main:33 - Car number - 1234
+2022-12-08 12:04:11 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:04:11 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:04:11 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:04:11 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-08 12:04:11 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:04:11 INFO  Main:41 - Dispatcher - Ban
+2022-12-08 12:04:14 INFO  Client:41 - Order created
+2022-12-08 12:04:14 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:04:14 INFO  Driver:42 - Driver on the way
+2022-12-08 12:04:14 INFO  Main:31 - Price - 27
+2022-12-08 12:04:14 INFO  Main:32 - Car model - FORD
+2022-12-08 12:04:14 INFO  Main:33 - Car number - 1234
+2022-12-08 12:04:14 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:04:14 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:04:14 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:04:14 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-08 12:04:14 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:04:14 INFO  Main:41 - Dispatcher - Sofi
+2022-12-08 12:05:16 INFO  Client:41 - Order created
+2022-12-08 12:05:16 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:05:16 INFO  Driver:42 - Driver on the way
+2022-12-08 12:05:16 INFO  Main:31 - Price - 27
+2022-12-08 12:05:16 INFO  Main:32 - Car model - FORD
+2022-12-08 12:05:16 INFO  Main:33 - Car number - 1234
+2022-12-08 12:05:16 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:05:16 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:05:16 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:05:16 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-08 12:05:16 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:07:01 INFO  Client:41 - Order created
+2022-12-08 12:07:01 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:07:01 INFO  Driver:42 - Driver on the way
+2022-12-08 12:07:02 INFO  Main:31 - Price - 27
+2022-12-08 12:07:02 INFO  Main:32 - Car model - FORD
+2022-12-08 12:07:02 INFO  Main:33 - Car number - 1234
+2022-12-08 12:07:02 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:07:02 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:07:02 INFO  Main:36 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:07:02 INFO  Main:37 - Driver license expired date - 2025-08-11
+2022-12-08 12:07:02 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:07:02 INFO  Main:41 - Dispatcher - Ban
+2022-12-08 12:21:51 INFO  Client:41 - Order created
+2022-12-08 12:21:51 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:21:51 INFO  Driver:42 - Driver on the way
+2022-12-08 12:21:51 INFO  Main:31 - Price - 27
+2022-12-08 12:21:51 INFO  Main:32 - Car model - FORD
+2022-12-08 12:21:51 INFO  Main:33 - Car number - 1234
+2022-12-08 12:21:51 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:21:51 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:21:51 INFO  Main:37 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:21:51 INFO  Main:39 - Driver license expired date - 2025-08-11
+2022-12-08 12:21:51 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:21:51 INFO  Main:42 - Dispatcher - Ban
+2022-12-08 12:21:57 INFO  Client:41 - Order created
+2022-12-08 12:21:57 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:21:57 INFO  Driver:42 - Driver on the way
+2022-12-08 12:21:57 INFO  Main:31 - Price - 27
+2022-12-08 12:21:57 INFO  Main:32 - Car model - FORD
+2022-12-08 12:21:57 INFO  Main:33 - Car number - 1234
+2022-12-08 12:21:57 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:21:57 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:21:57 INFO  Main:37 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:21:57 INFO  Main:39 - Driver license expired date - 2025-08-11
+2022-12-08 12:21:57 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:21:57 INFO  Main:42 - Dispatcher - Ban
+2022-12-08 12:22:01 INFO  Client:41 - Order created
+2022-12-08 12:22:01 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:22:01 INFO  Driver:42 - Driver on the way
+2022-12-08 12:22:01 INFO  Main:31 - Price - 27
+2022-12-08 12:22:01 INFO  Main:32 - Car model - FORD
+2022-12-08 12:22:01 INFO  Main:33 - Car number - 1234
+2022-12-08 12:22:01 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:22:01 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:22:01 INFO  Main:37 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:22:01 INFO  Main:39 - Driver license expired date - 2025-08-11
+2022-12-08 12:22:01 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:22:01 INFO  Main:42 - Dispatcher - Ban
+2022-12-08 12:22:09 INFO  Client:41 - Order created
+2022-12-08 12:22:09 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:22:09 INFO  Driver:42 - Driver on the way
+2022-12-08 12:22:09 INFO  Main:31 - Price - 27
+2022-12-08 12:22:09 INFO  Main:32 - Car model - FORD
+2022-12-08 12:22:09 INFO  Main:33 - Car number - 1234
+2022-12-08 12:22:09 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:22:09 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:22:09 INFO  Main:37 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:22:09 INFO  Main:39 - Driver license expired date - 2025-08-11
+2022-12-08 12:22:09 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:22:09 INFO  Main:42 - Dispatcher - Ban
+2022-12-08 12:22:12 INFO  Client:41 - Order created
+2022-12-08 12:22:12 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:22:12 INFO  Driver:42 - Driver on the way
+2022-12-08 12:22:12 INFO  Main:31 - Price - 27
+2022-12-08 12:22:12 INFO  Main:32 - Car model - FORD
+2022-12-08 12:22:12 INFO  Main:33 - Car number - 1234
+2022-12-08 12:22:12 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:22:12 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:22:12 INFO  Main:37 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:22:12 INFO  Main:39 - Driver license expired date - 2025-08-11
+2022-12-08 12:22:12 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:22:12 INFO  Main:42 - Dispatcher - Sofi
+2022-12-08 12:24:29 INFO  Client:41 - Order created
+2022-12-08 12:24:29 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:24:29 INFO  Driver:42 - Driver on the way
+2022-12-08 12:24:29 INFO  Main:31 - Price - 27
+2022-12-08 12:24:29 INFO  Main:32 - Car model - FORD
+2022-12-08 12:24:29 INFO  Main:33 - Car number - 1234
+2022-12-08 12:24:29 INFO  Main:34 - Driver name - Jack
+2022-12-08 12:24:29 INFO  Main:35 - Driver phone number - +380960909090
+2022-12-08 12:24:29 INFO  Main:37 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:24:29 INFO  Main:39 - Driver license expired date - 2025-08-11
+2022-12-08 12:24:29 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:24:29 INFO  Main:42 - Dispatcher - Ban
+2022-12-08 12:26:36 INFO  Main:49 - [stuff.Taxi{car=Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}, driver=Driver{licensesList=License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, drivingExperience=MEDIUM, knowledgeOfCity=MEDIUM} Person{dateOfBirth='1990-07-20', name='Jack', surname='Jonson', accessRights='Driver', phoneNumber=960909090, gender='MALE'}}, stuff.Taxi{car=Crossover{passability=MEDIUM} Car{seatPlaceNumber=4, carNumber='2552', maxSpeed=210, carWight=2, carLength=2, carHeight=3}, driver=Driver{licensesList=License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}, drivingExperience=HEIGHT, knowledgeOfCity=MEDIUM} Person{dateOfBirth='1989-05-14', name='John', surname='Jackson', accessRights='Driver', phoneNumber=970756443, gender='MALE'}}, stuff.Taxi{car=Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}, driver=Driver{licensesList=License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2023-03-16, category=B}, drivingExperience=MEDIUM, knowledgeOfCity=HEIGHT} Person{dateOfBirth='2000-08-08', name='Ann', surname='Annieson', accessRights='Driver', phoneNumber=670023456, gender='FEMALE'}}]
+2022-12-08 12:27:08 INFO  Main:49 - Driver{licensesList=License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, drivingExperience=MEDIUM, knowledgeOfCity=MEDIUM} Person{dateOfBirth='1990-07-20', name='Jack', surname='Jonson', accessRights='Driver', phoneNumber=960909090, gender='MALE'}
+2022-12-08 12:27:17 INFO  Main:49 - Driver{licensesList=License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}, drivingExperience=MEDIUM, knowledgeOfCity=MEDIUM} Person{dateOfBirth='1990-07-20', name='Jack', surname='Jonson', accessRights='Driver', phoneNumber=960909090, gender='MALE'}
+2022-12-08 12:28:36 INFO  Main:49 - Jack
+2022-12-08 12:30:01 INFO  Client:41 - Order created
+2022-12-08 12:30:01 INFO  Client:41 - Order created
+2022-12-08 12:30:01 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:30:01 INFO  Driver:42 - Driver on the way
+2022-12-08 12:30:01 INFO  Main:33 - Price - 27
+2022-12-08 12:30:01 INFO  Main:34 - Car model - FORD
+2022-12-08 12:30:01 INFO  Main:35 - Car number - 1234
+2022-12-08 12:30:01 INFO  Main:36 - Driver name - Jack
+2022-12-08 12:30:01 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 12:30:01 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:30:01 INFO  Main:41 - Driver license expired date - 2025-08-11
+2022-12-08 12:30:02 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:30:02 INFO  Main:44 - Dispatcher - Sofi
+2022-12-08 12:30:47 INFO  Main:33 - Price - 27
+2022-12-08 12:30:47 INFO  Main:34 - Car model - FORD
+2022-12-08 12:30:47 INFO  Main:35 - Car number - 1234
+2022-12-08 12:30:47 INFO  Main:36 - Driver name - Jack
+2022-12-08 12:30:47 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 12:30:47 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:30:47 INFO  Main:41 - Driver license expired date - 2025-08-11
+2022-12-08 12:30:47 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:30:47 INFO  Main:44 - Dispatcher - Ban
+2022-12-08 12:34:58 ERROR Taxi:35 - java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
+2022-12-08 12:34:58 ERROR Taxi:35 - java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
+2022-12-08 12:35:22 INFO  Client:41 - Order created
+2022-12-08 12:35:22 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:35:22 INFO  Driver:42 - Driver on the way
+2022-12-08 12:35:22 INFO  Main:33 - Price - 27
+2022-12-08 12:35:22 INFO  Main:34 - Car model - FORD
+2022-12-08 12:35:22 INFO  Main:35 - Car number - 1234
+2022-12-08 12:35:22 INFO  Main:36 - Driver name - Jack
+2022-12-08 12:35:22 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 12:35:22 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:35:22 INFO  Main:41 - Driver license expired date - 2025-08-11
+2022-12-08 12:35:23 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:35:23 INFO  Main:44 - Dispatcher - Sofi
+2022-12-08 12:37:39 INFO  Client:41 - Order created
+2022-12-08 12:37:39 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:37:39 INFO  Driver:42 - Driver on the way
+2022-12-08 12:37:39 INFO  Main:33 - Price - 27
+2022-12-08 12:37:39 INFO  Main:34 - Car model - FORD
+2022-12-08 12:37:39 INFO  Main:35 - Car number - 1234
+2022-12-08 12:37:39 INFO  Main:36 - Driver name - Jack
+2022-12-08 12:37:39 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 12:37:39 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:37:39 INFO  Main:41 - Driver license expired date - 2025-08-11
+2022-12-08 12:37:39 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:37:39 INFO  Main:44 - Dispatcher - Ban
+2022-12-08 12:43:40 INFO  Client:41 - Order created
+2022-12-08 12:43:40 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:43:40 INFO  Driver:42 - Driver on the way
+2022-12-08 12:43:40 INFO  Main:33 - Price - 27
+2022-12-08 12:43:40 INFO  Main:34 - Car model - FORD
+2022-12-08 12:43:40 INFO  Main:35 - Car number - 1234
+2022-12-08 12:43:40 INFO  Main:36 - Driver name - Jack
+2022-12-08 12:43:40 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 12:43:40 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:43:40 INFO  Main:41 - Driver license expired date - 2025-08-11
+2022-12-08 12:43:40 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:43:40 INFO  Main:44 - Dispatcher - Ban
+2022-12-08 12:48:30 INFO  Client:41 - Order created
+2022-12-08 12:48:30 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:48:30 INFO  Driver:42 - Driver on the way
+2022-12-08 12:48:30 INFO  Main:33 - Price - 27
+2022-12-08 12:48:30 INFO  Main:34 - Car model - FORD
+2022-12-08 12:48:30 INFO  Main:35 - Car number - 1234
+2022-12-08 12:48:30 INFO  Main:36 - Driver name - Jack
+2022-12-08 12:48:30 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 12:48:30 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:48:30 INFO  Main:41 - Driver license expired date - 2025-08-11
+2022-12-08 12:48:30 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:48:30 INFO  Main:44 - Dispatcher - Sofi
+2022-12-08 12:48:43 INFO  Client:41 - Order created
+2022-12-08 12:48:43 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:48:43 INFO  Driver:42 - Driver on the way
+2022-12-08 12:48:43 INFO  Main:33 - Price - 27
+2022-12-08 12:48:43 INFO  Main:34 - Car model - FORD
+2022-12-08 12:48:43 INFO  Main:35 - Car number - 1234
+2022-12-08 12:48:43 INFO  Main:36 - Driver name - Jack
+2022-12-08 12:48:43 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 12:48:43 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:48:43 INFO  Main:41 - Driver license expired date - 2020-08-11
+2022-12-08 12:48:43 INFO  Driver:78 - Driver license validity period - -2 year(s), -3 month(s), -28 day(s)
+2022-12-08 12:48:43 INFO  Main:44 - Dispatcher - Ban
+2022-12-08 12:49:54 INFO  Client:41 - Order created
+2022-12-08 12:49:54 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:49:54 INFO  Driver:42 - Driver on the way
+2022-12-08 12:49:54 INFO  Main:33 - Price - 27
+2022-12-08 12:49:54 INFO  Main:34 - Car model - FORD
+2022-12-08 12:49:54 INFO  Main:35 - Car number - 1234
+2022-12-08 12:49:54 INFO  Main:36 - Driver name - Jack
+2022-12-08 12:49:54 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 12:49:54 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:49:54 INFO  Main:41 - Driver license expired date - 2025-08-11
+2022-12-08 12:49:55 INFO  Driver:80 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:49:55 INFO  Main:44 - Dispatcher - Sofi
+2022-12-08 12:50:46 INFO  Client:41 - Order created
+2022-12-08 12:50:46 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:50:46 INFO  Driver:42 - Driver on the way
+2022-12-08 12:50:47 INFO  Main:33 - Price - 27
+2022-12-08 12:50:47 INFO  Main:34 - Car model - FORD
+2022-12-08 12:50:47 INFO  Main:35 - Car number - 1234
+2022-12-08 12:50:47 INFO  Main:36 - Driver name - Jack
+2022-12-08 12:50:47 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 12:50:47 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:50:47 INFO  Main:41 - Driver license expired date - 2025-08-11
+2022-12-08 12:50:47 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:50:47 INFO  Main:44 - Dispatcher - Sofi
+2022-12-08 12:52:58 INFO  Client:41 - Order created
+2022-12-08 12:52:58 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 12:52:58 INFO  Driver:42 - Driver on the way
+2022-12-08 12:52:58 INFO  Main:33 - Price - 27
+2022-12-08 12:52:58 INFO  Main:34 - Car model - FORD
+2022-12-08 12:52:58 INFO  Main:35 - Car number - 1234
+2022-12-08 12:52:58 INFO  Main:36 - Driver name - Jack
+2022-12-08 12:52:58 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 12:52:58 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 12:52:58 INFO  Main:41 - Driver license expired date - 2025-08-11
+2022-12-08 12:52:58 INFO  Driver:78 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 12:52:58 INFO  Main:44 - Dispatcher - Ban
+2022-12-08 13:02:42 INFO  Client:41 - Order created
+2022-12-08 13:02:42 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:02:42 INFO  Driver:43 - Driver on the way
+2022-12-08 13:02:42 INFO  Main:33 - Price - 27
+2022-12-08 13:02:42 INFO  Main:34 - Car model - FORD
+2022-12-08 13:02:42 INFO  Main:35 - Car number - 1234
+2022-12-08 13:02:42 INFO  Main:36 - Driver name - Jack
+2022-12-08 13:02:42 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 13:02:42 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 13:02:42 INFO  Main:41 - Driver license expired date - 2025-08-11
+2022-12-08 13:02:42 INFO  Driver:79 - Driver license validity period - 2 year(s), 8 month(s), 3 day(s)
+2022-12-08 13:02:42 INFO  Main:44 - Dispatcher - Ban
+2022-12-08 13:02:50 INFO  Client:41 - Order created
+2022-12-08 13:02:50 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:02:50 INFO  Driver:43 - Driver on the way
+2022-12-08 13:02:50 INFO  Main:33 - Price - 27
+2022-12-08 13:02:50 INFO  Main:34 - Car model - FORD
+2022-12-08 13:02:50 INFO  Main:35 - Car number - 1234
+2022-12-08 13:02:50 INFO  Main:36 - Driver name - Jack
+2022-12-08 13:02:50 INFO  Main:37 - Driver phone number - +380960909090
+2022-12-08 13:02:50 INFO  Main:39 - Driver knowledge of city Level - MEDIUM
+2022-12-08 13:02:50 INFO  Main:41 - Driver license expired date - 2020-08-11
+2022-12-08 13:02:50 INFO  Driver:79 - Driver license validity period - -2 year(s), -3 month(s), -28 day(s)
+2022-12-08 13:02:50 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:02:50 INFO  Main:44 - Dispatcher - Ban
+2022-12-08 13:03:46 INFO  Client:41 - Order created
+2022-12-08 13:03:46 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:03:46 INFO  Driver:43 - Driver on the way
+2022-12-08 13:03:46 INFO  Main:33 - Price - 27
+2022-12-08 13:03:46 INFO  Main:34 - Car model - BMW
+2022-12-08 13:03:46 INFO  Main:35 - Car number - 0000
+2022-12-08 13:03:46 INFO  Main:36 - Driver name - Ann
+2022-12-08 13:03:46 INFO  Main:37 - Driver phone number - +380670023456
+2022-12-08 13:03:46 INFO  Main:39 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:03:46 INFO  Main:41 - Driver license expired date - 2020-03-16
+2022-12-08 13:03:46 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:03:46 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:03:46 INFO  Main:44 - Dispatcher - Ban
+2022-12-08 13:05:37 INFO  Client:41 - Order created
+2022-12-08 13:05:37 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:05:37 INFO  Driver:43 - Driver on the way
+2022-12-08 13:05:37 INFO  Main:33 - Price - 27
+2022-12-08 13:05:37 INFO  Main:34 - Car model - BMW
+2022-12-08 13:05:38 INFO  Main:35 - Car number - 0000
+2022-12-08 13:05:38 INFO  Main:36 - Driver name - Ann
+2022-12-08 13:05:38 INFO  Main:37 - Driver phone number - +380670023456
+2022-12-08 13:05:38 INFO  Main:39 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:05:38 INFO  Main:41 - Driver license expired date - 2020-03-16
+2022-12-08 13:05:38 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 13:05:38 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 13:05:38 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 13:05:38 INFO  Main:44 - Dispatcher - Sofi
+2022-12-08 13:06:13 INFO  Client:41 - Order created
+2022-12-08 13:06:13 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:06:13 INFO  Driver:43 - Driver on the way
+2022-12-08 13:06:13 INFO  Main:33 - Price - 27
+2022-12-08 13:06:13 INFO  Main:34 - Car model - BMW
+2022-12-08 13:06:13 INFO  Main:35 - Car number - 0000
+2022-12-08 13:06:13 INFO  Main:36 - Driver name - Ann
+2022-12-08 13:06:13 INFO  Main:37 - Driver phone number - +380670023456
+2022-12-08 13:06:13 INFO  Main:39 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:06:13 INFO  Main:41 - Driver license expired date - 2023-03-16
+2022-12-08 13:06:13 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 13:06:13 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 13:06:13 INFO  Driver:80 - Driver license validity period - 0 year(s), 3 month(s), 8 day(s)
+2022-12-08 13:06:13 INFO  Main:44 - Dispatcher - Sofi
+2022-12-08 13:06:45 INFO  Client:41 - Order created
+2022-12-08 13:06:45 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:06:45 INFO  Driver:43 - Driver on the way
+2022-12-08 13:06:45 INFO  Main:33 - Price - 27
+2022-12-08 13:06:45 INFO  Main:34 - Car model - BMW
+2022-12-08 13:06:45 INFO  Main:35 - Car number - 0000
+2022-12-08 13:06:45 INFO  Main:36 - Driver name - Ann
+2022-12-08 13:06:45 INFO  Main:37 - Driver phone number - +380670023456
+2022-12-08 13:06:45 INFO  Main:39 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:06:45 INFO  Main:41 - Driver license expired date - 2020-03-16
+2022-12-08 13:06:45 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:06:45 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:06:45 INFO  Main:44 - Dispatcher - Sofi
+2022-12-08 13:12:15 ERROR Taxi:37 - java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
+2022-12-08 13:16:42 ERROR Taxi:38 - java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3
+2022-12-08 13:18:20 INFO  Client:41 - Order created
+2022-12-08 13:18:20 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:18:20 INFO  Driver:43 - Driver on the way
+2022-12-08 13:18:20 INFO  Main:33 - Price - 27
+2022-12-08 13:18:20 INFO  Main:34 - Car model - BMW
+2022-12-08 13:18:20 INFO  Main:35 - Car number - 0000
+2022-12-08 13:18:20 INFO  Main:36 - Driver name - Ann
+2022-12-08 13:18:20 INFO  Main:37 - Driver phone number - +380670023456
+2022-12-08 13:18:20 INFO  Main:39 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:18:20 INFO  Main:41 - Driver license expired date - 2020-03-16
+2022-12-08 13:18:21 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:18:21 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:18:21 INFO  Main:44 - Dispatcher - Sofi
+2022-12-08 13:18:36 INFO  Client:41 - Order created
+2022-12-08 13:18:36 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:18:36 INFO  Driver:43 - Driver on the way
+2022-12-08 13:18:36 INFO  Main:33 - Price - 11
+2022-12-08 13:18:36 INFO  Main:34 - Car model - BMW
+2022-12-08 13:18:36 INFO  Main:35 - Car number - 0000
+2022-12-08 13:18:36 INFO  Main:36 - Driver name - Ann
+2022-12-08 13:18:36 INFO  Main:37 - Driver phone number - +380670023456
+2022-12-08 13:18:36 INFO  Main:39 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:18:36 INFO  Main:41 - Driver license expired date - 2020-03-16
+2022-12-08 13:18:36 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:18:36 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:18:36 INFO  Main:44 - Dispatcher - Ban
+2022-12-08 13:23:42 ERROR Order:77 - java.lang.ArithmeticException: Distance not correct
+2022-12-08 13:30:47 INFO  Client:41 - Order created
+2022-12-08 13:30:47 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:30:47 INFO  Driver:43 - Driver on the way
+2022-12-08 13:30:47 INFO  Main:33 - Price - 23
+2022-12-08 13:30:47 INFO  Main:34 - Car model - BMW
+2022-12-08 13:30:47 INFO  Main:35 - Car number - 0000
+2022-12-08 13:30:47 INFO  Main:36 - Driver name - Ann
+2022-12-08 13:30:47 INFO  Main:37 - Driver phone number - +380670023456
+2022-12-08 13:30:47 INFO  Main:39 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:30:47 INFO  Main:41 - Driver license expired date - 2020-03-16
+2022-12-08 13:30:47 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:30:47 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:30:47 INFO  Main:44 - Dispatcher - Ban
+2022-12-08 13:32:18 ERROR Order:84 - java.lang.ArithmeticException: Distance not correct choice
+2022-12-08 13:32:18 INFO  Client:41 - Order created
+2022-12-08 13:32:18 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:32:18 INFO  Driver:43 - Driver on the way
+2022-12-08 13:32:18 INFO  Main:34 - Price - 23
+2022-12-08 13:32:18 INFO  Main:35 - Car model - BMW
+2022-12-08 13:32:18 INFO  Main:36 - Car number - 0000
+2022-12-08 13:32:18 INFO  Main:37 - Driver name - Ann
+2022-12-08 13:32:18 INFO  Main:38 - Driver phone number - +380670023456
+2022-12-08 13:32:18 INFO  Main:40 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:32:18 INFO  Main:42 - Driver license expired date - 2020-03-16
+2022-12-08 13:32:18 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:32:18 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:32:18 INFO  Main:45 - Dispatcher - Sofi
+2022-12-08 13:33:42 ERROR Order:85 - java.lang.ArithmeticException: Not correct choice
+2022-12-08 13:33:42 INFO  Client:41 - Order created
+2022-12-08 13:33:42 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:33:42 INFO  Driver:43 - Driver on the way
+2022-12-08 13:33:42 INFO  Main:34 - Price - 23
+2022-12-08 13:33:43 INFO  Main:35 - Car model - BMW
+2022-12-08 13:33:43 INFO  Main:36 - Car number - 0000
+2022-12-08 13:33:43 INFO  Main:37 - Driver name - Ann
+2022-12-08 13:33:43 INFO  Main:38 - Driver phone number - +380670023456
+2022-12-08 13:33:43 INFO  Main:40 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:33:43 INFO  Main:42 - Driver license expired date - 2020-03-16
+2022-12-08 13:33:43 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:33:43 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:33:43 INFO  Main:45 - Dispatcher - Ban
+2022-12-08 13:36:48 ERROR Order:86 - java.lang.ArithmeticException: Not correct choice
+2022-12-08 13:36:48 INFO  Client:41 - Order created
+2022-12-08 13:36:48 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:36:48 INFO  Driver:43 - Driver on the way
+2022-12-08 13:36:48 INFO  Main:34 - Price - 23
+2022-12-08 13:36:48 INFO  Main:35 - Car model - BMW
+2022-12-08 13:36:48 INFO  Main:36 - Car number - 0000
+2022-12-08 13:36:48 INFO  Main:37 - Driver name - Ann
+2022-12-08 13:36:48 INFO  Main:38 - Driver phone number - +380670023456
+2022-12-08 13:36:48 INFO  Main:40 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:36:48 INFO  Main:42 - Driver license expired date - 2020-03-16
+2022-12-08 13:36:48 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:36:48 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:36:48 INFO  Main:45 - Dispatcher - Ban
+2022-12-08 13:39:37 INFO  Client:41 - Order created
+2022-12-08 13:39:37 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:39:37 INFO  Driver:43 - Driver on the way
+2022-12-08 13:39:37 INFO  Main:34 - Price - 23
+2022-12-08 13:39:37 INFO  Main:35 - Car model - BMW
+2022-12-08 13:39:37 INFO  Main:36 - Car number - 0000
+2022-12-08 13:39:37 INFO  Main:37 - Driver name - Ann
+2022-12-08 13:39:37 INFO  Main:38 - Driver phone number - +380670023456
+2022-12-08 13:39:37 INFO  Main:40 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:39:37 INFO  Main:42 - Driver license expired date - 2020-03-16
+2022-12-08 13:39:37 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:39:37 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:39:37 INFO  Main:45 - Dispatcher - Sofi
+2022-12-08 13:40:00 ERROR Order:90 - java.lang.ArithmeticException: Not correct choice
+2022-12-08 13:40:00 INFO  Client:41 - Order created
+2022-12-08 13:40:00 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:40:00 INFO  Driver:43 - Driver on the way
+2022-12-08 13:40:00 INFO  Main:34 - Price - 23
+2022-12-08 13:40:00 INFO  Main:35 - Car model - BMW
+2022-12-08 13:40:00 INFO  Main:36 - Car number - 0000
+2022-12-08 13:40:00 INFO  Main:37 - Driver name - Ann
+2022-12-08 13:40:00 INFO  Main:38 - Driver phone number - +380670023456
+2022-12-08 13:40:00 INFO  Main:40 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:40:00 INFO  Main:42 - Driver license expired date - 2020-03-16
+2022-12-08 13:40:00 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:40:00 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:40:00 INFO  Main:45 - Dispatcher - Ban
+2022-12-08 13:40:17 ERROR Order:90 - java.lang.ArithmeticException: Not correct choice
+2022-12-08 13:40:17 ERROR Order:90 - java.lang.ArithmeticException: Not correct choice
+2022-12-08 13:40:27 ERROR Order:90 - java.lang.ArithmeticException: Not correct choice
+2022-12-08 13:42:34 ERROR Order:91 - java.lang.ArithmeticException: Not correct choice distance of driving 15 or  passenger number -2
+2022-12-08 13:43:00 ERROR Order:91 - java.lang.ArithmeticException: Not correct choice distance of driving 15 or 
+ passenger number -2
+2022-12-08 13:43:36 INFO  Client:41 - Order created
+2022-12-08 13:43:36 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:43:36 INFO  Driver:43 - Driver on the way
+2022-12-08 13:43:36 INFO  Main:34 - Price - 27
+2022-12-08 13:43:36 INFO  Main:35 - Car model - BMW
+2022-12-08 13:43:36 INFO  Main:36 - Car number - 0000
+2022-12-08 13:43:36 INFO  Main:37 - Driver name - Ann
+2022-12-08 13:43:36 INFO  Main:38 - Driver phone number - +380670023456
+2022-12-08 13:43:36 INFO  Main:40 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:43:36 INFO  Main:42 - Driver license expired date - 2020-03-16
+2022-12-08 13:43:36 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:43:36 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:43:36 INFO  Main:45 - Dispatcher - Ban
+2022-12-08 13:45:15 INFO  Client:41 - Order created
+2022-12-08 13:45:15 INFO  Dispatcher:41 - Order confirmed
+2022-12-08 13:45:15 INFO  Driver:43 - Driver on the way
+2022-12-08 13:45:15 INFO  Main:34 - Price - 27
+2022-12-08 13:45:15 INFO  Main:35 - Car model - BMW
+2022-12-08 13:45:15 INFO  Main:36 - Car number - 0000
+2022-12-08 13:45:15 INFO  Main:37 - Driver name - Ann
+2022-12-08 13:45:15 INFO  Main:38 - Driver phone number - +380670023456
+2022-12-08 13:45:15 INFO  Main:40 - Driver knowledge of city Level - HEIGHT
+2022-12-08 13:45:15 INFO  Main:42 - Driver license expired date - 2020-03-16
+2022-12-08 13:45:16 INFO  Driver:79 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 13:45:16 ERROR Driver:88 - exception.PeriodException: License period expired
+2022-12-08 13:45:16 INFO  Main:45 - Dispatcher - Sofi
+2022-12-08 13:45:24 ERROR Order:92 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2
+2022-12-08 13:55:53 ERROR Order:92 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again
+2022-12-08 14:40:41 ERROR Order:91 - exception.ChoiceException: Not correct choice distance of driving 15 or passenger number -2. Try again.
+2022-12-08 14:41:08 INFO  Client:41 - Order created
+2022-12-08 14:41:08 INFO  Dispatcher:40 - Order confirmed
+2022-12-08 14:41:08 INFO  Driver:43 - Driver on the way
+2022-12-08 14:41:08 INFO  Main:31 - Price - 27
+2022-12-08 14:41:08 INFO  Main:32 - Car model - BMW
+2022-12-08 14:41:08 INFO  Main:33 - Car number - 0000
+2022-12-08 14:41:08 INFO  Main:34 - Driver name - Ann
+2022-12-08 14:41:08 INFO  Main:35 - Driver phone number - +380670023456
+2022-12-08 14:41:08 INFO  Main:37 - Driver knowledge of city Level - HEIGHT
+2022-12-08 14:41:08 INFO  Main:39 - Driver license expired date - 2020-03-16
+2022-12-08 14:41:09 INFO  Driver:80 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 14:41:09 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 14:41:09 INFO  Main:42 - Dispatcher - Ban
+2022-12-08 16:17:25 INFO  Client:41 - Order created
+2022-12-08 16:17:25 INFO  Dispatcher:40 - Order confirmed
+2022-12-08 16:17:25 INFO  Driver:43 - Driver on the way
+2022-12-08 16:17:25 INFO  Main:31 - Price - 27
+2022-12-08 16:17:25 INFO  Main:32 - Car model - BMW
+2022-12-08 16:17:25 INFO  Main:33 - Car number - 0000
+2022-12-08 16:17:25 INFO  Main:34 - Driver name - Ann
+2022-12-08 16:17:25 INFO  Main:35 - Driver phone number - +380670023456
+2022-12-08 16:17:25 INFO  Main:37 - Driver knowledge of city Level - HEIGHT
+2022-12-08 16:17:25 INFO  Main:39 - Driver license expired date - 2020-03-16
+2022-12-08 16:17:25 INFO  Driver:80 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 16:17:25 ERROR Driver:89 - exception.PeriodException: License period expired
+2022-12-08 16:17:25 INFO  Main:42 - Dispatcher - Ban
+2022-12-08 17:07:51 INFO  Client:39 - Order created
+2022-12-08 17:07:51 INFO  Dispatcher:39 - Order confirmed
+2022-12-08 17:07:51 INFO  Driver:43 - Driver on the way
+2022-12-08 17:07:51 INFO  Main:34 - Price - 27
+2022-12-08 17:07:51 INFO  Main:35 - Car model - BMW
+2022-12-08 17:07:51 INFO  Main:36 - Car number - 0000
+2022-12-08 17:07:51 INFO  Main:37 - Driver name - Ann
+2022-12-08 17:07:51 INFO  Main:38 - Driver phone number - +380670023456
+2022-12-08 17:07:51 INFO  Main:40 - Driver knowledge of city Level - HEIGHT
+2022-12-08 17:07:51 INFO  Main:42 - Driver license expired date - 2020-03-16
+2022-12-08 17:07:51 INFO  Driver:80 - Driver license validity period - -2 year(s), -8 month(s), -23 day(s)
+2022-12-08 17:07:51 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-08 17:07:51 INFO  Main:45 - Dispatcher - Sofi
