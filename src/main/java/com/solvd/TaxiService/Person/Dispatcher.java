@@ -1,14 +1,14 @@
 package com.solvd.TaxiService.Person;
 
 
-import com.solvd.TaxiService.Interfaces.IOrderConfirmation;
+import com.solvd.TaxiService.Interfaces.IConfirmationOrder;
 import com.solvd.TaxiService.enums.Gender;
 import com.solvd.TaxiService.enums.Level;
 import org.apache.log4j.Logger;
 
 import java.util.Objects;
 
-public class Dispatcher extends Person implements IOrderConfirmation {
+public class Dispatcher extends Person implements IConfirmationOrder {
     private static final Logger LOGGER = Logger.getLogger(Dispatcher.class);
     private String education;
     private Level driverManagementExperience;
@@ -33,9 +33,9 @@ public class Dispatcher extends Person implements IOrderConfirmation {
     // Interfaces overriding
 
     @Override
-    public Boolean orderConfirmation() {
+    public Boolean confirmationOrder() {
 
-        if (client.orderCreate()) {
+        if (client.createOrder()) {
             LOGGER.info("Order confirmed");
             return true;
         } else {

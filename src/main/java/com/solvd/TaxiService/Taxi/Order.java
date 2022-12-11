@@ -1,6 +1,8 @@
 package com.solvd.TaxiService.Taxi;
 
 
+import History.RecordingResults;
+import com.solvd.TaxiService.Lists.DispatcherList;
 import com.solvd.TaxiService.Person.Client;
 import com.solvd.TaxiService.Person.Dispatcher;
 import com.solvd.TaxiService.Person.Driver;
@@ -9,8 +11,11 @@ import com.solvd.TaxiService.exception.ChoiceException;
 import com.solvd.TaxiService.exception.IncorrectChoiceException;
 import org.apache.log4j.Logger;
 
+import java.io.IOException;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Objects;
+import java.util.Scanner;
 
 public class Order {
     private static final Logger LOGGER = Logger.getLogger(Order.class);
@@ -57,10 +62,10 @@ public class Order {
         try {
             for (String i : services) {
                 switch (i) {
-                    case "Yes":
+                    case "yes":
                         price += 5;
                         break;
-                    case "No":
+                    case "no":
                         price *= 1;
                         break;
                     default:
@@ -93,6 +98,93 @@ public class Order {
         }
         return i;
     }
+
+    public void orderHistoryRecording() throws IOException {
+
+        RecordingResults.recording("Price - " + getPrice() + "\n"
+                + "Car model - " + getTaxi().getDriversAndCars().getCar().getModel() + "\n"
+                + "Car number - " + getTaxi().getDriversAndCars().getCar().getCarNumber() + "\n"
+                + "Driver name - " + getTaxi().getDriversAndCars().getDriver().getName() + "\n"
+                + "Driver phone number - +380" + getTaxi().getDriversAndCars().getDriver().getPhoneNumber() + "\n"
+                + "Driver knowledge of city Level - " + getTaxi().getDriversAndCars().getDriver().getKnowledgeOfCity() + "\n"
+                + "Driver license expired date - " + getTaxi().getDriversAndCars().getDriver().getLicense().getDateOfExpired() + "\n"
+                + "Order creation time - " + LocalDateTime.now());
+    }
+
+    public void orderParametersInput() {
+
+        Scanner in = new Scanner(System.in);
+        LOGGER.info("Input car type ('Pickup', 'LIMOUSINE', 'CROSSOVER'): ");
+        String car = in.nextLine();
+        switch (car) {
+            case "Pickup":
+                this.taxi = TaxiCars.PICKUP;
+                break;
+            case "Limousine":
+                this.taxi = TaxiCars.LIMOUSINE;
+                break;
+            case "Crossover":
+                this.taxi = TaxiCars.CROSSOVER;
+                break;
+            default:
+                System.out.println("Make correct choice of car type");
+        }
+        LOGGER.info(car);
+
+        LOGGER.info("Input distance of driving: ");
+        this.distanceOfDriving = Integer.parseInt(in.nextLine());
+        LOGGER.info(distanceOfDriving);
+
+        LOGGER.info("Input passenger number: ");
+        this.passengerNumber = Integer.parseInt(in.nextLine());
+        LOGGER.info(passengerNumber);
+
+        LOGGER.info("Input 'yes' or 'no' animal transportation: ");
+        this.animalTransportation = in.nextLine();
+        LOGGER.info(animalTransportation);
+
+        LOGGER.info("Input 'yes' or 'no' conditioner in car: ");
+        this.conditioner = in.nextLine();
+        LOGGER.info(conditioner);
+
+        LOGGER.info("Input 'yes' or 'no' silence in car : ");
+        this.silenceInCar = in.nextLine();
+        LOGGER.info(silenceInCar);
+
+        LOGGER.info("Input 'yes' or 'no' luggage in cabin: ");
+        this.LuggageInCabin = in.nextLine();
+        LOGGER.info(LuggageInCabin);
+
+        LOGGER.info("Input 'yes' or 'no' internet in car: ");
+        this.internetInCar = in.nextLine();
+        LOGGER.info(internetInCar);
+    }
+
+    public void confirmedOrderResult(){
+
+        if (getPrice() > 0 && orderConfirm()) {
+            getTaxi().getDriversAndCars().getDriver().driverStatus();
+            LOGGER.info("Price - " + getPrice());
+            LOGGER.info("Car model - " + getTaxi().getDriversAndCars().getCar().getModel());
+            LOGGER.info("Car number - " + getTaxi().getDriversAndCars().getCar().getCarNumber());
+            LOGGER.info("Driver name - " + getTaxi().getDriversAndCars().getDriver().getName());
+            LOGGER.info("Driver phone number - +380" + getTaxi().getDriversAndCars()
+                    .getDriver().getPhoneNumber());
+            LOGGER.info("Driver knowledge of city Level - " + getTaxi().getDriversAndCars()
+                    .getDriver().getKnowledgeOfCity());
+            LOGGER.info("Driver license expired date - " + getTaxi().getDriversAndCars().getDriver()
+                    .getLicense().getDateOfExpired());
+            Driver.licenseValidityPeriod(getTaxi().getDriversAndCars().getDriver().getName());
+            LOGGER.info("Dispatcher - " + DispatcherList.dispatcherLinkedList()
+                    .get((int) Math.floor(Math.random() * DispatcherList.dispatcherLinkedList().size()))
+                    .getName());
+        } else LOGGER.info("Try again");
+    }
+
+
+
+
+
 
 
     // Getters and Setters creation

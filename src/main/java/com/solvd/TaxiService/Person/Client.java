@@ -1,14 +1,14 @@
 package com.solvd.TaxiService.Person;
 
-import com.solvd.TaxiService.Interfaces.IOrderCancel;
-import com.solvd.TaxiService.Interfaces.IOrderCreation;
+import com.solvd.TaxiService.Interfaces.ICancelOrder;
+import com.solvd.TaxiService.Interfaces.ICreationOrder;
 import com.solvd.TaxiService.Taxi.Order;
 import com.solvd.TaxiService.enums.Gender;
 import org.apache.log4j.Logger;
 
 import java.util.Objects;
 
-public class Client extends Person implements IOrderCreation, IOrderCancel {
+public class Client extends Person implements ICreationOrder, ICancelOrder {
     private static final Logger LOG = Logger.getLogger(Client.class);
     private int location;
     private String luggage;
@@ -33,7 +33,7 @@ public class Client extends Person implements IOrderCreation, IOrderCancel {
 
     // Interfaces overriding
     @Override
-    public Boolean orderCreate() {
+    public Boolean createOrder() {
 
         if (order.getPrice() > 0) {
             LOG.info("Order created");
@@ -43,7 +43,7 @@ public class Client extends Person implements IOrderCreation, IOrderCancel {
     }
 
     @Override
-    public void orderCancel() {
+    public void cancelOrder() {
 
     }
 

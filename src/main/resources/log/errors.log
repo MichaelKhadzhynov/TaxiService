@@ -19,3 +19,47 @@
 2022-12-08 14:41:09 ERROR Driver:89 - exception.PeriodException: License period expired
 2022-12-08 16:17:25 ERROR Driver:89 - exception.PeriodException: License period expired
 2022-12-08 17:07:51 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:15:48 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:16:32 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:16:48 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:18:19 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:18:44 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:19:46 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:22:06 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:22:37 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:23:37 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:24:41 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:25:01 ERROR Driver:92 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:26:12 ERROR Driver:92 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:26:31 ERROR Driver:91 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:26:46 ERROR Driver:92 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:29:36 ERROR Driver:91 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:31:19 ERROR Driver:91 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:31:19 ERROR Driver:91 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:31:51 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 00:37:47 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 10:51:06 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 10:51:47 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:00:15 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:01:25 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:10:26 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:10:47 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:13:17 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:13:59 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:14:16 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:14:38 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:14:53 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:15:13 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:16:17 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:17:31 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:17:53 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:19:25 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 11:19:30 ERROR Driver:89 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-11 14:20:52 ERROR Order:76 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, Noo, No]
+2022-12-11 14:20:52 ERROR Order:76 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, Noo, No]
+2022-12-11 18:19:02 ERROR Order:76 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[, Yes, No, No]
+2022-12-11 18:19:02 ERROR Order:76 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[, Yes, No, No]
+2022-12-11 18:47:28 ERROR Order:77 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[, Yes, no, no]
+2022-12-11 18:47:28 ERROR Order:77 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[, Yes, no, no]
+2022-12-11 18:53:40 ERROR Order:77 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
+2022-12-11 18:53:40 ERROR Order:77 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]

@@ -1,7 +1,7 @@
 package com.solvd.TaxiService.Person;
 
-import com.solvd.TaxiService.Interfaces.IOrderCancel;
-import com.solvd.TaxiService.Interfaces.IOrderStatus;
+import com.solvd.TaxiService.Interfaces.ICancelOrder;
+import com.solvd.TaxiService.Interfaces.IDriverStatus;
 import com.solvd.TaxiService.Lists.LicenseList;
 import com.solvd.TaxiService.enums.Gender;
 import com.solvd.TaxiService.enums.Level;
@@ -15,7 +15,7 @@ import java.time.Period;
 import java.util.Date;
 import java.util.Objects;
 
-public class Driver extends Person implements IOrderStatus, IOrderCancel {
+public class Driver extends Person implements IDriverStatus, ICancelOrder {
     private static final Logger LOGGER = Logger.getLogger(Driver.class);
     private License licensesList;
     private Level drivingExperience;
@@ -37,15 +37,15 @@ public class Driver extends Person implements IOrderStatus, IOrderCancel {
     }
 
     @Override
-    public void orderStatus() {
+    public void driverStatus() {
 
-        if (dispatcher.orderConfirmation()) {
+        if (dispatcher.confirmationOrder()) {
             LOGGER.info("Driver on the way");
         }
     }
 
     @Override
-    public void orderCancel() {
+    public void cancelOrder() {
 
     }
 
@@ -81,12 +81,13 @@ public class Driver extends Person implements IOrderStatus, IOrderCancel {
                         period.getYears() + " year(s), " +
                         period.getMonths() + " month(s), " +
                         period.getDays() + " day(s)");
-            }
+                try {
+                    if (period.getDays() < 0)
+                        throw new PeriodException("License period expired");
 
-            try {
-                if (period.getDays() < 0) throw new PeriodException("License period expired");
-            } catch (PeriodException e) {
-                LOGGER.error(e);
+                } catch (PeriodException e) {
+                    LOGGER.error(e);
+                }
             }
 
         }
