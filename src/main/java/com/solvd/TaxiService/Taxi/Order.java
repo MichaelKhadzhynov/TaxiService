@@ -114,7 +114,7 @@ public class Order {
     public void orderParametersInput() {
 
         Scanner in = new Scanner(System.in);
-        LOGGER.info("Input car type ('Pickup', 'LIMOUSINE', 'CROSSOVER'): ");
+        LOGGER.info("Input car type ('Pickup', 'Limousine', 'Crossover'): ");
         String car = in.nextLine();
         switch (car) {
             case "Pickup":

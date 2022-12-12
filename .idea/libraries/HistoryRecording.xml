@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="HistoryRecording">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../HistoryRecording" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../HistoryRecording/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
