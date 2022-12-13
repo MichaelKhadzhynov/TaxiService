@@ -1,14 +1,32 @@
+LAST ORDER:
+Price - 19
+Car model - FORD
+Car number - 2552
+Driver name - John
+Driver phone number - +380970756443
+Driver knowledge of city Level - MEDIUM
+Driver license expired date - 2026-04-23
+Order creation time - 2022-12-12T12:30:43.706108
 
- 
 LAST ORDER: 
-Price - 0
+Price - 19
 Car model - FORD
 Car number - 1234
 Driver name - Jack
 Driver phone number - +380960909090
 Driver knowledge of city Level - MEDIUM
 Driver license expired date - 2025-08-11
-Order creation time - 2022-12-11T18:47:28.417703
+Order creation time - 2022-12-13T17:50:06.473252
+ 
+LAST ORDER: 
+Price - 14
+Car model - FORD
+Car number - 2552
+Driver name - John
+Driver phone number - +380970756443
+Driver knowledge of city Level - MEDIUM
+Driver license expired date - 2026-04-23
+Order creation time - 2022-12-13T17:51:03.565922
  
 LAST ORDER: 
 Price - 24
@@ -18,34 +36,14 @@ Driver name - Jack
 Driver phone number - +380960909090
 Driver knowledge of city Level - MEDIUM
 Driver license expired date - 2025-08-11
-Order creation time - 2022-12-11T18:49:04.065433
- 
-LAST ORDER: 
-Price - 0
-Car model - FORD
-Car number - 2552
-Driver name - John
-Driver phone number - +380970756443
-Driver knowledge of city Level - MEDIUM
-Driver license expired date - 2026-04-23
-Order creation time - 2022-12-11T18:53:41.019719
- 
-LAST ORDER: 
-Price - 27
-Car model - FORD
-Car number - 2552
-Driver name - John
-Driver phone number - +380970756443
-Driver knowledge of city Level - MEDIUM
-Driver license expired date - 2026-04-23
-Order creation time - 2022-12-11T18:54:04.595583
+Order creation time - 2022-12-13T18:04:09.663133
  
 LAST ORDER: 
 Price - 19
 Car model - FORD
-Car number - 2552
-Driver name - John
-Driver phone number - +380970756443
+Car number - 1234
+Driver name - Jack
+Driver phone number - +380960909090
 Driver knowledge of city Level - MEDIUM
-Driver license expired date - 2026-04-23
-Order creation time - 2022-12-12T12:30:43.706108
+Driver license expired date - 2025-08-11
+Order creation time - 2022-12-13T19:19:15.263669

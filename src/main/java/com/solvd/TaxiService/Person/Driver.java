@@ -42,6 +42,7 @@ public class Driver extends Person implements IDriverStatus, ICancelOrder {
         if (dispatcher.confirmationOrder()) {
             LOGGER.info("Driver on the way");
         }
+
     }
 
     @Override
