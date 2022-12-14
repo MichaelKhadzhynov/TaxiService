@@ -77,7 +77,7 @@ public class Driver extends Person implements IDriverStatus, ICancelOrder {
             LocalDate localDate1 = LocalDate.parse(LicenseList.licensesList().get(i).getDateOfExpired());
             Period period = Period.between(localDate, localDate1);
 
-            if (driverName == LicenseList.licensesList().get(i).getName()) {
+            if (driverName.equals(LicenseList.licensesList().get(i).getName())) {
                 LOGGER.info("Driver license validity period - " +
                         period.getYears() + " year(s), " +
                         period.getMonths() + " month(s), " +

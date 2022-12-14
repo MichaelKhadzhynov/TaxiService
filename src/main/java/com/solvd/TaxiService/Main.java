@@ -4,6 +4,7 @@ package com.solvd.TaxiService;
 import com.solvd.TaxiService.Person.Client;
 import com.solvd.TaxiService.Person.Dispatcher;
 import com.solvd.TaxiService.Taxi.Order;
+import com.solvd.TaxiService.Taxi.TaxiSimpleGUI;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 
@@ -48,11 +49,6 @@ public class Main {
 
 
 
-
-
-
-
-
         String fromFile = "/Users/michael/div/IntelejIDEA Project/TaxiService/src/main/resources/history/orderHistory.txt";
         String toFile = "/Users/michael/div/IntelejIDEA Project/TaxiService/src/main/resources/history/newFile.txt";
 
@@ -64,6 +60,8 @@ public class Main {
         Map<String, Long> wordsMap = list.stream().collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
         Files.write(Path.of(toFile), wordsMap.entrySet().stream().map(k -> k.getKey() + " - " + k.getValue()).collect(Collectors.toList()), UTF_8);
 
+//        TaxiSimpleGUI app = new TaxiSimpleGUI();
+//        app.setVisible(true);
     }
 }
 

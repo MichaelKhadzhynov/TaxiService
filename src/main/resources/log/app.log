@@ -2500,3 +2500,117 @@
 2022-12-13 19:19:15 INFO  Order:175 - Driver license expired date - 2025-08-11
 2022-12-13 19:19:15 INFO  Driver:81 - Driver license validity period - 2 year(s), 7 month(s), 29 day(s)
 2022-12-13 19:19:15 INFO  Order:178 - Dispatcher - Sofi
+2022-12-14 11:41:55 INFO  Order:117 - Input car type ('Pickup', 'Limousine', 'Crossover'): 
+2022-12-14 11:42:09 INFO  Order:132 - Pickup
+2022-12-14 11:42:09 INFO  Order:134 - Input distance of driving: 
+2022-12-14 11:42:13 INFO  Order:136 - 12
+2022-12-14 11:42:13 INFO  Order:138 - Input passenger number: 
+2022-12-14 11:42:15 INFO  Order:140 - 2
+2022-12-14 11:42:15 INFO  Order:142 - Input 'yes' or 'no' animal transportation: 
+2022-12-14 11:42:18 INFO  Order:144 - no
+2022-12-14 11:42:18 INFO  Order:146 - Input 'yes' or 'no' conditioner in car: 
+2022-12-14 11:42:19 INFO  Order:148 - no
+2022-12-14 11:42:19 INFO  Order:150 - Input 'yes' or 'no' silence in car : 
+2022-12-14 11:42:20 INFO  Order:152 - no
+2022-12-14 11:42:20 INFO  Order:154 - Input 'yes' or 'no' luggage in cabin: 
+2022-12-14 11:42:22 INFO  Order:156 - no
+2022-12-14 11:42:22 INFO  Order:158 - Input 'yes' or 'no' internet in car: 
+2022-12-14 11:42:24 INFO  Order:160 - no
+2022-12-14 11:42:24 INFO  Client:39 - Order created
+2022-12-14 11:42:24 INFO  Dispatcher:39 - Order confirmed
+2022-12-14 11:42:24 INFO  Driver:43 - Driver on the way
+2022-12-14 11:42:24 INFO  Order:167 - Price - 14
+2022-12-14 11:42:24 INFO  Order:168 - Car model - FORD
+2022-12-14 11:42:24 INFO  Order:169 - Car number - 1234
+2022-12-14 11:42:24 INFO  Order:170 - Driver name - Jack
+2022-12-14 11:42:24 INFO  Order:171 - Driver phone number - +380960909090
+2022-12-14 11:42:24 INFO  Order:173 - Driver knowledge of city Level - MEDIUM
+2022-12-14 11:42:24 INFO  Order:175 - Driver license expired date - 2025-08-11
+2022-12-14 11:42:24 INFO  Driver:81 - Driver license validity period - 2 year(s), 7 month(s), 28 day(s)
+2022-12-14 11:42:24 INFO  Order:178 - Dispatcher - Sofi
+2022-12-14 18:24:05 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
+2022-12-14 18:51:18 INFO  Order:117 - Input car type ('Pickup', 'Limousine', 'Crossover'): 
+2022-12-14 18:51:24 INFO  Order:132 - Pickup
+2022-12-14 18:51:24 INFO  Order:134 - Input distance of driving: 
+2022-12-14 18:51:27 INFO  Order:136 - 12
+2022-12-14 18:51:27 INFO  Order:138 - Input passenger number: 
+2022-12-14 18:51:28 INFO  Order:140 - 2
+2022-12-14 18:51:28 INFO  Order:142 - Input 'yes' or 'no' animal transportation: 
+2022-12-14 18:51:30 INFO  Order:144 - no
+2022-12-14 18:51:30 INFO  Order:146 - Input 'yes' or 'no' conditioner in car: 
+2022-12-14 18:51:32 INFO  Order:148 - no
+2022-12-14 18:51:32 INFO  Order:150 - Input 'yes' or 'no' silence in car : 
+2022-12-14 18:51:34 INFO  Order:152 - yes
+2022-12-14 18:51:34 INFO  Order:154 - Input 'yes' or 'no' luggage in cabin: 
+2022-12-14 18:51:36 INFO  Order:156 - no
+2022-12-14 18:51:36 INFO  Order:158 - Input 'yes' or 'no' internet in car: 
+2022-12-14 18:51:38 INFO  Order:160 - no
+2022-12-14 18:51:38 INFO  Client:39 - Order created
+2022-12-14 18:51:38 INFO  Dispatcher:39 - Order confirmed
+2022-12-14 18:51:38 INFO  Driver:43 - Driver on the way
+2022-12-14 18:51:38 INFO  Order:167 - Price - 14
+2022-12-14 18:51:38 INFO  Order:168 - Car model - FORD
+2022-12-14 18:51:38 INFO  Order:169 - Car number - 1234
+2022-12-14 18:51:38 INFO  Order:170 - Driver name - Jack
+2022-12-14 18:51:38 INFO  Order:171 - Driver phone number - +380960909090
+2022-12-14 18:51:38 INFO  Order:173 - Driver knowledge of city Level - MEDIUM
+2022-12-14 18:51:38 INFO  Order:175 - Driver license expired date - 2025-08-11
+2022-12-14 18:51:38 INFO  Driver:81 - Driver license validity period - 2 year(s), 7 month(s), 28 day(s)
+2022-12-14 18:51:38 INFO  Order:178 - Dispatcher - Ban
+2022-12-14 19:07:43 INFO  Order:117 - Input car type ('Pickup', 'Limousine', 'Crossover'): 
+2022-12-14 19:19:34 INFO  Order:117 - Input car type ('Pickup', 'Limousine', 'Crossover'): 
+2022-12-14 19:19:43 INFO  Order:132 - Pickup
+2022-12-14 19:19:43 INFO  Order:134 - Input distance of driving: 
+2022-12-14 19:19:46 INFO  Order:136 - 12
+2022-12-14 19:19:46 INFO  Order:138 - Input passenger number: 
+2022-12-14 19:19:47 INFO  Order:140 - 2
+2022-12-14 19:19:47 INFO  Order:142 - Input 'yes' or 'no' animal transportation: 
+2022-12-14 19:19:49 INFO  Order:144 - no
+2022-12-14 19:19:49 INFO  Order:146 - Input 'yes' or 'no' conditioner in car: 
+2022-12-14 19:19:51 INFO  Order:148 - no
+2022-12-14 19:19:51 INFO  Order:150 - Input 'yes' or 'no' silence in car : 
+2022-12-14 19:19:55 INFO  Order:152 - no
+2022-12-14 19:19:55 INFO  Order:154 - Input 'yes' or 'no' luggage in cabin: 
+2022-12-14 19:19:57 INFO  Order:156 - no
+2022-12-14 19:19:57 INFO  Order:158 - Input 'yes' or 'no' internet in car: 
+2022-12-14 19:19:58 INFO  Order:160 - no
+2022-12-14 19:19:58 INFO  Client:39 - Order created
+2022-12-14 19:19:58 INFO  Dispatcher:39 - Order confirmed
+2022-12-14 19:19:58 INFO  Driver:43 - Driver on the way
+2022-12-14 19:19:58 INFO  Order:167 - Price - 14
+2022-12-14 19:19:58 INFO  Order:168 - Car model - FORD
+2022-12-14 19:19:58 INFO  Order:169 - Car number - 1234
+2022-12-14 19:19:58 INFO  Order:170 - Driver name - Jack
+2022-12-14 19:19:58 INFO  Order:171 - Driver phone number - +380960909090
+2022-12-14 19:19:58 INFO  Order:173 - Driver knowledge of city Level - MEDIUM
+2022-12-14 19:19:58 INFO  Order:175 - Driver license expired date - 2025-08-11
+2022-12-14 19:19:58 INFO  Driver:81 - Driver license validity period - 2 year(s), 7 month(s), 28 day(s)
+2022-12-14 19:19:59 INFO  Order:178 - Dispatcher - Ban
+2022-12-14 19:22:00 INFO  Order:117 - Input car type ('Pickup', 'Limousine', 'Crossover'): 
+2022-12-14 19:22:07 INFO  Order:132 - Pickup
+2022-12-14 19:22:07 INFO  Order:134 - Input distance of driving: 
+2022-12-14 19:22:09 INFO  Order:136 - 12
+2022-12-14 19:22:09 INFO  Order:138 - Input passenger number: 
+2022-12-14 19:22:10 INFO  Order:140 - 2
+2022-12-14 19:22:10 INFO  Order:142 - Input 'yes' or 'no' animal transportation: 
+2022-12-14 19:22:12 INFO  Order:144 - no
+2022-12-14 19:22:12 INFO  Order:146 - Input 'yes' or 'no' conditioner in car: 
+2022-12-14 19:22:13 INFO  Order:148 - no
+2022-12-14 19:22:13 INFO  Order:150 - Input 'yes' or 'no' silence in car : 
+2022-12-14 19:22:14 INFO  Order:152 - no
+2022-12-14 19:22:14 INFO  Order:154 - Input 'yes' or 'no' luggage in cabin: 
+2022-12-14 19:22:15 INFO  Order:156 - no
+2022-12-14 19:22:15 INFO  Order:158 - Input 'yes' or 'no' internet in car: 
+2022-12-14 19:22:16 INFO  Order:160 - no
+2022-12-14 19:22:16 INFO  Client:39 - Order created
+2022-12-14 19:22:16 INFO  Dispatcher:39 - Order confirmed
+2022-12-14 19:22:16 INFO  Driver:43 - Driver on the way
+2022-12-14 19:22:17 INFO  Order:167 - Price - 14
+2022-12-14 19:22:17 INFO  Order:168 - Car model - FORD
+2022-12-14 19:22:17 INFO  Order:169 - Car number - 1234
+2022-12-14 19:22:17 INFO  Order:170 - Driver name - Jack
+2022-12-14 19:22:17 INFO  Order:171 - Driver phone number - +380960909090
+2022-12-14 19:22:17 INFO  Order:173 - Driver knowledge of city Level - MEDIUM
+2022-12-14 19:22:17 INFO  Order:175 - Driver license expired date - 2025-08-11
+2022-12-14 19:22:17 INFO  Driver:81 - Driver license validity period - 2 year(s), 7 month(s), 28 day(s)
+2022-12-14 19:22:17 INFO  Order:178 - Dispatcher - Sofi

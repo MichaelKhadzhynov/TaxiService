@@ -63,3 +63,4 @@
 2022-12-11 18:47:28 ERROR Order:77 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[, Yes, no, no]
 2022-12-11 18:53:40 ERROR Order:77 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
 2022-12-11 18:53:40 ERROR Order:77 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
+2022-12-14 18:24:05 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
