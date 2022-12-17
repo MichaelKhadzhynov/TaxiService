@@ -29,24 +29,28 @@ public class Main {
     public static void main(String[] args) throws IOException {
 
 
-        // Order creation
-        Order order = new Order();
-        order.orderParametersInput();
-
-        // New client
-        Client client = new Client();
-        client.setOrder(order);
-
-        // New dispatcher
-        Dispatcher dispatcher = new Dispatcher();
-        dispatcher.setClient(client);
-        order.getTaxi().getDriversAndCars().getDriver().setDispatcher(dispatcher);
-
-        // Get order confirmed result and recording order history
-        order.confirmedOrderResult();
-        order.orderHistoryRecording();
-
-
+//        // Order creation
+//        Order order = new Order();
+//        order.orderParametersInput();
+//
+//        // New client
+//        Client client = new Client();
+//        client.setOrder(order);
+//
+//        // New dispatcher
+//        Dispatcher dispatcher = new Dispatcher();
+//        dispatcher.setClient(client);
+//        order.getTaxi().getDriversAndCars().getDriver().setDispatcher(dispatcher);
+//
+//        // Get order confirmed result and recording order history
+//        order.confirmedOrderResult();
+//        order.orderHistoryRecording();
+//
+//
+//
+//
+        TaxiSimpleGUI app = new TaxiSimpleGUI();
+        app.setVisible(true);
 
 
         String fromFile = "/Users/michael/div/IntelejIDEA Project/TaxiService/src/main/resources/history/orderHistory.txt";
@@ -60,8 +64,8 @@ public class Main {
         Map<String, Long> wordsMap = list.stream().collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
         Files.write(Path.of(toFile), wordsMap.entrySet().stream().map(k -> k.getKey() + " - " + k.getValue()).collect(Collectors.toList()), UTF_8);
 
-//        TaxiSimpleGUI app = new TaxiSimpleGUI();
-//        app.setVisible(true);
+
+
     }
 }
 

@@ -2614,3 +2614,221 @@
 2022-12-14 19:22:17 INFO  Order:175 - Driver license expired date - 2025-08-11
 2022-12-14 19:22:17 INFO  Driver:81 - Driver license validity period - 2 year(s), 7 month(s), 28 day(s)
 2022-12-14 19:22:17 INFO  Order:178 - Dispatcher - Sofi
+2022-12-15 16:28:46 INFO  Client:39 - Order created
+2022-12-15 16:28:46 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 16:28:46 INFO  Driver:43 - Driver on the way
+2022-12-15 16:28:46 INFO  Order:167 - Price - 11
+2022-12-15 16:28:46 INFO  Order:168 - Car model - BMW
+2022-12-15 16:28:46 INFO  Order:169 - Car number - 0000
+2022-12-15 16:28:46 INFO  Order:170 - Driver name - Ann
+2022-12-15 16:28:46 INFO  Order:171 - Driver phone number - +380670023456
+2022-12-15 16:28:46 INFO  Order:173 - Driver knowledge of city Level - HEIGHT
+2022-12-15 16:28:46 INFO  Order:175 - Driver license expired date - 2020-03-16
+2022-12-15 16:28:46 INFO  Driver:81 - Driver license validity period - -2 year(s), -8 month(s), -30 day(s)
+2022-12-15 16:28:46 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 16:28:46 INFO  Order:178 - Dispatcher - Ban
+2022-12-15 16:29:50 INFO  Client:39 - Order created
+2022-12-15 16:29:50 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 16:29:50 INFO  Driver:43 - Driver on the way
+2022-12-15 16:29:50 INFO  Order:167 - Price - 11
+2022-12-15 16:29:50 INFO  Order:168 - Car model - BMW
+2022-12-15 16:29:50 INFO  Order:169 - Car number - 0000
+2022-12-15 16:29:50 INFO  Order:170 - Driver name - Ann
+2022-12-15 16:29:50 INFO  Order:171 - Driver phone number - +380670023456
+2022-12-15 16:29:50 INFO  Order:173 - Driver knowledge of city Level - HEIGHT
+2022-12-15 16:29:50 INFO  Order:175 - Driver license expired date - 2020-03-16
+2022-12-15 16:29:50 INFO  Driver:81 - Driver license validity period - -2 year(s), -8 month(s), -30 day(s)
+2022-12-15 16:29:50 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 16:29:50 INFO  Order:178 - Dispatcher - Ban
+2022-12-15 16:36:39 INFO  Client:39 - Order created
+2022-12-15 16:36:39 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 16:36:39 INFO  Driver:43 - Driver on the way
+2022-12-15 16:36:39 INFO  Order:171 - Price - 11
+2022-12-15 16:36:39 INFO  Order:172 - Car model - BMW
+2022-12-15 16:36:39 INFO  Order:173 - Car number - 0000
+2022-12-15 16:36:39 INFO  Order:174 - Driver name - Ann
+2022-12-15 16:36:39 INFO  Order:175 - Driver phone number - +380670023456
+2022-12-15 16:36:39 INFO  Order:177 - Driver knowledge of city Level - HEIGHT
+2022-12-15 16:36:39 INFO  Order:179 - Driver license expired date - 2020-03-16
+2022-12-15 16:36:39 INFO  Driver:81 - Driver license validity period - -2 year(s), -8 month(s), -30 day(s)
+2022-12-15 16:36:39 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 16:36:39 INFO  Order:182 - Dispatcher - Ban
+2022-12-15 16:37:46 INFO  Client:39 - Order created
+2022-12-15 16:37:46 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 16:37:46 INFO  Driver:43 - Driver on the way
+2022-12-15 16:37:46 INFO  Order:171 - Price - 13
+2022-12-15 16:37:46 INFO  Order:172 - Car model - BMW
+2022-12-15 16:37:46 INFO  Order:173 - Car number - 0000
+2022-12-15 16:37:46 INFO  Order:174 - Driver name - Ann
+2022-12-15 16:37:46 INFO  Order:175 - Driver phone number - +380670023456
+2022-12-15 16:37:46 INFO  Order:177 - Driver knowledge of city Level - HEIGHT
+2022-12-15 16:37:46 INFO  Order:179 - Driver license expired date - 2020-03-16
+2022-12-15 16:37:46 INFO  Driver:81 - Driver license validity period - -2 year(s), -8 month(s), -30 day(s)
+2022-12-15 16:37:46 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 16:37:46 INFO  Order:182 - Dispatcher - Ban
+2022-12-15 21:22:37 INFO  Client:39 - Order created
+2022-12-15 21:22:38 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:22:38 INFO  Driver:43 - Driver on the way
+2022-12-15 21:22:38 INFO  Order:171 - Price - 44
+2022-12-15 21:22:38 INFO  Order:172 - Car model - BMW
+2022-12-15 21:22:38 INFO  Order:173 - Car number - 0000
+2022-12-15 21:22:38 INFO  Order:174 - Driver name - Ann
+2022-12-15 21:22:38 INFO  Order:175 - Driver phone number - +380670023456
+2022-12-15 21:22:38 INFO  Order:177 - Driver knowledge of city Level - HEIGHT
+2022-12-15 21:22:38 INFO  Order:179 - Driver license expired date - 2020-03-16
+2022-12-15 21:22:38 INFO  Driver:81 - Driver license validity period - -2 year(s), -8 month(s), -30 day(s)
+2022-12-15 21:22:38 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:22:38 INFO  Order:182 - Dispatcher - Ban
+2022-12-15 21:22:43 INFO  Client:39 - Order created
+2022-12-15 21:22:43 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:22:43 INFO  Driver:43 - Driver on the way
+2022-12-15 21:22:43 INFO  Order:171 - Price - 44
+2022-12-15 21:22:43 INFO  Order:172 - Car model - FORD
+2022-12-15 21:22:43 INFO  Order:173 - Car number - 2552
+2022-12-15 21:22:43 INFO  Order:174 - Driver name - John
+2022-12-15 21:22:43 INFO  Order:175 - Driver phone number - +380970756443
+2022-12-15 21:22:43 INFO  Order:177 - Driver knowledge of city Level - MEDIUM
+2022-12-15 21:22:43 INFO  Order:179 - Driver license expired date - 2026-04-23
+2022-12-15 21:22:43 INFO  Driver:81 - Driver license validity period - 3 year(s), 4 month(s), 8 day(s)
+2022-12-15 21:22:43 INFO  Order:182 - Dispatcher - Sofi
+2022-12-15 21:23:05 INFO  Client:39 - Order created
+2022-12-15 21:23:05 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:23:05 INFO  Driver:43 - Driver on the way
+2022-12-15 21:23:05 INFO  Order:171 - Price - 44
+2022-12-15 21:23:05 INFO  Order:172 - Car model - FORD
+2022-12-15 21:23:05 INFO  Order:173 - Car number - 2552
+2022-12-15 21:23:05 INFO  Order:174 - Driver name - John
+2022-12-15 21:23:05 INFO  Order:175 - Driver phone number - +380970756443
+2022-12-15 21:23:05 INFO  Order:177 - Driver knowledge of city Level - MEDIUM
+2022-12-15 21:23:05 INFO  Order:179 - Driver license expired date - 2026-04-23
+2022-12-15 21:23:05 INFO  Driver:81 - Driver license validity period - 3 year(s), 4 month(s), 8 day(s)
+2022-12-15 21:23:05 INFO  Order:182 - Dispatcher - Ban
+2022-12-15 21:23:11 INFO  Client:39 - Order created
+2022-12-15 21:23:11 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:23:11 INFO  Driver:43 - Driver on the way
+2022-12-15 21:23:11 INFO  Order:171 - Price - 44
+2022-12-15 21:23:11 INFO  Order:172 - Car model - FORD
+2022-12-15 21:23:11 INFO  Order:173 - Car number - 2552
+2022-12-15 21:23:11 INFO  Order:174 - Driver name - John
+2022-12-15 21:23:11 INFO  Order:175 - Driver phone number - +380970756443
+2022-12-15 21:23:11 INFO  Order:177 - Driver knowledge of city Level - MEDIUM
+2022-12-15 21:23:11 INFO  Order:179 - Driver license expired date - 2026-04-23
+2022-12-15 21:23:11 INFO  Driver:81 - Driver license validity period - 3 year(s), 4 month(s), 8 day(s)
+2022-12-15 21:23:11 INFO  Order:182 - Dispatcher - Sofi
+2022-12-15 21:23:15 INFO  Client:39 - Order created
+2022-12-15 21:23:15 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:23:15 INFO  Driver:43 - Driver on the way
+2022-12-15 21:23:15 INFO  Order:171 - Price - 44
+2022-12-15 21:23:15 INFO  Order:172 - Car model - BMW
+2022-12-15 21:23:15 INFO  Order:173 - Car number - 0000
+2022-12-15 21:23:15 INFO  Order:174 - Driver name - Ann
+2022-12-15 21:23:15 INFO  Order:175 - Driver phone number - +380670023456
+2022-12-15 21:23:15 INFO  Order:177 - Driver knowledge of city Level - HEIGHT
+2022-12-15 21:23:15 INFO  Order:179 - Driver license expired date - 2020-03-16
+2022-12-15 21:23:15 INFO  Driver:81 - Driver license validity period - -2 year(s), -8 month(s), -30 day(s)
+2022-12-15 21:23:15 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:23:15 INFO  Order:182 - Dispatcher - Ban
+2022-12-15 21:23:29 INFO  Client:39 - Order created
+2022-12-15 21:23:29 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:23:29 INFO  Driver:43 - Driver on the way
+2022-12-15 21:23:29 INFO  Order:171 - Price - 44
+2022-12-15 21:23:29 INFO  Order:172 - Car model - BMW
+2022-12-15 21:23:29 INFO  Order:173 - Car number - 0000
+2022-12-15 21:23:29 INFO  Order:174 - Driver name - Ann
+2022-12-15 21:23:29 INFO  Order:175 - Driver phone number - +380670023456
+2022-12-15 21:23:29 INFO  Order:177 - Driver knowledge of city Level - HEIGHT
+2022-12-15 21:23:29 INFO  Order:179 - Driver license expired date - 2020-03-16
+2022-12-15 21:23:29 INFO  Driver:81 - Driver license validity period - -2 year(s), -8 month(s), -30 day(s)
+2022-12-15 21:23:29 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:23:29 INFO  Order:182 - Dispatcher - Ban
+2022-12-15 21:23:44 INFO  Client:39 - Order created
+2022-12-15 21:23:44 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:23:44 INFO  Driver:43 - Driver on the way
+2022-12-15 21:23:44 INFO  Order:171 - Price - 44
+2022-12-15 21:23:44 INFO  Order:172 - Car model - BMW
+2022-12-15 21:23:44 INFO  Order:173 - Car number - 0000
+2022-12-15 21:23:44 INFO  Order:174 - Driver name - Ann
+2022-12-15 21:23:44 INFO  Order:175 - Driver phone number - +380670023456
+2022-12-15 21:23:44 INFO  Order:177 - Driver knowledge of city Level - HEIGHT
+2022-12-15 21:23:44 INFO  Order:179 - Driver license expired date - 2020-03-16
+2022-12-15 21:23:44 INFO  Driver:81 - Driver license validity period - -2 year(s), -8 month(s), -30 day(s)
+2022-12-15 21:23:44 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:23:44 INFO  Order:182 - Dispatcher - Sofi
+2022-12-15 21:23:49 INFO  Client:39 - Order created
+2022-12-15 21:23:49 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:23:49 INFO  Driver:43 - Driver on the way
+2022-12-15 21:23:49 INFO  Order:171 - Price - 44
+2022-12-15 21:23:49 INFO  Order:172 - Car model - BMW
+2022-12-15 21:23:49 INFO  Order:173 - Car number - 0000
+2022-12-15 21:23:49 INFO  Order:174 - Driver name - Ann
+2022-12-15 21:23:49 INFO  Order:175 - Driver phone number - +380670023456
+2022-12-15 21:23:49 INFO  Order:177 - Driver knowledge of city Level - HEIGHT
+2022-12-15 21:23:49 INFO  Order:179 - Driver license expired date - 2020-03-16
+2022-12-15 21:23:49 INFO  Driver:81 - Driver license validity period - -2 year(s), -8 month(s), -30 day(s)
+2022-12-15 21:23:49 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:23:49 INFO  Order:182 - Dispatcher - Ban
+2022-12-15 21:23:54 INFO  Client:39 - Order created
+2022-12-15 21:23:54 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:23:54 INFO  Driver:43 - Driver on the way
+2022-12-15 21:23:54 INFO  Order:171 - Price - 44
+2022-12-15 21:23:54 INFO  Order:172 - Car model - FORD
+2022-12-15 21:23:54 INFO  Order:173 - Car number - 2552
+2022-12-15 21:23:54 INFO  Order:174 - Driver name - John
+2022-12-15 21:23:54 INFO  Order:175 - Driver phone number - +380970756443
+2022-12-15 21:23:54 INFO  Order:177 - Driver knowledge of city Level - MEDIUM
+2022-12-15 21:23:54 INFO  Order:179 - Driver license expired date - 2026-04-23
+2022-12-15 21:23:54 INFO  Driver:81 - Driver license validity period - 3 year(s), 4 month(s), 8 day(s)
+2022-12-15 21:23:54 INFO  Order:182 - Dispatcher - Ban
+2022-12-15 21:23:59 INFO  Client:39 - Order created
+2022-12-15 21:23:59 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:23:59 INFO  Driver:43 - Driver on the way
+2022-12-15 21:23:59 INFO  Order:171 - Price - 44
+2022-12-15 21:23:59 INFO  Order:172 - Car model - FORD
+2022-12-15 21:23:59 INFO  Order:173 - Car number - 2552
+2022-12-15 21:23:59 INFO  Order:174 - Driver name - John
+2022-12-15 21:23:59 INFO  Order:175 - Driver phone number - +380970756443
+2022-12-15 21:23:59 INFO  Order:177 - Driver knowledge of city Level - MEDIUM
+2022-12-15 21:23:59 INFO  Order:179 - Driver license expired date - 2026-04-23
+2022-12-15 21:23:59 INFO  Driver:81 - Driver license validity period - 3 year(s), 4 month(s), 8 day(s)
+2022-12-15 21:23:59 INFO  Order:182 - Dispatcher - Ban
+2022-12-15 21:24:37 INFO  Client:39 - Order created
+2022-12-15 21:24:37 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:24:37 INFO  Driver:43 - Driver on the way
+2022-12-15 21:24:37 INFO  Order:171 - Price - 34
+2022-12-15 21:24:37 INFO  Order:172 - Car model - FORD
+2022-12-15 21:24:37 INFO  Order:173 - Car number - 2552
+2022-12-15 21:24:37 INFO  Order:174 - Driver name - John
+2022-12-15 21:24:37 INFO  Order:175 - Driver phone number - +380970756443
+2022-12-15 21:24:37 INFO  Order:177 - Driver knowledge of city Level - MEDIUM
+2022-12-15 21:24:37 INFO  Order:179 - Driver license expired date - 2026-04-23
+2022-12-15 21:24:37 INFO  Driver:81 - Driver license validity period - 3 year(s), 4 month(s), 8 day(s)
+2022-12-15 21:24:37 INFO  Order:182 - Dispatcher - Sofi
+2022-12-15 21:25:02 INFO  Client:39 - Order created
+2022-12-15 21:25:02 INFO  Dispatcher:39 - Order confirmed
+2022-12-15 21:25:02 INFO  Driver:43 - Driver on the way
+2022-12-15 21:25:02 INFO  Order:171 - Price - 9
+2022-12-15 21:25:02 INFO  Order:172 - Car model - BMW
+2022-12-15 21:25:02 INFO  Order:173 - Car number - 0000
+2022-12-15 21:25:02 INFO  Order:174 - Driver name - Ann
+2022-12-15 21:25:02 INFO  Order:175 - Driver phone number - +380670023456
+2022-12-15 21:25:02 INFO  Order:177 - Driver knowledge of city Level - HEIGHT
+2022-12-15 21:25:02 INFO  Order:179 - Driver license expired date - 2020-03-16
+2022-12-15 21:25:02 INFO  Driver:81 - Driver license validity period - -2 year(s), -8 month(s), -30 day(s)
+2022-12-15 21:25:02 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:25:02 INFO  Order:182 - Dispatcher - Ban
+2022-12-15 21:25:26 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
+2022-12-15 21:25:27 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
+2022-12-15 21:25:27 INFO  Order:185 - Try again
+2022-12-15 21:27:46 INFO  Order:185 - Try again
+2022-12-16 19:52:54 INFO  Client:39 - Order created
+2022-12-16 19:52:54 INFO  Dispatcher:39 - Order confirmed
+2022-12-16 19:52:54 INFO  Driver:43 - Driver on the way
+2022-12-16 19:52:54 INFO  Order:171 - Price - 9
+2022-12-16 19:52:54 INFO  Order:172 - Car model - FORD
+2022-12-16 19:52:54 INFO  Order:173 - Car number - 2552
+2022-12-16 19:52:54 INFO  Order:174 - Driver name - John
+2022-12-16 19:52:54 INFO  Order:175 - Driver phone number - +380970756443
+2022-12-16 19:52:54 INFO  Order:177 - Driver knowledge of city Level - MEDIUM
+2022-12-16 19:52:54 INFO  Order:179 - Driver license expired date - 2026-04-23
+2022-12-16 19:52:54 INFO  Driver:81 - Driver license validity period - 3 year(s), 4 month(s), 7 day(s)
+2022-12-16 19:52:54 INFO  Order:182 - Dispatcher - Sofi

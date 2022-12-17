@@ -1,11 +1,15 @@
 package com.solvd.TaxiService.Taxi;
 
+import com.solvd.TaxiService.Person.Client;
+import com.solvd.TaxiService.Person.Dispatcher;
 import com.solvd.TaxiService.enums.TaxiCars;
 
 import javax.swing.*;
+import javax.swing.plaf.ColorUIResource;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.IOException;
 import java.time.LocalDateTime;
 
 public class TaxiSimpleGUI extends JFrame {
@@ -41,6 +45,7 @@ public class TaxiSimpleGUI extends JFrame {
         container.add(inputDistance);
 
         container.add(internetInCar);
+        container.setBackground(Color.GRAY.brighter());
         container.add(animalTransportation);
         container.add(conditioner);
         container.add(silenceInCar);
@@ -56,6 +61,7 @@ public class TaxiSimpleGUI extends JFrame {
         @Override
         public void actionPerformed(ActionEvent e) {
             Order order = new Order();
+
 
             order.setTaxi((TaxiCars) inputTypeCar.getSelectedItem());
 
@@ -88,6 +94,20 @@ public class TaxiSimpleGUI extends JFrame {
             } else massage += "Try again";
 
             JOptionPane.showMessageDialog(null, massage, "Order Result", JOptionPane.PLAIN_MESSAGE);
+
+            // New client
+            Client client = new Client();
+            client.setOrder(order);
+
+            // New dispatcher
+            Dispatcher dispatcher = new Dispatcher();
+            dispatcher.setClient(client);
+            order.getTaxi().getDriversAndCars().getDriver().setDispatcher(dispatcher);
+
+            // Get order confirmed result and recording order history
+            order.confirmedOrderResult();
+            order.orderHistoryRecording();
+
 
         }
     }

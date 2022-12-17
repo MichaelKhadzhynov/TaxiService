@@ -99,16 +99,20 @@ public class Order {
         return i;
     }
 
-    public void orderHistoryRecording() throws IOException {
+    public void orderHistoryRecording()  {
 
-        RecordingResults.recording("Price - " + getPrice() + "\n"
-                + "Car model - " + getTaxi().getDriversAndCars().getCar().getModel() + "\n"
-                + "Car number - " + getTaxi().getDriversAndCars().getCar().getCarNumber() + "\n"
-                + "Driver name - " + getTaxi().getDriversAndCars().getDriver().getName() + "\n"
-                + "Driver phone number - +380" + getTaxi().getDriversAndCars().getDriver().getPhoneNumber() + "\n"
-                + "Driver knowledge of city Level - " + getTaxi().getDriversAndCars().getDriver().getKnowledgeOfCity() + "\n"
-                + "Driver license expired date - " + getTaxi().getDriversAndCars().getDriver().getLicense().getDateOfExpired() + "\n"
-                + "Order creation time - " + LocalDateTime.now());
+        try {
+            RecordingResults.recording("Price - " + getPrice() + "\n"
+                    + "Car model - " + getTaxi().getDriversAndCars().getCar().getModel() + "\n"
+                    + "Car number - " + getTaxi().getDriversAndCars().getCar().getCarNumber() + "\n"
+                    + "Driver name - " + getTaxi().getDriversAndCars().getDriver().getName() + "\n"
+                    + "Driver phone number - +380" + getTaxi().getDriversAndCars().getDriver().getPhoneNumber() + "\n"
+                    + "Driver knowledge of city Level - " + getTaxi().getDriversAndCars().getDriver().getKnowledgeOfCity() + "\n"
+                    + "Driver license expired date - " + getTaxi().getDriversAndCars().getDriver().getLicense().getDateOfExpired() + "\n"
+                    + "Order creation time - " + LocalDateTime.now());
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     public void orderParametersInput() {
@@ -181,17 +185,6 @@ public class Order {
         } else LOGGER.info("Try again");
     }
 
-    public String taxiGUIResult(){
-        return ("Price - " + getPrice() + "\n"
-                + "Car model - " + getTaxi().getDriversAndCars().getCar().getModel() + "\n"
-                + "Car number - " + getTaxi().getDriversAndCars().getCar().getCarNumber() + "\n"
-                + "Driver name - " + getTaxi().getDriversAndCars().getDriver().getName() + "\n"
-                + "Driver phone number - +380" + getTaxi().getDriversAndCars().getDriver().getPhoneNumber() + "\n"
-                + "Driver knowledge of city Level - " + getTaxi().getDriversAndCars().getDriver().getKnowledgeOfCity() + "\n"
-                + "Driver license expired date - " + getTaxi().getDriversAndCars().getDriver().getLicense().getDateOfExpired() + "\n"
-                + "Order creation time - " + LocalDateTime.now());
-
-    }
 
 
 

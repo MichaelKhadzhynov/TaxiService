@@ -64,3 +64,15 @@
 2022-12-11 18:53:40 ERROR Order:77 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
 2022-12-11 18:53:40 ERROR Order:77 - com.solvd.TaxiService.exception.IncorrectChoiceException: Incorrect Choice[Yes, Yes, No, No]
 2022-12-14 18:24:05 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
+2022-12-15 16:28:46 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 16:29:50 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 16:36:39 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 16:37:46 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:22:38 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:23:15 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:23:29 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:23:44 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:23:49 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:25:02 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-15 21:25:26 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
+2022-12-15 21:25:27 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
