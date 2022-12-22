@@ -15,6 +15,9 @@ public class License {
     private String dateOfExpired;
     private DrivingCategory category;
 
+    public License() {
+    }
+
     public License(String name, String surname, String placeOfBirth, String dateOfBirth,
                    String dateOfIssue, String dateOfExpired, DrivingCategory category) {
 

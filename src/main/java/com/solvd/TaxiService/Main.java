@@ -1,32 +1,31 @@
 package com.solvd.TaxiService;
 
 
-import com.solvd.TaxiService.Person.Client;
-import com.solvd.TaxiService.Person.Dispatcher;
-import com.solvd.TaxiService.Taxi.Order;
-import com.solvd.TaxiService.Taxi.TaxiSimpleGUI;
-import org.apache.commons.io.FileUtils;
+import com.solvd.TaxiService.Car.Car;
+import com.solvd.TaxiService.Interfaces.ICheck;
+import com.solvd.TaxiService.Lists.CarList;
+import com.solvd.TaxiService.Lists.DriverList;
+import com.solvd.TaxiService.Lists.LicenseList;
+import com.solvd.TaxiService.Person.License;
+import com.solvd.TaxiService.Taxi.*;
+import com.solvd.TaxiService.enums.DrivingCategory;
 import org.apache.log4j.Logger;
 
-import java.io.File;
 import java.io.IOException;
-import java.nio.charset.Charset;
-import java.nio.file.Files;
-import java.nio.file.Path;
+import java.lang.reflect.InvocationTargetException;
+import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
-import java.util.Locale;
-import java.util.Map;
-import java.util.function.Function;
 import java.util.stream.Collectors;
-import static java.nio.charset.StandardCharsets.UTF_8;
 
 public class Main {
 
     private static final Logger LOGGER = Logger.getLogger(Main.class);
 
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, ClassNotFoundException, NoSuchMethodException, InvocationTargetException, InstantiationException, IllegalAccessException, NoSuchFieldException {
 
 
 //        // Order creation
@@ -45,30 +44,28 @@ public class Main {
 //        // Get order confirmed result and recording order history
 //        order.confirmedOrderResult();
 //        order.orderHistoryRecording();
+
+
+
+
+//        TaxiSimpleGUI app = new TaxiSimpleGUI();
+//        app.setVisible(true);
+
+
+
+
+
+//         FileReaderWriter.fileReaderWriter();
 //
+         LambdaExercise.lambdaExercise();
 //
+//         Reflection.refMethod("Driver");
 //
-//
-        TaxiSimpleGUI app = new TaxiSimpleGUI();
-        app.setVisible(true);
-
-
-        String fromFile = "/Users/michael/div/IntelejIDEA Project/TaxiService/src/main/resources/history/orderHistory.txt";
-        String toFile = "/Users/michael/div/IntelejIDEA Project/TaxiService/src/main/resources/history/newFile.txt";
-
-
-        String content = FileUtils.readFileToString(new File(fromFile), Charset.defaultCharset())
-                .replaceAll("\\n+", " ").replaceAll("[^a-zA-Z ]", "")
-                .replaceAll("\\s+", " ").toLowerCase(Locale.ROOT);
-        List<String> list = Arrays.asList(content.split(" "));
-        Map<String, Long> wordsMap = list.stream().collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
-        Files.write(Path.of(toFile), wordsMap.entrySet().stream().map(k -> k.getKey() + " - " + k.getValue()).collect(Collectors.toList()), UTF_8);
-
+//         Reflection.refChengMethod();
 
 
     }
+
 }
 
 
-//        Order order = new Order(TaxiCars.CROSSOVER, 15, 2, "yes",
-//                "yes", "no", "no", "no");

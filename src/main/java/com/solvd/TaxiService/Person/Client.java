@@ -10,8 +10,8 @@ import java.util.Objects;
 
 public class Client extends Person implements ICreationOrder, ICancelOrder {
     private static final Logger LOG = Logger.getLogger(Client.class);
-    private int location;
-    private String luggage;
+    private int location = 1;
+    private String luggage = "No";
     private int passengerNumber;
     private String promoCode;
     private Order order;

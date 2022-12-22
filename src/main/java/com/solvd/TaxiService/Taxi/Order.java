@@ -16,6 +16,8 @@ import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Objects;
 import java.util.Scanner;
+import java.util.function.BinaryOperator;
+import java.util.function.UnaryOperator;
 
 public class Order {
     private static final Logger LOGGER = Logger.getLogger(Order.class);
@@ -99,7 +101,7 @@ public class Order {
         return i;
     }
 
-    public void orderHistoryRecording()  {
+    public void orderHistoryRecording() {
 
         try {
             RecordingResults.recording("Price - " + getPrice() + "\n"
@@ -164,7 +166,7 @@ public class Order {
         LOGGER.info(internetInCar);
     }
 
-    public void confirmedOrderResult(){
+    public void confirmedOrderResult() {
 
         if (getPrice() > 0 && orderConfirm()) {
             getTaxi().getDriversAndCars().getDriver().driverStatus();
@@ -185,10 +187,15 @@ public class Order {
         } else LOGGER.info("Try again");
     }
 
+    public static void doublePrice(int price) {
+        UnaryOperator<Integer> dPrice = x -> x * 2;
+        LOGGER.info("Double price - " + dPrice.apply(price));
+    }
 
-
-
-
+    public static void actionPrice(double price, double percent) {
+        BinaryOperator<Double> aPrice = (x, y) -> x - ((x * y )/ 100);
+        LOGGER.info("Action price - " + aPrice.apply(price, percent));
+    }
 
 
     // Getters and Setters creation

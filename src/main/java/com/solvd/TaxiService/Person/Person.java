@@ -8,7 +8,7 @@ import java.util.Objects;
 
 public abstract class Person {
     private String dateOfBirth;
-    private String name;
+    private String name = "No";
     private String surname;
     private String accessRights;
     private int phoneNumber;

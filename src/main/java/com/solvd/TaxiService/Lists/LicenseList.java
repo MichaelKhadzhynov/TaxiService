@@ -1,10 +1,15 @@
 package com.solvd.TaxiService.Lists;
 
 import com.solvd.TaxiService.Person.License;
+import com.solvd.TaxiService.Taxi.LambdaMethods;
 import com.solvd.TaxiService.enums.DrivingCategory;
 import org.apache.log4j.Logger;
 
+import java.text.SimpleDateFormat;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
+import java.util.Date;
 
 public class LicenseList {
     private static final Logger LOGGER = Logger.getLogger(LicenseList.class);
@@ -19,13 +24,15 @@ public class LicenseList {
                 "2021-04-23", "2026-04-23", DrivingCategory.B);
 
         License Ann = new License("Ann", "Annieson", "Taxes", "08/08/2000",
-                "2018-03-16", "2020-03-16", DrivingCategory.B);
+                "2018-03-16", "2020-03-16", DrivingCategory.C);
 
         licenses.add(Jack);
         licenses.add(John);
         licenses.add(Ann);
 
         return licenses;
+
+
     }
 
 

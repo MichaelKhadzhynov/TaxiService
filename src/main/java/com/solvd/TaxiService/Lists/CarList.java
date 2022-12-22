@@ -1,11 +1,14 @@
 package com.solvd.TaxiService.Lists;
 
 import com.solvd.TaxiService.Car.*;
+import com.solvd.TaxiService.Taxi.LambdaMethods;
 import com.solvd.TaxiService.enums.CarModel;
 import com.solvd.TaxiService.enums.Level;
 import org.apache.log4j.Logger;
 
 import java.util.ArrayList;
+import java.util.function.Function;
+import java.util.stream.Collectors;
 
 public class CarList {
     private static final Logger LOGGER = Logger.getLogger(Pickup.class);
@@ -39,5 +42,13 @@ public class CarList {
         return cars;
 
     }
+
+    public static void seatPlace(){
+        for(int i=0; i< carList().size(); i++){
+            Function<Integer, String> seatPlace =  s -> s + " seats";
+            LOGGER.info(carList().get(i).getModel() + " "+ seatPlace.apply(carList().get(i).getSeatPlaceNumber()));
+        }
+    }
+
 
 }

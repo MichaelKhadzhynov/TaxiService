@@ -76,3 +76,4 @@
 2022-12-15 21:25:02 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
 2022-12-15 21:25:26 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
 2022-12-15 21:25:27 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
+2022-12-20 11:54:25 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
