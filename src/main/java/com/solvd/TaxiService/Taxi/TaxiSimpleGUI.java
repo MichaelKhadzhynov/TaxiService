@@ -34,7 +34,7 @@ public class TaxiSimpleGUI extends JFrame {
 
         Container container = this.getContentPane();
         container.setLayout(new GridLayout(10, 2));
-
+        container.setBackground(Color.GRAY.brighter());
         container.add(carTypeLabel);
         container.add(inputTypeCar);
 
@@ -45,7 +45,6 @@ public class TaxiSimpleGUI extends JFrame {
         container.add(inputDistance);
 
         container.add(internetInCar);
-        container.setBackground(Color.GRAY.brighter());
         container.add(animalTransportation);
         container.add(conditioner);
         container.add(silenceInCar);

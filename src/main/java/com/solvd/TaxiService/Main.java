@@ -1,24 +1,16 @@
 package com.solvd.TaxiService;
 
 
-import com.solvd.TaxiService.Car.Car;
-import com.solvd.TaxiService.Interfaces.ICheck;
-import com.solvd.TaxiService.Lists.CarList;
-import com.solvd.TaxiService.Lists.DriverList;
-import com.solvd.TaxiService.Lists.LicenseList;
-import com.solvd.TaxiService.Person.License;
-import com.solvd.TaxiService.Taxi.*;
-import com.solvd.TaxiService.enums.DrivingCategory;
+import com.solvd.TaxiService.Taxi.ConnectionPool;
+import com.solvd.TaxiService.Threads.MyThreadsCP;
 import org.apache.log4j.Logger;
 
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
-import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
-import java.util.stream.Collectors;
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class Main {
 
@@ -44,28 +36,37 @@ public class Main {
 //        // Get order confirmed result and recording order history
 //        order.confirmedOrderResult();
 //        order.orderHistoryRecording();
-
-
-
-
+//
+//
 //        TaxiSimpleGUI app = new TaxiSimpleGUI();
 //        app.setVisible(true);
-
-
-
-
-
-//         FileReaderWriter.fileReaderWriter();
 //
-         LambdaExercise.lambdaExercise();
 //
-//         Reflection.refMethod("Driver");
+//        FileReaderWriter.fileReaderWriter();
 //
-//         Reflection.refChengMethod();
+//        LambdaExercise.lambdaExercise();
+//
+//        Reflection.refMethod("Driver");
+//
+//        Reflection.refChengMethod();
 
+
+//            TestPool.testPool();
+
+//        for (int i = 0; i < 2; i++) {
+//            MyThreads myThreads = new MyThreads();
+//            myThreads.start();
+//        }
+//
+//        for (int i = 0; i < 2; i++) {
+//            MyRunnable myRunnable = new MyRunnable();
+//            Thread thread = new Thread(myRunnable);
+//            thread.start();
+//        }
+
+//        MyThreadsCP.myThreadsCP();
 
     }
-
 }
 
 

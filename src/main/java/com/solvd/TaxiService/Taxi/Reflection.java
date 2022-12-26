@@ -53,11 +53,11 @@ public class Reflection {
 
     public static void refChengMethod() throws ClassNotFoundException, IllegalAccessException, NoSuchFieldException, InstantiationException, NoSuchMethodException, InvocationTargetException {
 
-        Class<?> c =  Class.forName("com.solvd.TaxiService.Person.Client");
-        Constructor<?> cns = c.getDeclaredConstructor();
-        Client p = (Client) cns.newInstance();
+        Class<?> aClass =  Class.forName("com.solvd.TaxiService.Person.Client");
+        Constructor<?> cns = aClass.getDeclaredConstructor();
+        Client client = (Client) cns.newInstance();
 
-        Field[] fields = p.getClass().getDeclaredFields();
+        Field[] fields = client.getClass().getDeclaredFields();
 
         for (Field fl : fields) {
             LOGGER.info(fl.getType() + " " + fl.getName());
@@ -66,31 +66,31 @@ public class Reflection {
         for (Field f : fields) {
 
             if (f.getName().equals("location")) {
-                LOGGER.info("Before changing - " + p.getLocation());
+                LOGGER.info("Before changing - " + client.getLocation());
                 f.setAccessible(true);
-                f.set(p, 2);
+                f.set(client, 2);
                 f.setAccessible(false);
-                LOGGER.info("After changing - " + p.getLocation());
+                LOGGER.info("After changing - " + client.getLocation());
             }
 
             if (f.getName().equals("luggage")) {
-                LOGGER.info("Before changing - " + p.getLuggage());
+                LOGGER.info("Before changing - " + client.getLuggage());
                 f.setAccessible(true);
-                f.set(p, "Yes");
+                f.set(client, "Yes");
                 f.setAccessible(false);
-                LOGGER.info("After changing - " + p.getLuggage());
+                LOGGER.info("After changing - " + client.getLuggage());
             }
 
             if (f.getName().equals("passengerNumber")) {
-                LOGGER.info("Before changing - " + p.getPassengerNumber());
+                LOGGER.info("Before changing - " + client.getPassengerNumber());
                 f.setAccessible(true);
-                f.set(p, 2);
+                f.set(client, 2);
                 f.setAccessible(false);
-                LOGGER.info("After changing - " + p.getPassengerNumber());
+                LOGGER.info("After changing - " + client.getPassengerNumber());
             }
         }
 
-        Method luggage = c.getDeclaredMethod("getLuggage");
-        LOGGER.info(luggage.invoke(p));
+        Method luggage = aClass.getDeclaredMethod("getLuggage");
+        LOGGER.info(luggage.invoke(client));
     }
 }

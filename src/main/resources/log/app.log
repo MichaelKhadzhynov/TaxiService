@@ -9249,3 +9249,1503 @@ name com.solvd.TaxiService.Interfaces.ICancelOrder
 2022-12-22 15:01:25 INFO  LambdaMethods:52 - Jack - 2025-08-11
 2022-12-22 15:01:25 INFO  LambdaMethods:52 - John - 2026-04-23
 2022-12-22 15:01:25 INFO  LambdaMethods:53 - ----
+2022-12-22 15:56:18 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 15:56:19 INFO  LambdaMethods:23 - ----
+2022-12-22 15:56:19 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 15:56:19 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 15:56:19 INFO  LambdaMethods:25 - ----
+2022-12-22 15:56:19 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 15:56:19 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 15:56:19 INFO  LambdaMethods:27 - ----
+2022-12-22 15:56:19 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 15:56:19 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 15:56:19 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 15:56:19 INFO  LambdaMethods:29 - ----
+2022-12-22 15:56:19 INFO  DriverList:39 - true
+2022-12-22 15:56:19 INFO  DriverList:39 - true
+2022-12-22 15:56:19 INFO  DriverList:39 - true
+2022-12-22 15:56:19 INFO  LambdaMethods:31 - ----
+2022-12-22 15:56:19 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 15:56:19 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 15:56:19 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 15:56:19 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 15:56:19 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 15:56:19 INFO  LambdaMethods:33 - ----
+2022-12-22 15:56:19 INFO  Order:192 - Double price - 40
+2022-12-22 15:56:19 INFO  LambdaMethods:35 - ----
+2022-12-22 15:56:19 INFO  Order:197 - Action price - 46.75
+2022-12-22 15:56:19 INFO  LambdaMethods:37 - ----
+2022-12-22 15:56:19 INFO  LambdaMethods:40 - Jack true
+2022-12-22 15:56:19 INFO  LambdaMethods:40 - John true
+2022-12-22 15:56:19 INFO  LambdaMethods:40 - Ann false
+2022-12-22 15:56:19 INFO  LambdaMethods:41 - ----
+2022-12-22 15:56:19 INFO  LambdaMethods:43 - JACK
+2022-12-22 15:56:19 INFO  LambdaMethods:43 - JOHN
+2022-12-22 15:56:19 INFO  LambdaMethods:43 - ANN
+2022-12-22 15:56:19 INFO  LambdaMethods:44 - ----
+2022-12-22 15:56:19 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 15:56:19 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 15:56:19 INFO  LambdaMethods:49 - ----
+2022-12-22 15:56:19 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 15:56:19 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 15:56:19 INFO  LambdaMethods:54 - ----
+2022-12-22 15:57:06 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 15:57:06 INFO  LambdaMethods:23 - ----
+2022-12-22 15:57:06 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 15:57:06 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 15:57:06 INFO  LambdaMethods:25 - ----
+2022-12-22 15:57:06 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 15:57:06 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 15:57:06 INFO  LambdaMethods:27 - ----
+2022-12-22 15:57:06 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 15:57:06 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 15:57:06 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 15:57:06 INFO  LambdaMethods:29 - ----
+2022-12-22 15:57:06 INFO  DriverList:39 - true
+2022-12-22 15:57:06 INFO  DriverList:39 - true
+2022-12-22 15:57:06 INFO  DriverList:39 - true
+2022-12-22 15:57:06 INFO  LambdaMethods:31 - ----
+2022-12-22 15:57:06 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 15:57:06 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 15:57:06 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 15:57:06 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 15:57:06 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 15:57:06 INFO  LambdaMethods:33 - ----
+2022-12-22 15:57:06 INFO  Order:192 - Double price - 40
+2022-12-22 15:57:06 INFO  LambdaMethods:35 - ----
+2022-12-22 15:57:06 INFO  Order:197 - Action price - 46.75
+2022-12-22 15:57:06 INFO  LambdaMethods:37 - ----
+2022-12-22 15:57:06 INFO  LambdaMethods:40 - Jack true
+2022-12-22 15:57:06 INFO  LambdaMethods:40 - John true
+2022-12-22 15:57:06 INFO  LambdaMethods:40 - Ann false
+2022-12-22 15:57:06 INFO  LambdaMethods:41 - ----
+2022-12-22 15:57:06 INFO  LambdaMethods:43 - JACK
+2022-12-22 15:57:06 INFO  LambdaMethods:43 - JOHN
+2022-12-22 15:57:06 INFO  LambdaMethods:43 - ANN
+2022-12-22 15:57:06 INFO  LambdaMethods:44 - ----
+2022-12-22 15:57:07 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 15:57:07 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 15:57:07 INFO  LambdaMethods:49 - ----
+2022-12-22 15:57:07 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 15:57:07 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 15:57:07 INFO  LambdaMethods:54 - ----
+2022-12-22 15:57:07 INFO  LambdaMethods:56 - true
+2022-12-22 15:58:05 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 15:58:05 INFO  LambdaMethods:23 - ----
+2022-12-22 15:58:05 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 15:58:05 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 15:58:05 INFO  LambdaMethods:25 - ----
+2022-12-22 15:58:05 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 15:58:05 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 15:58:05 INFO  LambdaMethods:27 - ----
+2022-12-22 15:58:06 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 15:58:06 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 15:58:06 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 15:58:06 INFO  LambdaMethods:29 - ----
+2022-12-22 15:58:06 INFO  DriverList:39 - true
+2022-12-22 15:58:06 INFO  DriverList:39 - true
+2022-12-22 15:58:06 INFO  DriverList:39 - true
+2022-12-22 15:58:06 INFO  LambdaMethods:31 - ----
+2022-12-22 15:58:06 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 15:58:06 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 15:58:06 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 15:58:06 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 15:58:06 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 15:58:06 INFO  LambdaMethods:33 - ----
+2022-12-22 15:58:06 INFO  Order:192 - Double price - 40
+2022-12-22 15:58:06 INFO  LambdaMethods:35 - ----
+2022-12-22 15:58:06 INFO  Order:197 - Action price - 46.75
+2022-12-22 15:58:06 INFO  LambdaMethods:37 - ----
+2022-12-22 15:58:06 INFO  LambdaMethods:40 - Jack true
+2022-12-22 15:58:06 INFO  LambdaMethods:40 - John true
+2022-12-22 15:58:06 INFO  LambdaMethods:40 - Ann false
+2022-12-22 15:58:06 INFO  LambdaMethods:41 - ----
+2022-12-22 15:58:06 INFO  LambdaMethods:43 - JACK
+2022-12-22 15:58:06 INFO  LambdaMethods:43 - JOHN
+2022-12-22 15:58:06 INFO  LambdaMethods:43 - ANN
+2022-12-22 15:58:06 INFO  LambdaMethods:44 - ----
+2022-12-22 15:58:06 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 15:58:06 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 15:58:06 INFO  LambdaMethods:49 - ----
+2022-12-22 15:58:06 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 15:58:06 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 15:58:06 INFO  LambdaMethods:54 - ----
+2022-12-22 15:58:06 INFO  LambdaMethods:56 - true
+2022-12-22 15:58:06 INFO  LambdaMethods:57 - true
+2022-12-22 15:58:49 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 15:58:49 INFO  LambdaMethods:23 - ----
+2022-12-22 15:58:49 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 15:58:49 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 15:58:49 INFO  LambdaMethods:25 - ----
+2022-12-22 15:58:49 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 15:58:49 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 15:58:49 INFO  LambdaMethods:27 - ----
+2022-12-22 15:58:49 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 15:58:49 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 15:58:49 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 15:58:49 INFO  LambdaMethods:29 - ----
+2022-12-22 15:58:49 INFO  DriverList:39 - true
+2022-12-22 15:58:49 INFO  DriverList:39 - true
+2022-12-22 15:58:49 INFO  DriverList:39 - true
+2022-12-22 15:58:49 INFO  LambdaMethods:31 - ----
+2022-12-22 15:58:49 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 15:58:49 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 15:58:49 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 15:58:49 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 15:58:49 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 15:58:49 INFO  LambdaMethods:33 - ----
+2022-12-22 15:58:49 INFO  Order:192 - Double price - 40
+2022-12-22 15:58:49 INFO  LambdaMethods:35 - ----
+2022-12-22 15:58:49 INFO  Order:197 - Action price - 46.75
+2022-12-22 15:58:49 INFO  LambdaMethods:37 - ----
+2022-12-22 15:58:49 INFO  LambdaMethods:40 - Jack true
+2022-12-22 15:58:49 INFO  LambdaMethods:40 - John true
+2022-12-22 15:58:49 INFO  LambdaMethods:40 - Ann false
+2022-12-22 15:58:49 INFO  LambdaMethods:41 - ----
+2022-12-22 15:58:49 INFO  LambdaMethods:43 - JACK
+2022-12-22 15:58:49 INFO  LambdaMethods:43 - JOHN
+2022-12-22 15:58:49 INFO  LambdaMethods:43 - ANN
+2022-12-22 15:58:49 INFO  LambdaMethods:44 - ----
+2022-12-22 15:58:49 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 15:58:49 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 15:58:49 INFO  LambdaMethods:49 - ----
+2022-12-22 15:58:49 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 15:58:49 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 15:58:49 INFO  LambdaMethods:54 - ----
+2022-12-22 15:58:49 INFO  LambdaMethods:56 - true
+2022-12-22 15:58:49 INFO  LambdaMethods:57 - true
+2022-12-22 15:58:49 INFO  LambdaMethods:58 - true
+2022-12-22 16:06:23 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 16:06:24 INFO  LambdaMethods:21 - ----
+2022-12-22 16:06:24 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 16:06:24 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 16:06:24 INFO  LambdaMethods:23 - ----
+2022-12-22 16:06:24 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 16:06:24 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 16:06:24 INFO  LambdaMethods:25 - ----
+2022-12-22 16:06:24 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 16:06:24 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 16:06:24 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 16:06:24 INFO  LambdaMethods:27 - ----
+2022-12-22 16:06:24 INFO  DriverList:39 - true
+2022-12-22 16:06:24 INFO  DriverList:39 - true
+2022-12-22 16:06:24 INFO  DriverList:39 - true
+2022-12-22 16:06:24 INFO  LambdaMethods:29 - ----
+2022-12-22 16:06:24 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 16:06:24 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 16:06:24 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 16:06:24 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 16:06:24 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 16:06:24 INFO  LambdaMethods:31 - ----
+2022-12-22 16:06:24 INFO  Order:192 - Double price - 40
+2022-12-22 16:06:24 INFO  LambdaMethods:33 - ----
+2022-12-22 16:06:24 INFO  Order:197 - Action price - 46.75
+2022-12-22 16:06:24 INFO  LambdaMethods:35 - ----
+2022-12-22 16:06:24 INFO  LambdaMethods:39 - Jack true
+2022-12-22 16:06:24 INFO  LambdaMethods:39 - John true
+2022-12-22 16:06:24 INFO  LambdaMethods:39 - Ann false
+2022-12-22 16:06:24 INFO  LambdaMethods:40 - ----
+2022-12-22 16:06:24 INFO  LambdaMethods:42 - JACK
+2022-12-22 16:06:24 INFO  LambdaMethods:42 - JOHN
+2022-12-22 16:06:24 INFO  LambdaMethods:42 - ANN
+2022-12-22 16:06:24 INFO  LambdaMethods:43 - ----
+2022-12-22 16:06:24 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 16:06:24 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 16:06:24 INFO  LambdaMethods:49 - ----
+2022-12-22 16:06:24 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 16:06:24 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 16:06:24 INFO  LambdaMethods:54 - ----
+2022-12-22 16:06:24 INFO  LambdaMethods:57 - true
+2022-12-22 16:06:24 INFO  LambdaMethods:58 - true
+2022-12-22 16:06:24 INFO  LambdaMethods:59 - true
+2022-12-22 16:07:56 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 16:07:56 INFO  LambdaMethods:21 - ----
+2022-12-22 16:07:57 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 16:07:57 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 16:07:57 INFO  LambdaMethods:23 - ----
+2022-12-22 16:07:57 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 16:07:57 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 16:07:57 INFO  LambdaMethods:25 - ----
+2022-12-22 16:07:57 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 16:07:57 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 16:07:57 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 16:07:57 INFO  LambdaMethods:27 - ----
+2022-12-22 16:07:57 INFO  DriverList:39 - true
+2022-12-22 16:07:57 INFO  DriverList:39 - true
+2022-12-22 16:07:57 INFO  DriverList:39 - true
+2022-12-22 16:07:57 INFO  LambdaMethods:29 - ----
+2022-12-22 16:07:57 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 16:07:57 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 16:07:57 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 16:07:57 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 16:07:57 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 16:07:57 INFO  LambdaMethods:31 - ----
+2022-12-22 16:07:57 INFO  Order:192 - Double price - 40
+2022-12-22 16:07:57 INFO  LambdaMethods:33 - ----
+2022-12-22 16:07:57 INFO  Order:197 - Action price - 46.75
+2022-12-22 16:07:57 INFO  LambdaMethods:35 - ----
+2022-12-22 16:07:57 INFO  LambdaMethods:39 - Jack true
+2022-12-22 16:07:57 INFO  LambdaMethods:39 - John true
+2022-12-22 16:07:57 INFO  LambdaMethods:39 - Ann false
+2022-12-22 16:07:57 INFO  LambdaMethods:40 - ----
+2022-12-22 16:07:57 INFO  LambdaMethods:42 - JACK
+2022-12-22 16:07:57 INFO  LambdaMethods:42 - JOHN
+2022-12-22 16:07:57 INFO  LambdaMethods:42 - ANN
+2022-12-22 16:07:57 INFO  LambdaMethods:43 - ----
+2022-12-22 16:07:57 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 16:07:57 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 16:07:57 INFO  LambdaMethods:49 - ----
+2022-12-22 16:07:57 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 16:07:57 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 16:07:57 INFO  LambdaMethods:54 - ----
+2022-12-22 16:07:57 INFO  LambdaMethods:57 - true
+2022-12-22 16:07:57 INFO  LambdaMethods:58 - true
+2022-12-22 16:07:57 INFO  LambdaMethods:59 - true
+2022-12-22 16:08:30 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 16:08:30 INFO  LambdaMethods:21 - ----
+2022-12-22 16:08:30 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 16:08:30 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 16:08:30 INFO  LambdaMethods:23 - ----
+2022-12-22 16:08:30 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 16:08:30 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 16:08:30 INFO  LambdaMethods:25 - ----
+2022-12-22 16:08:30 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 16:08:30 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 16:08:30 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 16:08:30 INFO  LambdaMethods:27 - ----
+2022-12-22 16:08:30 INFO  DriverList:39 - true
+2022-12-22 16:08:30 INFO  DriverList:39 - true
+2022-12-22 16:08:30 INFO  DriverList:39 - true
+2022-12-22 16:08:30 INFO  LambdaMethods:29 - ----
+2022-12-22 16:08:30 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 16:08:30 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 16:08:30 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 16:08:30 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 16:08:30 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 16:08:31 INFO  LambdaMethods:31 - ----
+2022-12-22 16:08:31 INFO  Order:192 - Double price - 40
+2022-12-22 16:08:31 INFO  LambdaMethods:33 - ----
+2022-12-22 16:08:31 INFO  Order:197 - Action price - 46.75
+2022-12-22 16:08:31 INFO  LambdaMethods:35 - ----
+2022-12-22 16:08:31 INFO  LambdaMethods:39 - Jack true
+2022-12-22 16:08:31 INFO  LambdaMethods:39 - John true
+2022-12-22 16:08:31 INFO  LambdaMethods:39 - Ann false
+2022-12-22 16:08:31 INFO  LambdaMethods:40 - ----
+2022-12-22 16:08:31 INFO  LambdaMethods:42 - JACK
+2022-12-22 16:08:31 INFO  LambdaMethods:42 - JOHN
+2022-12-22 16:08:31 INFO  LambdaMethods:42 - ANN
+2022-12-22 16:08:31 INFO  LambdaMethods:43 - ----
+2022-12-22 16:08:31 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 16:08:31 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 16:08:31 INFO  LambdaMethods:49 - ----
+2022-12-22 16:08:31 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 16:08:31 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 16:08:31 INFO  LambdaMethods:54 - ----
+2022-12-22 16:08:31 INFO  LambdaMethods:57 - true
+2022-12-22 16:08:31 INFO  LambdaMethods:58 - true
+2022-12-22 16:08:31 INFO  LambdaMethods:59 - true
+2022-12-22 17:39:58 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 17:39:59 INFO  LambdaMethods:21 - ----
+2022-12-22 17:39:59 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 17:39:59 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 17:39:59 INFO  LambdaMethods:23 - ----
+2022-12-22 17:39:59 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 17:39:59 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 17:39:59 INFO  LambdaMethods:25 - ----
+2022-12-22 17:39:59 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 17:39:59 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 17:39:59 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 17:39:59 INFO  LambdaMethods:27 - ----
+2022-12-22 17:39:59 INFO  DriverList:39 - true
+2022-12-22 17:39:59 INFO  DriverList:39 - true
+2022-12-22 17:39:59 INFO  DriverList:39 - true
+2022-12-22 17:39:59 INFO  LambdaMethods:29 - ----
+2022-12-22 17:39:59 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 17:39:59 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 17:39:59 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 17:39:59 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 17:39:59 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 17:39:59 INFO  LambdaMethods:31 - ----
+2022-12-22 17:39:59 INFO  Order:192 - Double price - 40
+2022-12-22 17:39:59 INFO  LambdaMethods:33 - ----
+2022-12-22 17:39:59 INFO  Order:197 - Action price - 46.75
+2022-12-22 17:39:59 INFO  LambdaMethods:35 - ----
+2022-12-22 17:39:59 INFO  LambdaMethods:39 - Jack true
+2022-12-22 17:39:59 INFO  LambdaMethods:39 - John true
+2022-12-22 17:39:59 INFO  LambdaMethods:39 - Ann false
+2022-12-22 17:39:59 INFO  LambdaMethods:40 - ----
+2022-12-22 17:39:59 INFO  LambdaMethods:42 - JACK
+2022-12-22 17:39:59 INFO  LambdaMethods:42 - JOHN
+2022-12-22 17:39:59 INFO  LambdaMethods:42 - ANN
+2022-12-22 17:39:59 INFO  LambdaMethods:43 - ----
+2022-12-22 17:39:59 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 17:39:59 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 17:39:59 INFO  LambdaMethods:49 - ----
+2022-12-22 17:39:59 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 17:39:59 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 17:39:59 INFO  LambdaMethods:54 - ----
+2022-12-22 17:39:59 INFO  LambdaMethods:57 - true
+2022-12-22 17:39:59 INFO  LambdaMethods:58 - true
+2022-12-22 17:39:59 INFO  LambdaMethods:59 - true
+2022-12-22 17:42:09 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 17:42:10 INFO  LambdaMethods:21 - ----
+2022-12-22 17:42:10 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 17:42:10 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 17:42:10 INFO  LambdaMethods:23 - ----
+2022-12-22 17:42:10 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 17:42:10 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 17:42:10 INFO  LambdaMethods:25 - ----
+2022-12-22 17:42:10 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 17:42:10 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 17:42:10 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 17:42:10 INFO  LambdaMethods:27 - ----
+2022-12-22 17:42:10 INFO  DriverList:39 - true
+2022-12-22 17:42:10 INFO  DriverList:39 - true
+2022-12-22 17:42:10 INFO  DriverList:39 - true
+2022-12-22 17:42:10 INFO  LambdaMethods:29 - ----
+2022-12-22 17:42:10 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 17:42:10 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 17:42:10 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 17:42:10 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 17:42:10 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 17:42:10 INFO  LambdaMethods:31 - ----
+2022-12-22 17:42:10 INFO  Order:192 - Double price - 40
+2022-12-22 17:42:10 INFO  LambdaMethods:33 - ----
+2022-12-22 17:42:10 INFO  Order:197 - Action price - 46.75
+2022-12-22 17:42:10 INFO  LambdaMethods:35 - ----
+2022-12-22 17:42:10 INFO  LambdaMethods:39 - Jack true
+2022-12-22 17:42:10 INFO  LambdaMethods:39 - John true
+2022-12-22 17:42:10 INFO  LambdaMethods:39 - Ann false
+2022-12-22 17:42:10 INFO  LambdaMethods:40 - ----
+2022-12-22 17:42:10 INFO  LambdaMethods:42 - JACK
+2022-12-22 17:42:10 INFO  LambdaMethods:42 - JOHN
+2022-12-22 17:42:10 INFO  LambdaMethods:42 - ANN
+2022-12-22 17:42:10 INFO  LambdaMethods:43 - ----
+2022-12-22 17:42:10 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 17:42:10 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 17:42:10 INFO  LambdaMethods:49 - ----
+2022-12-22 17:42:10 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 17:42:10 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 17:42:10 INFO  LambdaMethods:54 - ----
+2022-12-22 17:42:10 INFO  LambdaMethods:57 - true
+2022-12-22 17:42:10 INFO  LambdaMethods:58 - true
+2022-12-22 17:42:10 INFO  LambdaMethods:59 - true
+2022-12-22 17:43:07 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 17:43:07 INFO  LambdaMethods:21 - ----
+2022-12-22 17:43:07 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 17:43:07 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 17:43:07 INFO  LambdaMethods:23 - ----
+2022-12-22 17:43:07 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 17:43:07 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 17:43:07 INFO  LambdaMethods:25 - ----
+2022-12-22 17:43:07 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 17:43:07 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 17:43:07 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 17:43:07 INFO  LambdaMethods:27 - ----
+2022-12-22 17:43:07 INFO  DriverList:39 - true
+2022-12-22 17:43:07 INFO  DriverList:39 - true
+2022-12-22 17:43:07 INFO  DriverList:39 - true
+2022-12-22 17:43:07 INFO  LambdaMethods:29 - ----
+2022-12-22 17:43:07 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 17:43:07 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 17:43:07 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 17:43:07 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 17:43:07 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 17:43:07 INFO  LambdaMethods:31 - ----
+2022-12-22 17:43:07 INFO  Order:192 - Double price - 40
+2022-12-22 17:43:07 INFO  LambdaMethods:33 - ----
+2022-12-22 17:43:07 INFO  Order:197 - Action price - 46.75
+2022-12-22 17:43:07 INFO  LambdaMethods:35 - ----
+2022-12-22 17:43:07 INFO  LambdaMethods:39 - Jack true
+2022-12-22 17:43:07 INFO  LambdaMethods:39 - John true
+2022-12-22 17:43:07 INFO  LambdaMethods:39 - Ann false
+2022-12-22 17:43:07 INFO  LambdaMethods:40 - ----
+2022-12-22 17:43:07 INFO  LambdaMethods:42 - JACK
+2022-12-22 17:43:07 INFO  LambdaMethods:42 - JOHN
+2022-12-22 17:43:07 INFO  LambdaMethods:42 - ANN
+2022-12-22 17:43:07 INFO  LambdaMethods:43 - ----
+2022-12-22 17:43:07 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 17:43:07 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 17:43:07 INFO  LambdaMethods:49 - ----
+2022-12-22 17:43:07 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 17:43:07 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 17:43:07 INFO  LambdaMethods:54 - ----
+2022-12-22 17:43:07 INFO  LambdaMethods:57 - true
+2022-12-22 17:43:07 INFO  LambdaMethods:58 - true
+2022-12-22 17:43:07 INFO  LambdaMethods:59 - true
+2022-12-22 17:43:54 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 17:43:54 INFO  LambdaMethods:21 - ----
+2022-12-22 17:43:54 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 17:43:54 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 17:43:54 INFO  LambdaMethods:23 - ----
+2022-12-22 17:43:54 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 17:43:54 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 17:43:55 INFO  LambdaMethods:25 - ----
+2022-12-22 17:43:55 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 17:43:55 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 17:43:55 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 17:43:55 INFO  LambdaMethods:27 - ----
+2022-12-22 17:43:55 INFO  DriverList:39 - true
+2022-12-22 17:43:55 INFO  DriverList:39 - true
+2022-12-22 17:43:55 INFO  DriverList:39 - true
+2022-12-22 17:43:55 INFO  LambdaMethods:29 - ----
+2022-12-22 17:43:55 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 17:43:55 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 17:43:55 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 17:43:55 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 17:43:55 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 17:43:55 INFO  LambdaMethods:31 - ----
+2022-12-22 17:43:55 INFO  Order:192 - Double price - 40
+2022-12-22 17:43:55 INFO  LambdaMethods:33 - ----
+2022-12-22 17:43:55 INFO  Order:197 - Action price - 46.75
+2022-12-22 17:43:55 INFO  LambdaMethods:35 - ----
+2022-12-22 17:43:55 INFO  LambdaMethods:39 - Jack true
+2022-12-22 17:43:55 INFO  LambdaMethods:39 - John true
+2022-12-22 17:43:55 INFO  LambdaMethods:39 - Ann false
+2022-12-22 17:43:55 INFO  LambdaMethods:40 - ----
+2022-12-22 17:43:55 INFO  LambdaMethods:42 - JACK
+2022-12-22 17:43:55 INFO  LambdaMethods:42 - JOHN
+2022-12-22 17:43:55 INFO  LambdaMethods:42 - ANN
+2022-12-22 17:43:55 INFO  LambdaMethods:43 - ----
+2022-12-22 17:43:55 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 17:43:55 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 17:43:55 INFO  LambdaMethods:49 - ----
+2022-12-22 17:43:55 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 17:43:55 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 17:43:55 INFO  LambdaMethods:54 - ----
+2022-12-22 17:43:55 INFO  LambdaMethods:57 - true
+2022-12-22 17:43:55 INFO  LambdaMethods:58 - true
+2022-12-22 17:43:55 INFO  LambdaMethods:59 - true
+2022-12-22 17:47:15 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 17:47:15 INFO  LambdaMethods:21 - ----
+2022-12-22 17:47:15 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 17:47:15 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 17:47:15 INFO  LambdaMethods:23 - ----
+2022-12-22 17:47:15 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 17:47:15 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 17:47:15 INFO  LambdaMethods:25 - ----
+2022-12-22 17:47:15 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 17:47:15 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 17:47:15 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 17:47:15 INFO  LambdaMethods:27 - ----
+2022-12-22 17:47:15 INFO  DriverList:39 - true
+2022-12-22 17:47:15 INFO  DriverList:39 - true
+2022-12-22 17:47:15 INFO  DriverList:39 - true
+2022-12-22 17:47:15 INFO  LambdaMethods:29 - ----
+2022-12-22 17:47:15 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 17:47:15 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 17:47:15 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 17:47:15 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 17:47:15 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 17:47:15 INFO  LambdaMethods:31 - ----
+2022-12-22 17:47:15 INFO  Order:192 - Double price - 40
+2022-12-22 17:47:15 INFO  LambdaMethods:33 - ----
+2022-12-22 17:47:15 INFO  Order:197 - Action price - 46.75
+2022-12-22 17:47:15 INFO  LambdaMethods:35 - ----
+2022-12-22 17:47:15 INFO  LambdaMethods:39 - Jack true
+2022-12-22 17:47:15 INFO  LambdaMethods:39 - John true
+2022-12-22 17:47:15 INFO  LambdaMethods:39 - Ann false
+2022-12-22 17:47:15 INFO  LambdaMethods:40 - ----
+2022-12-22 17:47:15 INFO  LambdaMethods:42 - JACK
+2022-12-22 17:47:15 INFO  LambdaMethods:42 - JOHN
+2022-12-22 17:47:15 INFO  LambdaMethods:42 - ANN
+2022-12-22 17:47:15 INFO  LambdaMethods:43 - ----
+2022-12-22 17:47:15 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 17:47:15 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 17:47:15 INFO  LambdaMethods:49 - ----
+2022-12-22 17:47:15 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 17:47:15 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 17:47:15 INFO  LambdaMethods:54 - ----
+2022-12-22 17:47:15 INFO  LambdaMethods:57 - true
+2022-12-22 17:47:15 INFO  LambdaMethods:58 - true
+2022-12-22 17:47:15 INFO  LambdaMethods:59 - true
+2022-12-22 17:47:26 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 17:47:26 INFO  LambdaMethods:21 - ----
+2022-12-22 17:47:26 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 17:47:26 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 17:47:26 INFO  LambdaMethods:23 - ----
+2022-12-22 17:47:26 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 17:47:26 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 17:47:26 INFO  LambdaMethods:25 - ----
+2022-12-22 17:47:26 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 17:47:26 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 17:47:26 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 17:47:26 INFO  LambdaMethods:27 - ----
+2022-12-22 17:47:26 INFO  DriverList:39 - true
+2022-12-22 17:47:26 INFO  DriverList:39 - true
+2022-12-22 17:47:26 INFO  DriverList:39 - true
+2022-12-22 17:47:26 INFO  LambdaMethods:29 - ----
+2022-12-22 17:47:26 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 17:47:26 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 17:47:26 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 17:47:26 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 17:47:26 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 17:47:26 INFO  LambdaMethods:31 - ----
+2022-12-22 17:47:26 INFO  Order:192 - Double price - 40
+2022-12-22 17:47:26 INFO  LambdaMethods:33 - ----
+2022-12-22 17:47:26 INFO  Order:197 - Action price - 46.75
+2022-12-22 17:47:26 INFO  LambdaMethods:35 - ----
+2022-12-22 17:47:26 INFO  LambdaMethods:39 - Jack true
+2022-12-22 17:47:26 INFO  LambdaMethods:39 - John true
+2022-12-22 17:47:26 INFO  LambdaMethods:39 - Ann false
+2022-12-22 17:47:26 INFO  LambdaMethods:40 - ----
+2022-12-22 17:47:26 INFO  LambdaMethods:42 - JACK
+2022-12-22 17:47:26 INFO  LambdaMethods:42 - JOHN
+2022-12-22 17:47:26 INFO  LambdaMethods:42 - ANN
+2022-12-22 17:47:26 INFO  LambdaMethods:43 - ----
+2022-12-22 17:47:26 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 17:47:26 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 17:47:26 INFO  LambdaMethods:49 - ----
+2022-12-22 17:47:26 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 17:47:26 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 17:47:26 INFO  LambdaMethods:54 - ----
+2022-12-22 17:47:26 INFO  LambdaMethods:57 - true
+2022-12-22 17:47:26 INFO  LambdaMethods:58 - true
+2022-12-22 17:47:26 INFO  LambdaMethods:59 - true
+2022-12-22 17:51:05 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 17:51:05 INFO  LambdaMethods:22 - ----
+2022-12-22 17:51:05 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 17:51:05 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 17:51:05 INFO  LambdaMethods:24 - ----
+2022-12-22 17:51:05 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 17:51:05 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 17:51:05 INFO  LambdaMethods:26 - ----
+2022-12-22 17:51:05 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 17:51:05 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 17:51:05 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 17:51:05 INFO  LambdaMethods:28 - ----
+2022-12-22 17:51:05 INFO  DriverList:39 - true
+2022-12-22 17:51:05 INFO  DriverList:39 - true
+2022-12-22 17:51:05 INFO  DriverList:39 - true
+2022-12-22 17:51:05 INFO  LambdaMethods:30 - ----
+2022-12-22 17:51:05 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 17:51:05 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 17:51:05 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 17:51:05 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 17:51:05 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 17:51:05 INFO  LambdaMethods:32 - ----
+2022-12-22 17:51:05 INFO  Order:192 - Double price - 40
+2022-12-22 17:51:05 INFO  LambdaMethods:34 - ----
+2022-12-22 17:51:05 INFO  Order:197 - Action price - 46.75
+2022-12-22 17:51:05 INFO  LambdaMethods:36 - ----
+2022-12-22 17:51:05 INFO  LambdaMethods:40 - Jack true
+2022-12-22 17:51:05 INFO  LambdaMethods:40 - John true
+2022-12-22 17:51:05 INFO  LambdaMethods:40 - Ann false
+2022-12-22 17:51:05 INFO  LambdaMethods:41 - ----
+2022-12-22 17:51:05 INFO  LambdaMethods:43 - JACK
+2022-12-22 17:51:05 INFO  LambdaMethods:43 - JOHN
+2022-12-22 17:51:05 INFO  LambdaMethods:43 - ANN
+2022-12-22 17:51:05 INFO  LambdaMethods:44 - ----
+2022-12-22 17:51:05 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 17:51:05 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 17:51:05 INFO  LambdaMethods:50 - ----
+2022-12-22 17:51:05 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 17:51:05 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 17:51:05 INFO  LambdaMethods:55 - ----
+2022-12-22 17:51:05 INFO  LambdaMethods:58 - true
+2022-12-22 17:51:05 INFO  LambdaMethods:59 - true
+2022-12-22 17:51:05 INFO  LambdaMethods:60 - true
+2022-12-22 17:51:19 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 17:51:19 INFO  LambdaMethods:22 - ----
+2022-12-22 17:51:19 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 17:51:19 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 17:51:19 INFO  LambdaMethods:24 - ----
+2022-12-22 17:51:19 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 17:51:19 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 17:51:19 INFO  LambdaMethods:26 - ----
+2022-12-22 17:51:19 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 17:51:19 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 17:51:19 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 17:51:19 INFO  LambdaMethods:28 - ----
+2022-12-22 17:51:19 INFO  DriverList:39 - true
+2022-12-22 17:51:19 INFO  DriverList:39 - true
+2022-12-22 17:51:19 INFO  DriverList:39 - true
+2022-12-22 17:51:19 INFO  LambdaMethods:30 - ----
+2022-12-22 17:51:20 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 17:51:20 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 17:51:20 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 17:51:20 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 17:51:20 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 17:51:20 INFO  LambdaMethods:32 - ----
+2022-12-22 17:51:20 INFO  Order:192 - Double price - 40
+2022-12-22 17:51:20 INFO  LambdaMethods:34 - ----
+2022-12-22 17:51:20 INFO  Order:197 - Action price - 46.75
+2022-12-22 17:51:20 INFO  LambdaMethods:36 - ----
+2022-12-22 17:51:20 INFO  LambdaMethods:40 - Jack true
+2022-12-22 17:51:20 INFO  LambdaMethods:40 - John true
+2022-12-22 17:51:20 INFO  LambdaMethods:40 - Ann false
+2022-12-22 17:51:20 INFO  LambdaMethods:41 - ----
+2022-12-22 17:51:20 INFO  LambdaMethods:43 - JACK
+2022-12-22 17:51:20 INFO  LambdaMethods:43 - JOHN
+2022-12-22 17:51:20 INFO  LambdaMethods:43 - ANN
+2022-12-22 17:51:20 INFO  LambdaMethods:44 - ----
+2022-12-22 17:51:20 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 17:51:20 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 17:51:20 INFO  LambdaMethods:50 - ----
+2022-12-22 17:51:20 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 17:51:20 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 17:51:20 INFO  LambdaMethods:55 - ----
+2022-12-22 17:51:20 INFO  LambdaMethods:58 - true
+2022-12-22 17:51:20 INFO  LambdaMethods:59 - true
+2022-12-22 17:51:20 INFO  LambdaMethods:60 - true
+2022-12-22 17:52:06 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 17:52:06 INFO  LambdaMethods:22 - ----
+2022-12-22 17:52:06 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 17:52:06 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 17:52:06 INFO  LambdaMethods:24 - ----
+2022-12-22 17:52:07 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 17:52:07 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 17:52:07 INFO  LambdaMethods:26 - ----
+2022-12-22 17:52:07 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 17:52:07 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 17:52:07 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 17:52:07 INFO  LambdaMethods:28 - ----
+2022-12-22 17:52:07 INFO  DriverList:39 - true
+2022-12-22 17:52:07 INFO  DriverList:39 - true
+2022-12-22 17:52:07 INFO  DriverList:39 - true
+2022-12-22 17:52:07 INFO  LambdaMethods:30 - ----
+2022-12-22 17:52:07 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 17:52:07 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 17:52:07 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 17:52:07 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 17:52:07 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 17:52:07 INFO  LambdaMethods:32 - ----
+2022-12-22 17:52:07 INFO  Order:192 - Double price - 40
+2022-12-22 17:52:07 INFO  LambdaMethods:34 - ----
+2022-12-22 17:52:07 INFO  Order:197 - Action price - 46.75
+2022-12-22 17:52:07 INFO  LambdaMethods:36 - ----
+2022-12-22 17:52:07 INFO  LambdaMethods:40 - Jack true
+2022-12-22 17:52:07 INFO  LambdaMethods:40 - John true
+2022-12-22 17:52:07 INFO  LambdaMethods:40 - Ann false
+2022-12-22 17:52:07 INFO  LambdaMethods:41 - ----
+2022-12-22 17:52:07 INFO  LambdaMethods:43 - JACK
+2022-12-22 17:52:07 INFO  LambdaMethods:43 - JOHN
+2022-12-22 17:52:07 INFO  LambdaMethods:43 - ANN
+2022-12-22 17:52:07 INFO  LambdaMethods:44 - ----
+2022-12-22 17:52:07 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 17:52:07 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 17:52:07 INFO  LambdaMethods:50 - ----
+2022-12-22 17:52:07 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 17:52:07 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 17:52:07 INFO  LambdaMethods:55 - ----
+2022-12-22 17:52:07 INFO  LambdaMethods:58 - true
+2022-12-22 17:52:07 INFO  LambdaMethods:59 - true
+2022-12-22 17:52:07 INFO  LambdaMethods:60 - true
+2022-12-22 17:52:41 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 17:52:41 INFO  LambdaMethods:22 - ----
+2022-12-22 17:52:41 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 17:52:41 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 17:52:41 INFO  LambdaMethods:24 - ----
+2022-12-22 17:52:41 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 17:52:41 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 17:52:41 INFO  LambdaMethods:26 - ----
+2022-12-22 17:52:41 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 17:52:41 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 17:52:41 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 17:52:41 INFO  LambdaMethods:28 - ----
+2022-12-22 17:52:41 INFO  DriverList:39 - true
+2022-12-22 17:52:41 INFO  DriverList:39 - true
+2022-12-22 17:52:41 INFO  DriverList:39 - true
+2022-12-22 17:52:41 INFO  LambdaMethods:30 - ----
+2022-12-22 17:52:41 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 17:52:41 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 17:52:41 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 17:52:41 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 17:52:41 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 17:52:41 INFO  LambdaMethods:32 - ----
+2022-12-22 17:52:41 INFO  Order:192 - Double price - 40
+2022-12-22 17:52:41 INFO  LambdaMethods:34 - ----
+2022-12-22 17:52:41 INFO  Order:197 - Action price - 46.75
+2022-12-22 17:52:41 INFO  LambdaMethods:36 - ----
+2022-12-22 17:52:41 INFO  LambdaMethods:40 - Jack true
+2022-12-22 17:52:41 INFO  LambdaMethods:40 - John true
+2022-12-22 17:52:41 INFO  LambdaMethods:40 - Ann false
+2022-12-22 17:52:41 INFO  LambdaMethods:41 - ----
+2022-12-22 17:52:41 INFO  LambdaMethods:43 - JACK
+2022-12-22 17:52:41 INFO  LambdaMethods:43 - JOHN
+2022-12-22 17:52:41 INFO  LambdaMethods:43 - ANN
+2022-12-22 17:52:41 INFO  LambdaMethods:44 - ----
+2022-12-22 17:52:41 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 17:52:41 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 17:52:41 INFO  LambdaMethods:50 - ----
+2022-12-22 17:52:41 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 17:52:41 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 17:52:41 INFO  LambdaMethods:55 - ----
+2022-12-22 17:52:41 INFO  LambdaMethods:58 - true
+2022-12-22 17:52:41 INFO  LambdaMethods:59 - true
+2022-12-22 17:52:41 INFO  LambdaMethods:60 - true
+2022-12-22 18:13:33 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:13:33 INFO  LambdaMethods:21 - ----
+2022-12-22 18:13:33 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:13:33 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:13:33 INFO  LambdaMethods:23 - ----
+2022-12-22 18:13:33 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:13:33 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:13:33 INFO  LambdaMethods:25 - ----
+2022-12-22 18:13:34 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:13:34 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:13:34 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:13:34 INFO  LambdaMethods:27 - ----
+2022-12-22 18:13:34 INFO  DriverList:39 - true
+2022-12-22 18:13:34 INFO  DriverList:39 - true
+2022-12-22 18:13:34 INFO  DriverList:39 - true
+2022-12-22 18:13:34 INFO  LambdaMethods:29 - ----
+2022-12-22 18:13:34 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:13:34 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:13:34 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:13:34 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:13:34 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:13:34 INFO  LambdaMethods:31 - ----
+2022-12-22 18:13:34 INFO  Order:192 - Double price - 40
+2022-12-22 18:13:34 INFO  LambdaMethods:33 - ----
+2022-12-22 18:13:34 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:13:34 INFO  LambdaMethods:35 - ----
+2022-12-22 18:13:34 INFO  LambdaMethods:39 - Jack true
+2022-12-22 18:13:34 INFO  LambdaMethods:39 - John true
+2022-12-22 18:13:34 INFO  LambdaMethods:39 - Ann false
+2022-12-22 18:13:34 INFO  LambdaMethods:40 - ----
+2022-12-22 18:13:34 INFO  LambdaMethods:42 - JACK
+2022-12-22 18:13:34 INFO  LambdaMethods:42 - JOHN
+2022-12-22 18:13:34 INFO  LambdaMethods:42 - ANN
+2022-12-22 18:13:34 INFO  LambdaMethods:43 - ----
+2022-12-22 18:13:34 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 18:13:34 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 18:13:34 INFO  LambdaMethods:49 - ----
+2022-12-22 18:13:34 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 18:13:34 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 18:13:34 INFO  LambdaMethods:54 - ----
+2022-12-22 18:13:34 INFO  LambdaMethods:57 - true
+2022-12-22 18:13:34 INFO  LambdaMethods:58 - true
+2022-12-22 18:13:34 INFO  LambdaMethods:59 - true
+2022-12-22 18:14:30 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:14:30 INFO  LambdaMethods:21 - ----
+2022-12-22 18:14:31 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:14:31 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:14:31 INFO  LambdaMethods:23 - ----
+2022-12-22 18:14:31 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:14:31 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:14:31 INFO  LambdaMethods:25 - ----
+2022-12-22 18:14:31 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:14:31 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:14:31 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:14:31 INFO  LambdaMethods:27 - ----
+2022-12-22 18:14:31 INFO  DriverList:39 - true
+2022-12-22 18:14:31 INFO  DriverList:39 - true
+2022-12-22 18:14:31 INFO  DriverList:39 - true
+2022-12-22 18:14:31 INFO  LambdaMethods:29 - ----
+2022-12-22 18:14:31 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:14:31 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:14:31 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:14:31 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:14:31 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:14:31 INFO  LambdaMethods:31 - ----
+2022-12-22 18:14:31 INFO  Order:192 - Double price - 40
+2022-12-22 18:14:31 INFO  LambdaMethods:33 - ----
+2022-12-22 18:14:31 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:14:31 INFO  LambdaMethods:35 - ----
+2022-12-22 18:14:31 INFO  LambdaMethods:39 - Jack true
+2022-12-22 18:14:31 INFO  LambdaMethods:39 - John true
+2022-12-22 18:14:31 INFO  LambdaMethods:39 - Ann false
+2022-12-22 18:14:31 INFO  LambdaMethods:40 - ----
+2022-12-22 18:14:31 INFO  LambdaMethods:42 - JACK
+2022-12-22 18:14:31 INFO  LambdaMethods:42 - JOHN
+2022-12-22 18:14:31 INFO  LambdaMethods:42 - ANN
+2022-12-22 18:14:31 INFO  LambdaMethods:43 - ----
+2022-12-22 18:14:31 INFO  LambdaMethods:48 - FORD - 5
+2022-12-22 18:14:31 INFO  LambdaMethods:48 - BMW - 8
+2022-12-22 18:14:31 INFO  LambdaMethods:49 - ----
+2022-12-22 18:14:31 INFO  LambdaMethods:53 - Jack - 2025-08-11
+2022-12-22 18:14:31 INFO  LambdaMethods:53 - John - 2026-04-23
+2022-12-22 18:14:31 INFO  LambdaMethods:54 - ----
+2022-12-22 18:14:31 INFO  LambdaMethods:57 - true
+2022-12-22 18:14:31 INFO  LambdaMethods:58 - true
+2022-12-22 18:14:31 INFO  LambdaMethods:59 - true
+2022-12-22 18:16:05 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:16:05 INFO  LambdaMethods:22 - ----
+2022-12-22 18:16:05 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:16:05 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:16:05 INFO  LambdaMethods:24 - ----
+2022-12-22 18:16:05 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:16:05 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:16:05 INFO  LambdaMethods:26 - ----
+2022-12-22 18:16:05 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:16:05 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:16:05 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:16:05 INFO  LambdaMethods:28 - ----
+2022-12-22 18:16:05 INFO  DriverList:39 - true
+2022-12-22 18:16:05 INFO  DriverList:39 - true
+2022-12-22 18:16:05 INFO  DriverList:39 - true
+2022-12-22 18:16:05 INFO  LambdaMethods:30 - ----
+2022-12-22 18:16:05 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:16:05 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:16:05 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:16:05 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:16:05 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:16:05 INFO  LambdaMethods:32 - ----
+2022-12-22 18:16:05 INFO  Order:192 - Double price - 40
+2022-12-22 18:16:05 INFO  LambdaMethods:34 - ----
+2022-12-22 18:16:05 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:16:05 INFO  LambdaMethods:36 - ----
+2022-12-22 18:16:05 INFO  LambdaMethods:40 - Jack true
+2022-12-22 18:16:05 INFO  LambdaMethods:40 - John true
+2022-12-22 18:16:05 INFO  LambdaMethods:40 - Ann false
+2022-12-22 18:16:05 INFO  LambdaMethods:41 - ----
+2022-12-22 18:16:05 INFO  LambdaMethods:43 - JACK
+2022-12-22 18:16:05 INFO  LambdaMethods:43 - JOHN
+2022-12-22 18:16:05 INFO  LambdaMethods:43 - ANN
+2022-12-22 18:16:05 INFO  LambdaMethods:44 - ----
+2022-12-22 18:16:05 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 18:16:05 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 18:16:05 INFO  LambdaMethods:50 - ----
+2022-12-22 18:16:05 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 18:16:05 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 18:16:05 INFO  LambdaMethods:55 - ----
+2022-12-22 18:16:05 INFO  LambdaMethods:58 - true
+2022-12-22 18:16:05 INFO  LambdaMethods:59 - true
+2022-12-22 18:16:05 INFO  LambdaMethods:60 - true
+2022-12-22 18:16:27 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:16:27 INFO  LambdaMethods:22 - ----
+2022-12-22 18:16:27 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:16:27 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:16:27 INFO  LambdaMethods:24 - ----
+2022-12-22 18:16:27 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:16:27 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:16:27 INFO  LambdaMethods:26 - ----
+2022-12-22 18:16:27 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:16:27 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:16:27 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:16:27 INFO  LambdaMethods:28 - ----
+2022-12-22 18:16:27 INFO  DriverList:39 - true
+2022-12-22 18:16:27 INFO  DriverList:39 - true
+2022-12-22 18:16:27 INFO  DriverList:39 - true
+2022-12-22 18:16:27 INFO  LambdaMethods:30 - ----
+2022-12-22 18:16:27 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:16:27 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:16:27 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:16:27 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:16:27 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:16:27 INFO  LambdaMethods:32 - ----
+2022-12-22 18:16:27 INFO  Order:192 - Double price - 40
+2022-12-22 18:16:27 INFO  LambdaMethods:34 - ----
+2022-12-22 18:16:27 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:16:27 INFO  LambdaMethods:36 - ----
+2022-12-22 18:16:27 INFO  LambdaMethods:40 - Jack true
+2022-12-22 18:16:27 INFO  LambdaMethods:40 - John true
+2022-12-22 18:16:27 INFO  LambdaMethods:40 - Ann false
+2022-12-22 18:16:27 INFO  LambdaMethods:41 - ----
+2022-12-22 18:16:27 INFO  LambdaMethods:43 - JACK
+2022-12-22 18:16:27 INFO  LambdaMethods:43 - JOHN
+2022-12-22 18:16:27 INFO  LambdaMethods:43 - ANN
+2022-12-22 18:16:27 INFO  LambdaMethods:44 - ----
+2022-12-22 18:16:27 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 18:16:27 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 18:16:27 INFO  LambdaMethods:50 - ----
+2022-12-22 18:16:27 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 18:16:27 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 18:16:27 INFO  LambdaMethods:55 - ----
+2022-12-22 18:16:27 INFO  LambdaMethods:58 - true
+2022-12-22 18:16:27 INFO  LambdaMethods:59 - true
+2022-12-22 18:16:27 INFO  LambdaMethods:60 - true
+2022-12-22 18:16:55 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:16:55 INFO  LambdaMethods:22 - ----
+2022-12-22 18:16:55 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:16:55 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:16:55 INFO  LambdaMethods:24 - ----
+2022-12-22 18:16:55 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:16:55 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:16:55 INFO  LambdaMethods:26 - ----
+2022-12-22 18:16:55 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:16:55 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:16:55 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:16:55 INFO  LambdaMethods:28 - ----
+2022-12-22 18:16:55 INFO  DriverList:39 - true
+2022-12-22 18:16:55 INFO  DriverList:39 - true
+2022-12-22 18:16:55 INFO  DriverList:39 - true
+2022-12-22 18:16:55 INFO  LambdaMethods:30 - ----
+2022-12-22 18:16:55 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:16:55 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:16:55 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:16:55 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:16:55 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:16:55 INFO  LambdaMethods:32 - ----
+2022-12-22 18:16:55 INFO  Order:192 - Double price - 40
+2022-12-22 18:16:55 INFO  LambdaMethods:34 - ----
+2022-12-22 18:16:55 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:16:55 INFO  LambdaMethods:36 - ----
+2022-12-22 18:16:55 INFO  LambdaMethods:40 - Jack true
+2022-12-22 18:16:55 INFO  LambdaMethods:40 - John true
+2022-12-22 18:16:55 INFO  LambdaMethods:40 - Ann false
+2022-12-22 18:16:55 INFO  LambdaMethods:41 - ----
+2022-12-22 18:16:55 INFO  LambdaMethods:43 - JACK
+2022-12-22 18:16:55 INFO  LambdaMethods:43 - JOHN
+2022-12-22 18:16:55 INFO  LambdaMethods:43 - ANN
+2022-12-22 18:16:55 INFO  LambdaMethods:44 - ----
+2022-12-22 18:16:55 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 18:16:55 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 18:16:55 INFO  LambdaMethods:50 - ----
+2022-12-22 18:16:55 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 18:16:55 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 18:16:55 INFO  LambdaMethods:55 - ----
+2022-12-22 18:16:55 INFO  LambdaMethods:58 - true
+2022-12-22 18:16:55 INFO  LambdaMethods:59 - true
+2022-12-22 18:16:55 INFO  LambdaMethods:60 - true
+2022-12-22 18:18:50 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:18:51 INFO  LambdaMethods:22 - ----
+2022-12-22 18:18:51 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:18:51 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:18:51 INFO  LambdaMethods:24 - ----
+2022-12-22 18:18:51 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:18:51 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:18:51 INFO  LambdaMethods:26 - ----
+2022-12-22 18:18:51 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:18:51 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:18:51 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:18:51 INFO  LambdaMethods:28 - ----
+2022-12-22 18:18:51 INFO  DriverList:39 - true
+2022-12-22 18:18:51 INFO  DriverList:39 - true
+2022-12-22 18:18:51 INFO  DriverList:39 - true
+2022-12-22 18:18:51 INFO  LambdaMethods:30 - ----
+2022-12-22 18:18:51 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:18:51 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:18:51 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:18:51 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:18:51 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:18:51 INFO  LambdaMethods:32 - ----
+2022-12-22 18:18:51 INFO  Order:192 - Double price - 40
+2022-12-22 18:18:51 INFO  LambdaMethods:34 - ----
+2022-12-22 18:18:51 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:18:51 INFO  LambdaMethods:36 - ----
+2022-12-22 18:18:51 INFO  LambdaMethods:40 - Jack true
+2022-12-22 18:18:51 INFO  LambdaMethods:40 - John true
+2022-12-22 18:18:51 INFO  LambdaMethods:40 - Ann false
+2022-12-22 18:18:51 INFO  LambdaMethods:41 - ----
+2022-12-22 18:18:51 INFO  LambdaMethods:43 - JACK
+2022-12-22 18:18:51 INFO  LambdaMethods:43 - JOHN
+2022-12-22 18:18:51 INFO  LambdaMethods:43 - ANN
+2022-12-22 18:18:51 INFO  LambdaMethods:44 - ----
+2022-12-22 18:18:51 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 18:18:51 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 18:18:51 INFO  LambdaMethods:50 - ----
+2022-12-22 18:18:51 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 18:18:51 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 18:18:51 INFO  LambdaMethods:55 - ----
+2022-12-22 18:18:51 INFO  LambdaMethods:58 - true
+2022-12-22 18:18:51 INFO  LambdaMethods:59 - true
+2022-12-22 18:18:51 INFO  LambdaMethods:60 - true
+2022-12-22 18:19:38 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:19:38 INFO  LambdaMethods:22 - ----
+2022-12-22 18:19:38 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:19:38 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:19:38 INFO  LambdaMethods:24 - ----
+2022-12-22 18:19:38 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:19:39 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:19:39 INFO  LambdaMethods:26 - ----
+2022-12-22 18:19:39 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:19:39 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:19:39 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:19:39 INFO  LambdaMethods:28 - ----
+2022-12-22 18:19:39 INFO  DriverList:39 - true
+2022-12-22 18:19:39 INFO  DriverList:39 - true
+2022-12-22 18:19:39 INFO  DriverList:39 - true
+2022-12-22 18:19:39 INFO  LambdaMethods:30 - ----
+2022-12-22 18:19:39 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:19:39 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:19:39 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:19:39 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:19:39 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:19:39 INFO  LambdaMethods:32 - ----
+2022-12-22 18:19:39 INFO  Order:192 - Double price - 40
+2022-12-22 18:19:39 INFO  LambdaMethods:34 - ----
+2022-12-22 18:19:39 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:19:39 INFO  LambdaMethods:36 - ----
+2022-12-22 18:19:39 INFO  LambdaMethods:40 - Jack true
+2022-12-22 18:19:39 INFO  LambdaMethods:40 - John true
+2022-12-22 18:19:39 INFO  LambdaMethods:40 - Ann false
+2022-12-22 18:19:39 INFO  LambdaMethods:41 - ----
+2022-12-22 18:19:39 INFO  LambdaMethods:43 - JACK
+2022-12-22 18:19:39 INFO  LambdaMethods:43 - JOHN
+2022-12-22 18:19:39 INFO  LambdaMethods:43 - ANN
+2022-12-22 18:19:39 INFO  LambdaMethods:44 - ----
+2022-12-22 18:19:39 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 18:19:39 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 18:19:39 INFO  LambdaMethods:50 - ----
+2022-12-22 18:19:39 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 18:19:39 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 18:19:39 INFO  LambdaMethods:55 - ----
+2022-12-22 18:19:39 INFO  LambdaMethods:58 - true
+2022-12-22 18:19:39 INFO  LambdaMethods:59 - true
+2022-12-22 18:19:39 INFO  LambdaMethods:60 - true
+2022-12-22 18:20:11 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:20:11 INFO  LambdaMethods:22 - ----
+2022-12-22 18:20:11 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:20:11 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:20:11 INFO  LambdaMethods:24 - ----
+2022-12-22 18:20:11 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:20:11 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:20:11 INFO  LambdaMethods:26 - ----
+2022-12-22 18:20:11 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:20:11 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:20:11 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:20:11 INFO  LambdaMethods:28 - ----
+2022-12-22 18:20:11 INFO  DriverList:39 - true
+2022-12-22 18:20:11 INFO  DriverList:39 - true
+2022-12-22 18:20:11 INFO  DriverList:39 - true
+2022-12-22 18:20:11 INFO  LambdaMethods:30 - ----
+2022-12-22 18:20:11 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:20:11 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:20:11 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:20:11 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:20:11 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:20:11 INFO  LambdaMethods:32 - ----
+2022-12-22 18:20:11 INFO  Order:192 - Double price - 40
+2022-12-22 18:20:11 INFO  LambdaMethods:34 - ----
+2022-12-22 18:20:11 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:20:11 INFO  LambdaMethods:36 - ----
+2022-12-22 18:20:11 INFO  LambdaMethods:40 - Jack true
+2022-12-22 18:20:11 INFO  LambdaMethods:40 - John true
+2022-12-22 18:20:11 INFO  LambdaMethods:40 - Ann false
+2022-12-22 18:20:11 INFO  LambdaMethods:41 - ----
+2022-12-22 18:20:11 INFO  LambdaMethods:43 - JACK
+2022-12-22 18:20:11 INFO  LambdaMethods:43 - JOHN
+2022-12-22 18:20:11 INFO  LambdaMethods:43 - ANN
+2022-12-22 18:20:11 INFO  LambdaMethods:44 - ----
+2022-12-22 18:20:11 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 18:20:11 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 18:20:11 INFO  LambdaMethods:50 - ----
+2022-12-22 18:20:11 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 18:20:11 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 18:20:11 INFO  LambdaMethods:55 - ----
+2022-12-22 18:20:11 INFO  LambdaMethods:58 - true
+2022-12-22 18:20:11 INFO  LambdaMethods:59 - true
+2022-12-22 18:20:11 INFO  LambdaMethods:60 - true
+2022-12-22 18:21:41 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:21:41 INFO  LambdaMethods:22 - ----
+2022-12-22 18:21:42 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:21:42 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:21:42 INFO  LambdaMethods:24 - ----
+2022-12-22 18:21:42 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:21:42 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:21:42 INFO  LambdaMethods:26 - ----
+2022-12-22 18:21:42 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:21:42 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:21:42 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:21:42 INFO  LambdaMethods:28 - ----
+2022-12-22 18:21:42 INFO  DriverList:39 - true
+2022-12-22 18:21:42 INFO  DriverList:39 - true
+2022-12-22 18:21:42 INFO  DriverList:39 - true
+2022-12-22 18:21:42 INFO  LambdaMethods:30 - ----
+2022-12-22 18:21:42 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:21:42 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:21:42 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:21:42 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:21:42 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:21:42 INFO  LambdaMethods:32 - ----
+2022-12-22 18:21:42 INFO  Order:192 - Double price - 40
+2022-12-22 18:21:42 INFO  LambdaMethods:34 - ----
+2022-12-22 18:21:42 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:21:42 INFO  LambdaMethods:36 - ----
+2022-12-22 18:21:42 INFO  LambdaMethods:40 - Jack true
+2022-12-22 18:21:42 INFO  LambdaMethods:40 - John true
+2022-12-22 18:21:42 INFO  LambdaMethods:40 - Ann false
+2022-12-22 18:21:42 INFO  LambdaMethods:41 - ----
+2022-12-22 18:21:42 INFO  LambdaMethods:43 - JACK
+2022-12-22 18:21:42 INFO  LambdaMethods:43 - JOHN
+2022-12-22 18:21:42 INFO  LambdaMethods:43 - ANN
+2022-12-22 18:21:42 INFO  LambdaMethods:44 - ----
+2022-12-22 18:21:42 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 18:21:42 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 18:21:42 INFO  LambdaMethods:50 - ----
+2022-12-22 18:21:42 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 18:21:42 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 18:21:42 INFO  LambdaMethods:55 - ----
+2022-12-22 18:21:42 INFO  LambdaMethods:58 - true
+2022-12-22 18:21:42 INFO  LambdaMethods:59 - true
+2022-12-22 18:21:42 INFO  LambdaMethods:60 - true
+2022-12-22 18:25:03 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:25:03 INFO  LambdaMethods:22 - ----
+2022-12-22 18:25:03 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:25:03 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:25:03 INFO  LambdaMethods:24 - ----
+2022-12-22 18:25:03 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:25:03 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:25:03 INFO  LambdaMethods:26 - ----
+2022-12-22 18:25:03 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:25:03 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:25:03 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:25:03 INFO  LambdaMethods:28 - ----
+2022-12-22 18:25:03 INFO  DriverList:39 - true
+2022-12-22 18:25:03 INFO  DriverList:39 - true
+2022-12-22 18:25:03 INFO  DriverList:39 - true
+2022-12-22 18:25:03 INFO  LambdaMethods:30 - ----
+2022-12-22 18:25:03 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:25:03 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:25:03 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:25:03 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:25:03 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:25:03 INFO  LambdaMethods:32 - ----
+2022-12-22 18:25:03 INFO  Order:192 - Double price - 40
+2022-12-22 18:25:03 INFO  LambdaMethods:34 - ----
+2022-12-22 18:25:03 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:25:03 INFO  LambdaMethods:36 - ----
+2022-12-22 18:25:03 INFO  LambdaMethods:40 - Jack true
+2022-12-22 18:25:03 INFO  LambdaMethods:40 - John true
+2022-12-22 18:25:03 INFO  LambdaMethods:40 - Ann false
+2022-12-22 18:25:03 INFO  LambdaMethods:41 - ----
+2022-12-22 18:25:03 INFO  LambdaMethods:43 - JACK
+2022-12-22 18:25:03 INFO  LambdaMethods:43 - JOHN
+2022-12-22 18:25:03 INFO  LambdaMethods:43 - ANN
+2022-12-22 18:25:03 INFO  LambdaMethods:44 - ----
+2022-12-22 18:25:03 INFO  LambdaMethods:49 - FORD - 5
+2022-12-22 18:25:03 INFO  LambdaMethods:49 - BMW - 8
+2022-12-22 18:25:03 INFO  LambdaMethods:50 - ----
+2022-12-22 18:25:03 INFO  LambdaMethods:54 - Jack - 2025-08-11
+2022-12-22 18:25:03 INFO  LambdaMethods:54 - John - 2026-04-23
+2022-12-22 18:25:03 INFO  LambdaMethods:55 - ----
+2022-12-22 18:25:03 INFO  LambdaMethods:58 - true
+2022-12-22 18:25:03 INFO  LambdaMethods:59 - true
+2022-12-22 18:25:03 INFO  LambdaMethods:60 - true
+2022-12-22 18:28:13 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:28:14 INFO  LambdaMethods:24 - ----
+2022-12-22 18:28:14 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:28:14 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:28:14 INFO  LambdaMethods:26 - ----
+2022-12-22 18:28:14 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:28:14 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:28:14 INFO  LambdaMethods:28 - ----
+2022-12-22 18:28:14 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:28:14 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:28:14 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:28:14 INFO  LambdaMethods:30 - ----
+2022-12-22 18:28:14 INFO  DriverList:39 - true
+2022-12-22 18:28:14 INFO  DriverList:39 - true
+2022-12-22 18:28:14 INFO  DriverList:39 - true
+2022-12-22 18:28:14 INFO  LambdaMethods:32 - ----
+2022-12-22 18:28:14 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:28:14 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:28:14 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:28:14 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:28:14 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:28:14 INFO  LambdaMethods:34 - ----
+2022-12-22 18:28:14 INFO  Order:192 - Double price - 40
+2022-12-22 18:28:14 INFO  LambdaMethods:36 - ----
+2022-12-22 18:28:14 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:28:14 INFO  LambdaMethods:38 - ----
+2022-12-22 18:28:14 INFO  LambdaMethods:42 - Jack true
+2022-12-22 18:28:14 INFO  LambdaMethods:42 - John true
+2022-12-22 18:28:14 INFO  LambdaMethods:42 - Ann false
+2022-12-22 18:28:14 INFO  LambdaMethods:43 - ----
+2022-12-22 18:28:14 INFO  LambdaMethods:45 - JACK
+2022-12-22 18:28:14 INFO  LambdaMethods:45 - JOHN
+2022-12-22 18:28:14 INFO  LambdaMethods:45 - ANN
+2022-12-22 18:28:14 INFO  LambdaMethods:46 - ----
+2022-12-22 18:28:14 INFO  LambdaMethods:51 - FORD - 5
+2022-12-22 18:28:14 INFO  LambdaMethods:51 - BMW - 8
+2022-12-22 18:28:14 INFO  LambdaMethods:52 - ----
+2022-12-22 18:28:14 INFO  LambdaMethods:56 - Jack - 2025-08-11
+2022-12-22 18:28:14 INFO  LambdaMethods:56 - John - 2026-04-23
+2022-12-22 18:28:14 INFO  LambdaMethods:57 - ----
+2022-12-22 18:28:14 INFO  LambdaMethods:60 - true
+2022-12-22 18:28:14 INFO  LambdaMethods:61 - true
+2022-12-22 18:28:14 INFO  LambdaMethods:62 - true
+2022-12-22 18:28:14 INFO  LambdaMethods:73 - Jack Jonson, John Jackson, Ann Annieson,
+2022-12-22 18:28:14 INFO  LambdaMethods:75 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}]
+2022-12-22 18:31:31 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-22 18:31:31 INFO  LambdaMethods:24 - ----
+2022-12-22 18:31:31 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-22 18:31:31 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-22 18:31:31 INFO  LambdaMethods:26 - ----
+2022-12-22 18:31:31 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-22 18:31:31 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-22 18:31:32 INFO  LambdaMethods:28 - ----
+2022-12-22 18:31:32 INFO  LambdaMethods:34 - FORD - 170
+2022-12-22 18:31:32 INFO  LambdaMethods:34 - FORD - 210
+2022-12-22 18:31:32 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-22 18:31:32 INFO  LambdaMethods:30 - ----
+2022-12-22 18:31:32 INFO  DriverList:39 - true
+2022-12-22 18:31:32 INFO  DriverList:39 - true
+2022-12-22 18:31:32 INFO  DriverList:39 - true
+2022-12-22 18:31:32 INFO  LambdaMethods:32 - ----
+2022-12-22 18:31:32 INFO  Pickup:49 - FORD 5 seats
+2022-12-22 18:31:32 INFO  Pickup:49 - FORD 4 seats
+2022-12-22 18:31:32 INFO  Pickup:49 - BMW 8 seats
+2022-12-22 18:31:32 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-22 18:31:32 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-22 18:31:32 INFO  LambdaMethods:34 - ----
+2022-12-22 18:31:32 INFO  Order:192 - Double price - 40
+2022-12-22 18:31:32 INFO  LambdaMethods:36 - ----
+2022-12-22 18:31:32 INFO  Order:197 - Action price - 46.75
+2022-12-22 18:31:32 INFO  LambdaMethods:38 - ----
+2022-12-22 18:31:32 INFO  LambdaMethods:42 - Jack true
+2022-12-22 18:31:32 INFO  LambdaMethods:42 - John true
+2022-12-22 18:31:32 INFO  LambdaMethods:42 - Ann false
+2022-12-22 18:31:32 INFO  LambdaMethods:43 - ----
+2022-12-22 18:31:32 INFO  LambdaMethods:45 - JACK
+2022-12-22 18:31:32 INFO  LambdaMethods:45 - JOHN
+2022-12-22 18:31:32 INFO  LambdaMethods:45 - ANN
+2022-12-22 18:31:32 INFO  LambdaMethods:46 - ----
+2022-12-22 18:31:32 INFO  LambdaMethods:51 - FORD - 5
+2022-12-22 18:31:32 INFO  LambdaMethods:51 - BMW - 8
+2022-12-22 18:31:32 INFO  LambdaMethods:52 - ----
+2022-12-22 18:31:32 INFO  LambdaMethods:56 - Jack - 2025-08-11
+2022-12-22 18:31:32 INFO  LambdaMethods:56 - John - 2026-04-23
+2022-12-22 18:31:32 INFO  LambdaMethods:57 - ----
+2022-12-22 18:31:32 INFO  LambdaMethods:60 - true
+2022-12-22 18:31:32 INFO  LambdaMethods:61 - true
+2022-12-22 18:31:32 INFO  LambdaMethods:62 - true
+2022-12-22 18:31:32 INFO  LambdaMethods:73 - Jack Jonson, John Jackson, Ann Annieson,
+2022-12-22 18:31:32 INFO  LambdaMethods:76 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}]
+2022-12-22 18:31:32 INFO  LambdaMethods:79 - 5
+2022-12-25 11:49:49 INFO  Reflection:63 - class org.apache.log4j.Logger LOG
+2022-12-25 11:49:49 INFO  Reflection:63 - int location
+2022-12-25 11:49:49 INFO  Reflection:63 - class java.lang.String luggage
+2022-12-25 11:49:49 INFO  Reflection:63 - int passengerNumber
+2022-12-25 11:49:49 INFO  Reflection:63 - class java.lang.String promoCode
+2022-12-25 11:49:49 INFO  Reflection:63 - class com.solvd.TaxiService.Taxi.Order order
+2022-12-25 11:49:49 INFO  Reflection:69 - Before changing - 1
+2022-12-25 11:49:49 INFO  Reflection:73 - After changing - 2
+2022-12-25 11:49:49 INFO  Reflection:77 - Before changing - No
+2022-12-25 11:49:49 INFO  Reflection:81 - After changing - Yes
+2022-12-25 11:49:49 INFO  Reflection:85 - Before changing - 0
+2022-12-25 11:49:49 INFO  Reflection:89 - After changing - 2
+2022-12-25 11:49:49 INFO  Reflection:94 - Yes
+2022-12-25 11:51:43 INFO  Reflection:21 - 
+ Constructors 
+2022-12-25 11:51:43 INFO  Reflection:22 - Name - com.solvd.TaxiService.Person.Driver
+2022-12-25 11:51:43 INFO  Reflection:23 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:24 - Parameters - []
+2022-12-25 11:51:43 INFO  Reflection:21 - 
+ Constructors 
+2022-12-25 11:51:43 INFO  Reflection:22 - Name - com.solvd.TaxiService.Person.Driver
+2022-12-25 11:51:43 INFO  Reflection:23 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:24 - Parameters - [java.lang.String arg0, java.lang.String arg1, java.lang.String arg2, java.lang.String arg3, int arg4, com.solvd.TaxiService.enums.Gender arg5, com.solvd.TaxiService.Person.License arg6, com.solvd.TaxiService.enums.Level arg7, com.solvd.TaxiService.enums.Level arg8]
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - driverStatus
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - void
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - []
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 0
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - []
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - cancelOrder
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - void
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - []
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 0
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - []
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - expiredLicenseList
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 9
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - void
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - []
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 0
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - []
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - licenseValidityPeriod
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 9
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - void
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - [java.lang.String arg0]
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 1
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - [class java.lang.String]
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - setDispatcher
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - void
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - [com.solvd.TaxiService.Person.Dispatcher arg0]
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 1
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - [class com.solvd.TaxiService.Person.Dispatcher]
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - getLicense
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - class com.solvd.TaxiService.Person.License
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - []
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 0
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - []
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - setLicense
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - void
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - [com.solvd.TaxiService.Person.License arg0]
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 1
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - [class com.solvd.TaxiService.Person.License]
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - getDrivingExperience
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - class com.solvd.TaxiService.enums.Level
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - []
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 0
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - []
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - setDrivingExperience
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - void
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - [com.solvd.TaxiService.enums.Level arg0]
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 1
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - [class com.solvd.TaxiService.enums.Level]
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - getKnowledgeOfCity
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - class com.solvd.TaxiService.enums.Level
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - []
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 0
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - []
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - setKnowledgeOfCity
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - void
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - [com.solvd.TaxiService.enums.Level arg0]
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 1
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - [class com.solvd.TaxiService.enums.Level]
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - equals
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - boolean
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - [java.lang.Object arg0]
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 1
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - [class java.lang.Object]
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - toString
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - class java.lang.String
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - []
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 0
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - []
+2022-12-25 11:51:43 INFO  Reflection:30 - 
+ Methods
+2022-12-25 11:51:43 INFO  Reflection:31 - Name - hashCode
+2022-12-25 11:51:43 INFO  Reflection:32 - Modifiers - 1
+2022-12-25 11:51:43 INFO  Reflection:33 - ReturnType - int
+2022-12-25 11:51:43 INFO  Reflection:34 - Parameters - []
+2022-12-25 11:51:43 INFO  Reflection:35 - ParameterCount - 0
+2022-12-25 11:51:43 INFO  Reflection:36 - ParameterTypes - []
+2022-12-25 11:51:43 INFO  Reflection:41 - 
+ Fields
+2022-12-25 11:51:43 INFO  Reflection:42 - Name - LOGGER
+2022-12-25 11:51:43 INFO  Reflection:43 - Type - class org.apache.log4j.Logger
+2022-12-25 11:51:43 INFO  Reflection:44 - Modifiers - 26
+2022-12-25 11:51:43 INFO  Reflection:41 - 
+ Fields
+2022-12-25 11:51:43 INFO  Reflection:42 - Name - licensesList
+2022-12-25 11:51:43 INFO  Reflection:43 - Type - class com.solvd.TaxiService.Person.License
+2022-12-25 11:51:43 INFO  Reflection:44 - Modifiers - 2
+2022-12-25 11:51:43 INFO  Reflection:41 - 
+ Fields
+2022-12-25 11:51:43 INFO  Reflection:42 - Name - drivingExperience
+2022-12-25 11:51:43 INFO  Reflection:43 - Type - class com.solvd.TaxiService.enums.Level
+2022-12-25 11:51:43 INFO  Reflection:44 - Modifiers - 2
+2022-12-25 11:51:43 INFO  Reflection:41 - 
+ Fields
+2022-12-25 11:51:43 INFO  Reflection:42 - Name - knowledgeOfCity
+2022-12-25 11:51:43 INFO  Reflection:43 - Type - class com.solvd.TaxiService.enums.Level
+2022-12-25 11:51:43 INFO  Reflection:44 - Modifiers - 2
+2022-12-25 11:51:43 INFO  Reflection:41 - 
+ Fields
+2022-12-25 11:51:43 INFO  Reflection:42 - Name - dispatcher
+2022-12-25 11:51:43 INFO  Reflection:43 - Type - class com.solvd.TaxiService.Person.Dispatcher
+2022-12-25 11:51:43 INFO  Reflection:44 - Modifiers - 2
+2022-12-25 11:51:43 INFO  Reflection:48 - 
+ Interfaces
+2022-12-25 11:51:43 INFO  Reflection:49 - name - com.solvd.TaxiService.Interfaces.IDriverStatus
+2022-12-25 11:51:43 INFO  Reflection:48 - 
+ Interfaces
+2022-12-25 11:51:43 INFO  Reflection:49 - name - com.solvd.TaxiService.Interfaces.ICancelOrder
+2022-12-25 16:18:36 INFO  Main:15 - true
+2022-12-25 16:18:41 INFO  Main:17 - true
+2022-12-25 16:19:10 INFO  Main:15 - true
+2022-12-25 16:19:15 INFO  Main:17 - true
+2022-12-25 16:19:41 INFO  Main:14 - true
+2022-12-25 16:19:46 INFO  Main:16 - false
+2022-12-25 16:20:27 INFO  Main:14 - true
+2022-12-25 16:20:32 INFO  Main:16 - false
+2022-12-25 16:20:50 INFO  Main:14 - true
+2022-12-25 16:20:55 INFO  Main:16 - false
+2022-12-25 16:21:21 INFO  Main:14 - true
+2022-12-25 16:21:21 INFO  Main:14 - true
+2022-12-25 16:21:21 INFO  Main:14 - true
+2022-12-25 16:21:21 INFO  Main:14 - true
+2022-12-25 16:21:21 INFO  Main:14 - true
+2022-12-25 16:21:26 INFO  Main:16 - false
+2022-12-25 16:21:26 INFO  Main:16 - false
+2022-12-25 16:21:26 INFO  Main:16 - false
+2022-12-25 16:21:26 INFO  Main:16 - false
+2022-12-25 16:21:26 INFO  Main:16 - false
+2022-12-25 16:22:05 INFO  Main:13 - true
+2022-12-25 16:22:05 INFO  Main:13 - true
+2022-12-25 16:22:05 INFO  Main:13 - true
+2022-12-25 16:22:05 INFO  Main:13 - true
+2022-12-25 16:22:05 INFO  Main:13 - true
+2022-12-25 16:22:05 INFO  Main:15 - false
+2022-12-25 16:22:05 INFO  Main:15 - false
+2022-12-25 16:22:05 INFO  Main:15 - false
+2022-12-25 16:22:05 INFO  Main:15 - false
+2022-12-25 16:22:05 INFO  Main:15 - false
+2022-12-25 16:22:13 INFO  Main:13 - true
+2022-12-25 16:22:13 INFO  Main:13 - true
+2022-12-25 16:22:13 INFO  Main:13 - true
+2022-12-25 16:22:13 INFO  Main:13 - true
+2022-12-25 16:22:13 INFO  Main:15 - false
+2022-12-25 16:22:13 INFO  Main:13 - true
+2022-12-25 16:22:13 INFO  Main:15 - false
+2022-12-25 16:22:13 INFO  Main:15 - false
+2022-12-25 16:22:13 INFO  Main:15 - false
+2022-12-25 16:22:13 INFO  Main:15 - false
+2022-12-25 16:22:44 INFO  Main:13 - true 14
+2022-12-25 16:22:44 INFO  Main:13 - true 13
+2022-12-25 16:22:44 INFO  Main:13 - true 15
+2022-12-25 16:22:44 INFO  Main:13 - true 12
+2022-12-25 16:22:44 INFO  Main:15 - false 14
+2022-12-25 16:22:44 INFO  Main:13 - true 16
+2022-12-25 16:22:44 INFO  Main:15 - false 13
+2022-12-25 16:22:44 INFO  Main:15 - false 12
+2022-12-25 16:22:44 INFO  Main:15 - false 15
+2022-12-25 16:22:44 INFO  Main:15 - false 16
+2022-12-25 16:22:57 INFO  Main:13 - true 16
+2022-12-25 16:22:57 INFO  Main:13 - true 15
+2022-12-25 16:22:57 INFO  Main:13 - true 12
+2022-12-25 16:22:57 INFO  Main:13 - true 13
+2022-12-25 16:22:57 INFO  Main:13 - true 14
+2022-12-25 16:23:02 INFO  Main:19 - false 15
+2022-12-25 16:23:02 INFO  Main:19 - false 13
+2022-12-25 16:23:02 INFO  Main:19 - false 12
+2022-12-25 16:23:02 INFO  Main:19 - false 16
+2022-12-25 16:23:02 INFO  Main:19 - false 14
+2022-12-25 16:41:00 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 1
+2022-12-25 16:41:04 INFO  Main:16 - 5 1
+2022-12-25 16:41:04 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 1
+2022-12-25 16:41:08 INFO  Main:16 - 5 1
+2022-12-25 16:41:08 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 1
+2022-12-25 16:41:12 INFO  Main:16 - 5 1
+2022-12-25 16:41:12 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 1
+2022-12-25 16:41:16 INFO  Main:16 - 5 1
+2022-12-25 16:41:16 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 1
+2022-12-25 16:41:20 INFO  Main:16 - 5 1
+2022-12-25 16:41:57 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 14
+2022-12-25 16:41:57 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 13
+2022-12-25 16:41:57 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 12
+2022-12-25 16:41:57 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 15
+2022-12-25 16:41:57 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 16
+2022-12-25 16:42:01 INFO  Main:16 - 5 12
+2022-12-25 16:42:01 INFO  Main:16 - 5 13
+2022-12-25 16:42:01 INFO  Main:16 - 5 14
+2022-12-25 16:42:01 INFO  Main:16 - 5 16
+2022-12-25 16:42:01 INFO  Main:16 - 5 15
+2022-12-25 16:46:25 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 13
+2022-12-25 16:46:25 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 12
+2022-12-25 16:46:29 INFO  Main:16 - 5 12
+2022-12-25 16:46:29 INFO  Main:16 - 5 13
+2022-12-25 19:30:22 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 13
+2022-12-25 19:30:22 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 12
+2022-12-25 19:30:26 INFO  Main:16 - 5 13
+2022-12-25 19:30:26 INFO  Main:16 - 5 12
