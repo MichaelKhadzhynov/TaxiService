@@ -13,15 +13,10 @@ public class TestPool {
 
     public static void testPool() {
 
-        String dbUrl = "jdbc:mysql://localhost:3306/myDB";
-        String dbUser = "root";
-        String dbPass = "12345678";
-
-        ConnectionPool pool = new ConnectionPool(dbUrl, dbUser, dbPass, 5);
         Connection conn = null;
 
         try {
-            conn = pool.getConnection();
+            conn = ConnectionPool.getInstance().getConnection();
             try (Statement statement = conn.createStatement()) {
                 ResultSet resultSet = statement.executeQuery("SELECT * FROM taxi_clients ");
                 while (resultSet.next()) {
@@ -35,7 +30,7 @@ public class TestPool {
         } finally {
             if (conn != null) {
                 try {
-                    pool.releaseConnection(conn);
+                    ConnectionPool.getInstance().releaseConnection(conn);
                 } catch (SQLException e) {
                     e.printStackTrace();
                 }

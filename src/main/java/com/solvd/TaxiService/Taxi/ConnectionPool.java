@@ -14,28 +14,19 @@ public class ConnectionPool {
     private static final Logger LOGGER = Logger.getLogger(ConnectionPool.class);
     private static final ConnectionPool INSTANCE = new ConnectionPool();
 
-    private  String dataBaseUrl = "jdbc:mysql://localhost:3306/myDB";
-    private  String userName  = "root";
-    private  String password = "12345678";
+    private final String dataBaseUrl = "jdbc:mysql://localhost:3306/myDB";
+    private final String userName  = "root";
+    private final String password = "12345678";
 
 
 
-    private  int maxPoolSize = 5;
+    private final int maxPoolSize = 5;
     private int connectionNumber = 0;
 
     private static final String SQL_VERIFICATION = "select_1";
 
     Stack<Connection> freePool = new Stack<>();
     Set<Connection> occupiedPool = new HashSet<>();
-
-
-    public ConnectionPool(String dataBaseUrl, String userName, String password, int maxPoolSize) {
-        this.dataBaseUrl = dataBaseUrl;
-        this.userName = userName;
-        this.password = password;
-        this.maxPoolSize = maxPoolSize;
-
-    }
 
     public ConnectionPool() {
     }
