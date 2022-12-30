@@ -10749,3 +10749,1216 @@ name com.solvd.TaxiService.Interfaces.ICancelOrder
 2022-12-25 19:30:22 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 12
 2022-12-25 19:30:26 INFO  Main:16 - 5 13
 2022-12-25 19:30:26 INFO  Main:16 - 5 12
+2022-12-26 15:14:13 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-26 15:14:13 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 15:14:13 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 15:14:13 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-26 15:14:13 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-26 15:14:14 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-26 15:14:14 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-26 15:14:14 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-26 15:14:14 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-26 15:14:14 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 15:14:16 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-26 15:14:16 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-26 15:14:16 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 15:14:16 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-26 15:14:16 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-26 15:14:16 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 15:14:16 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-26 15:14:16 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 15:14:16 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-26 15:14:18 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-26 15:14:18 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-26 19:39:25 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-26 19:39:25 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-26 19:39:25 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 19:39:25 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 19:39:25 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-26 19:39:27 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-26 19:39:27 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-26 19:39:27 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-26 19:39:28 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-26 19:39:28 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:39:29 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-26 19:39:29 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-26 19:39:29 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:39:29 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-26 19:39:29 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-26 19:39:29 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:39:29 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 19:39:30 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-26 19:39:30 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-26 19:39:31 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-26 19:39:31 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-26 19:41:01 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-26 19:41:01 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-26 19:41:01 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-26 19:41:01 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 19:41:01 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 19:41:03 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-26 19:41:03 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-26 19:41:03 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-26 19:41:03 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-26 19:41:03 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:41:05 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-26 19:41:05 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-26 19:41:05 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:41:05 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 19:41:05 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 19:41:05 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:41:05 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-26 19:41:05 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-26 19:41:05 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-26 19:41:07 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-26 19:41:07 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 19:42:22 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 19:42:22 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-26 19:42:22 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-26 19:42:22 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-26 19:42:22 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 19:42:24 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-26 19:42:24 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-26 19:42:24 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-26 19:42:24 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 19:42:24 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-26 19:42:24 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-26 19:42:24 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-26 19:42:24 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-26 19:42:24 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-26 19:42:24 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-26 19:42:24 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-26 19:42:24 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-26 19:42:24 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-26 19:42:24 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 19:42:24 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-26 19:42:24 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-26 19:50:32 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 19:50:32 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 19:50:32 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-26 19:50:32 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-26 19:50:32 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-26 19:50:34 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-26 19:50:34 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-26 19:50:34 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-26 19:50:34 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-26 19:50:34 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:50:36 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 19:50:36 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 19:50:36 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:50:36 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-26 19:50:36 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-26 19:50:36 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:50:36 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-26 19:50:36 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-26 19:50:36 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-26 19:50:38 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 19:50:38 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-26 19:52:19 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 19:52:19 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 19:52:19 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-26 19:52:19 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-26 19:52:19 INFO  MyThreadsCP:28 - Start Thread number - 17
+2022-12-26 19:52:21 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-26 19:52:21 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-26 19:52:21 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-26 19:52:21 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-26 19:52:21 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:52:23 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-26 19:52:23 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 19:52:23 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:52:23 INFO  MyThreadsCP:44 - Finish Thread number - 17
+2022-12-26 19:52:23 INFO  MyThreadsCP:28 - Start Thread number - 17
+2022-12-26 19:52:23 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 19:52:23 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-26 19:52:23 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-26 19:52:23 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 19:52:25 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-26 19:52:25 INFO  MyThreadsCP:44 - Finish Thread number - 17
+2022-12-26 20:09:33 INFO  MyThreadsCP:28 - Start Thread number - 17
+2022-12-26 20:09:33 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 20:09:33 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-26 20:09:33 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 20:09:33 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-26 20:09:35 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-26 20:09:35 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-26 20:09:35 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-26 20:09:35 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-26 20:09:35 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 20:09:37 INFO  MyThreadsCP:44 - Finish Thread number - 17
+2022-12-26 20:09:37 INFO  MyThreadsCP:28 - Start Thread number - 17
+2022-12-26 20:09:37 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 20:09:37 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-26 20:09:37 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-26 20:09:37 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-26 20:09:37 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 20:09:37 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-26 20:09:37 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-26 20:09:39 INFO  MyThreadsCP:44 - Finish Thread number - 17
+2022-12-26 20:09:39 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-26 20:09:58 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 20:09:58 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-26 20:09:58 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-26 20:09:58 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-26 20:09:58 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 20:09:59 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-26 20:09:59 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-26 20:09:59 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-26 20:09:59 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-26 20:09:59 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 20:09:59 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-26 20:09:59 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-26 20:09:59 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-26 20:10:00 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-26 20:10:00 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-26 20:10:00 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-26 20:10:00 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-26 20:10:00 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-26 20:10:00 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-26 20:10:00 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-26 20:10:00 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:08:33 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:08:33 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:08:33 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:08:33 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:08:33 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:08:35 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:08:35 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 11:08:35 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 11:08:35 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 11:08:35 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:08:37 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:08:37 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:08:37 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:08:37 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:08:37 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:08:37 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:08:37 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:08:37 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:08:37 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:08:39 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:08:39 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:09:05 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:09:05 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:09:05 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:09:05 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:09:05 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:09:07 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:09:07 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 11:09:07 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 11:09:07 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 11:09:07 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:09:09 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:09:09 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:09:09 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:09:09 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:09:09 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:09:09 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:09:09 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:09:09 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:09:09 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:09:11 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:09:11 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:09:34 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:09:34 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:09:34 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:09:34 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:09:34 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:09:35 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:09:36 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 11:09:36 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 11:09:36 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 11:09:36 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:09:37 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:09:37 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:09:38 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:09:38 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:09:38 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:09:38 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:09:38 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:09:38 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:09:38 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:09:40 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:09:40 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:10:03 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:10:03 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:10:03 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:10:03 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:10:03 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:10:05 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:10:05 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 11:10:05 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 11:10:05 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 11:10:05 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:10:07 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:10:07 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:10:07 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:10:07 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:10:07 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:10:07 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:10:07 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:10:07 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:10:07 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:10:09 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:10:09 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:10:18 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:10:18 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:10:18 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:10:18 INFO  MyThreadsCP:28 - Start Thread number - 18
+2022-12-27 11:10:18 INFO  MyThreadsCP:28 - Start Thread number - 17
+2022-12-27 11:10:18 INFO  MyThreadsCP:28 - Start Thread number - 19
+2022-12-27 11:10:18 INFO  MyThreadsCP:28 - Start Thread number - 20
+2022-12-27 11:10:21 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:10:21 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:10:21 INFO  MyThreadsCP:28 - Start Thread number - 17
+2022-12-27 11:10:21 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:10:21 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:10:21 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:10:21 INFO  MyThreadsCP:28 - Start Thread number - 18
+2022-12-27 11:10:23 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:10:23 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 11:10:23 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 11:10:23 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 11:10:23 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:10:23 INFO  ConnectionPool:47 - Connection number - 6
+2022-12-27 11:10:23 INFO  ConnectionPool:47 - Connection number - 7
+2022-12-27 11:10:25 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:10:25 INFO  MyThreadsCP:44 - Finish Thread number - 18
+2022-12-27 11:10:25 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:10:25 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:10:25 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:10:25 INFO  MyThreadsCP:44 - Finish Thread number - 17
+2022-12-27 11:10:25 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:10:42 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:10:42 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:10:42 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:10:42 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:10:42 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:10:44 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:10:44 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 11:10:44 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 11:10:44 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 11:10:44 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:10:46 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:10:46 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:10:46 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:10:46 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:10:46 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:10:46 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:10:46 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:10:46 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:10:46 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:10:48 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:10:48 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:11:04 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:11:04 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:11:04 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:11:04 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:11:04 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:11:06 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:11:06 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 11:11:06 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 11:11:06 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 11:11:06 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:11:08 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:11:08 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:11:08 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:11:08 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:11:08 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:11:08 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:11:08 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:11:08 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:11:08 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:11:10 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:11:10 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:17:02 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:17:02 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:17:02 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:17:02 INFO  MyThreadsCP:28 - Start Thread number - 17
+2022-12-27 11:17:02 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:17:02 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:17:02 INFO  MyThreadsCP:28 - Start Thread number - 18
+2022-12-27 11:17:03 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:17:03 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 11:17:03 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 11:17:03 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 11:17:03 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:17:03 ERROR MyThreadsCP:33 - java.sql.SQLException: Connection pool is full
+2022-12-27 11:17:03 ERROR MyThreadsCP:33 - java.sql.SQLException: Connection pool is full
+2022-12-27 11:17:03 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:17:03 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:17:05 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:17:05 INFO  MyThreadsCP:44 - Finish Thread number - 18
+2022-12-27 11:17:05 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:17:05 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:17:05 INFO  MyThreadsCP:44 - Finish Thread number - 17
+2022-12-27 11:17:23 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:17:23 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:17:23 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:17:23 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:17:23 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:17:24 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:17:24 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 11:17:24 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 11:17:24 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 11:17:24 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:17:26 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:17:26 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:17:26 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:17:26 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:17:26 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:17:26 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:17:26 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:17:26 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:17:26 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:17:28 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:17:28 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:18:50 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 11:18:50 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 11:18:50 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 11:18:50 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 11:18:50 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 11:18:50 INFO  MyThreadsCP:28 - Start Thread number - 18
+2022-12-27 11:18:50 INFO  MyThreadsCP:28 - Start Thread number - 17
+2022-12-27 11:18:51 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:18:51 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 11:18:51 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 11:18:51 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 11:18:51 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 11:18:51 ERROR MyThreadsCP:33 - java.sql.SQLException: Connection pool is full
+2022-12-27 11:18:51 ERROR MyThreadsCP:33 - java.sql.SQLException: Connection pool is full
+2022-12-27 11:18:51 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 11:18:51 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 11:18:53 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 11:18:53 INFO  MyThreadsCP:44 - Finish Thread number - 17
+2022-12-27 11:18:53 INFO  MyThreadsCP:44 - Finish Thread number - 18
+2022-12-27 11:18:53 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 11:18:53 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 11:26:11 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-27 11:26:11 INFO  LambdaMethods:22 - ----
+2022-12-27 11:26:11 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-27 11:26:11 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-27 11:26:11 INFO  LambdaMethods:24 - ----
+2022-12-27 11:26:11 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-27 11:26:11 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-27 11:26:11 INFO  LambdaMethods:26 - ----
+2022-12-27 11:26:11 INFO  LambdaMethods:34 - FORD - 170
+2022-12-27 11:26:11 INFO  LambdaMethods:34 - FORD - 210
+2022-12-27 11:26:11 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-27 11:26:11 INFO  LambdaMethods:29 - ----
+2022-12-27 11:26:11 INFO  DriverList:39 - true
+2022-12-27 11:26:11 INFO  DriverList:39 - true
+2022-12-27 11:26:11 INFO  DriverList:39 - true
+2022-12-27 11:26:11 INFO  LambdaMethods:31 - ----
+2022-12-27 11:26:11 INFO  Pickup:49 - FORD 5 seats
+2022-12-27 11:26:11 INFO  Pickup:49 - FORD 4 seats
+2022-12-27 11:26:11 INFO  Pickup:49 - BMW 8 seats
+2022-12-27 11:26:11 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-27 11:26:11 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-27 11:26:11 INFO  LambdaMethods:33 - ----
+2022-12-27 11:26:11 INFO  Order:192 - Double price - 40
+2022-12-27 11:26:11 INFO  LambdaMethods:35 - ----
+2022-12-27 11:26:11 INFO  Order:197 - Action price - 46.75
+2022-12-27 11:26:11 INFO  LambdaMethods:37 - ----
+2022-12-27 11:26:11 INFO  LambdaMethods:41 - Jack true
+2022-12-27 11:26:11 INFO  LambdaMethods:41 - John true
+2022-12-27 11:26:11 INFO  LambdaMethods:41 - Ann false
+2022-12-27 11:26:11 INFO  LambdaMethods:42 - ----
+2022-12-27 11:26:11 INFO  LambdaMethods:44 - JACK
+2022-12-27 11:26:11 INFO  LambdaMethods:44 - JOHN
+2022-12-27 11:26:11 INFO  LambdaMethods:44 - ANN
+2022-12-27 11:26:11 INFO  LambdaMethods:45 - ----
+2022-12-27 11:26:11 INFO  LambdaMethods:50 - FORD - 5
+2022-12-27 11:26:11 INFO  LambdaMethods:50 - BMW - 8
+2022-12-27 11:26:11 INFO  LambdaMethods:51 - ----
+2022-12-27 11:26:11 INFO  LambdaMethods:55 - Jack - 2025-08-11
+2022-12-27 11:26:11 INFO  LambdaMethods:55 - John - 2026-04-23
+2022-12-27 11:26:11 INFO  LambdaMethods:56 - ----
+2022-12-27 11:26:11 INFO  LambdaMethods:59 - true
+2022-12-27 11:26:11 INFO  LambdaMethods:60 - true
+2022-12-27 11:26:11 INFO  LambdaMethods:61 - true
+2022-12-27 11:26:11 INFO  LambdaMethods:72 - Jack Jonson, John Jackson, Ann Annieson,
+2022-12-27 11:26:11 INFO  LambdaMethods:75 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}]
+2022-12-27 11:26:12 INFO  LambdaMethods:78 - 5
+2022-12-27 11:27:54 INFO  Client:39 - Order created
+2022-12-27 11:27:54 INFO  Dispatcher:39 - Order confirmed
+2022-12-27 11:27:54 INFO  Driver:43 - Driver on the way
+2022-12-27 11:27:54 INFO  Order:173 - Price - 24
+2022-12-27 11:27:54 INFO  Order:174 - Car model - FORD
+2022-12-27 11:27:54 INFO  Order:175 - Car number - 2552
+2022-12-27 11:27:54 INFO  Order:176 - Driver name - John
+2022-12-27 11:27:54 INFO  Order:177 - Driver phone number - +380970756443
+2022-12-27 11:27:54 INFO  Order:179 - Driver knowledge of city Level - MEDIUM
+2022-12-27 11:27:54 INFO  Order:181 - Driver license expired date - 2026-04-23
+2022-12-27 11:27:54 INFO  Driver:81 - Driver license validity period - 3 year(s), 3 month(s), 27 day(s)
+2022-12-27 11:27:54 INFO  Order:184 - Dispatcher - Sofi
+2022-12-27 11:28:00 INFO  Client:39 - Order created
+2022-12-27 11:28:00 INFO  Dispatcher:39 - Order confirmed
+2022-12-27 11:28:00 INFO  Driver:43 - Driver on the way
+2022-12-27 11:28:00 INFO  Order:173 - Price - 24
+2022-12-27 11:28:00 INFO  Order:174 - Car model - BMW
+2022-12-27 11:28:00 INFO  Order:175 - Car number - 0000
+2022-12-27 11:28:00 INFO  Order:176 - Driver name - Ann
+2022-12-27 11:28:00 INFO  Order:177 - Driver phone number - +380670023456
+2022-12-27 11:28:00 INFO  Order:179 - Driver knowledge of city Level - HEIGHT
+2022-12-27 11:28:00 INFO  Order:181 - Driver license expired date - 2020-03-16
+2022-12-27 11:28:00 INFO  Driver:81 - Driver license validity period - -2 year(s), -9 month(s), -11 day(s)
+2022-12-27 11:28:00 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-27 11:28:00 INFO  Order:184 - Dispatcher - Ban
+2022-12-27 11:52:11 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:53:56 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:53:56 INFO  TestPool:31 - 1
+2022-12-27 11:53:56 INFO  TestPool:32 -  | 
+2022-12-27 11:53:56 INFO  TestPool:33 - Olivia
+2022-12-27 11:53:56 INFO  TestPool:34 -  | 
+2022-12-27 11:53:56 INFO  TestPool:35 - 963845294
+2022-12-27 11:53:56 INFO  TestPool:31 - 2
+2022-12-27 11:53:56 INFO  TestPool:32 -  | 
+2022-12-27 11:53:56 INFO  TestPool:33 - Emma
+2022-12-27 11:53:56 INFO  TestPool:34 -  | 
+2022-12-27 11:53:56 INFO  TestPool:35 - 963465294
+2022-12-27 11:53:56 INFO  TestPool:31 - 3
+2022-12-27 11:53:56 INFO  TestPool:32 -  | 
+2022-12-27 11:53:56 INFO  TestPool:33 - Charlotte
+2022-12-27 11:53:56 INFO  TestPool:34 -  | 
+2022-12-27 11:53:56 INFO  TestPool:35 - 984245294
+2022-12-27 11:53:56 INFO  TestPool:31 - 4
+2022-12-27 11:53:56 INFO  TestPool:32 -  | 
+2022-12-27 11:53:56 INFO  TestPool:33 - Amelia
+2022-12-27 11:53:56 INFO  TestPool:34 -  | 
+2022-12-27 11:53:56 INFO  TestPool:35 - 985345294
+2022-12-27 11:53:56 INFO  TestPool:31 - 5
+2022-12-27 11:53:56 INFO  TestPool:32 -  | 
+2022-12-27 11:53:56 INFO  TestPool:33 - Ava
+2022-12-27 11:53:56 INFO  TestPool:34 -  | 
+2022-12-27 11:53:56 INFO  TestPool:35 - 963855294
+2022-12-27 11:53:56 INFO  TestPool:31 - 6
+2022-12-27 11:53:56 INFO  TestPool:32 -  | 
+2022-12-27 11:53:56 INFO  TestPool:33 - Sophia
+2022-12-27 11:53:56 INFO  TestPool:34 -  | 
+2022-12-27 11:53:56 INFO  TestPool:35 - 963845235
+2022-12-27 11:53:56 INFO  TestPool:31 - 7
+2022-12-27 11:53:56 INFO  TestPool:32 -  | 
+2022-12-27 11:53:56 INFO  TestPool:33 - Isabella
+2022-12-27 11:53:56 INFO  TestPool:34 -  | 
+2022-12-27 11:53:56 INFO  TestPool:35 - 964385794
+2022-12-27 11:53:56 INFO  TestPool:31 - 8
+2022-12-27 11:53:56 INFO  TestPool:32 -  | 
+2022-12-27 11:53:56 INFO  TestPool:33 - Mia
+2022-12-27 11:53:56 INFO  TestPool:34 -  | 
+2022-12-27 11:53:56 INFO  TestPool:35 - 963436294
+2022-12-27 11:55:16 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:55:16 INFO  TestPool:31 - 1
+ Olivia
+2022-12-27 11:55:16 INFO  TestPool:31 - 2
+ Emma
+2022-12-27 11:55:16 INFO  TestPool:31 - 3
+ Charlotte
+2022-12-27 11:55:16 INFO  TestPool:31 - 4
+ Amelia
+2022-12-27 11:55:16 INFO  TestPool:31 - 5
+ Ava
+2022-12-27 11:55:16 INFO  TestPool:31 - 6
+ Sophia
+2022-12-27 11:55:16 INFO  TestPool:31 - 7
+ Isabella
+2022-12-27 11:55:16 INFO  TestPool:31 - 8
+ Mia
+2022-12-27 11:55:49 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:55:50 INFO  TestPool:31 - 1 | Olivia
+2022-12-27 11:55:50 INFO  TestPool:31 - 2 | Emma
+2022-12-27 11:55:50 INFO  TestPool:31 - 3 | Charlotte
+2022-12-27 11:55:50 INFO  TestPool:31 - 4 | Amelia
+2022-12-27 11:55:50 INFO  TestPool:31 - 5 | Ava
+2022-12-27 11:55:50 INFO  TestPool:31 - 6 | Sophia
+2022-12-27 11:55:50 INFO  TestPool:31 - 7 | Isabella
+2022-12-27 11:55:50 INFO  TestPool:31 - 8 | Mia
+2022-12-27 11:56:20 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:56:20 INFO  TestPool:31 - 1 | Olivia | 963845294
+2022-12-27 11:56:20 INFO  TestPool:31 - 2 | Emma | 963465294
+2022-12-27 11:56:20 INFO  TestPool:31 - 3 | Charlotte | 984245294
+2022-12-27 11:56:20 INFO  TestPool:31 - 4 | Amelia | 985345294
+2022-12-27 11:56:20 INFO  TestPool:31 - 5 | Ava | 963855294
+2022-12-27 11:56:20 INFO  TestPool:31 - 6 | Sophia | 963845235
+2022-12-27 11:56:20 INFO  TestPool:31 - 7 | Isabella | 964385794
+2022-12-27 11:56:20 INFO  TestPool:31 - 8 | Mia | 963436294
+2022-12-27 11:56:40 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:56:40 INFO  TestPool:31 - 1 | Olivia      | 963845294
+2022-12-27 11:56:40 INFO  TestPool:31 - 2 | Emma      | 963465294
+2022-12-27 11:56:40 INFO  TestPool:31 - 3 | Charlotte      | 984245294
+2022-12-27 11:56:40 INFO  TestPool:31 - 4 | Amelia      | 985345294
+2022-12-27 11:56:40 INFO  TestPool:31 - 5 | Ava      | 963855294
+2022-12-27 11:56:40 INFO  TestPool:31 - 6 | Sophia      | 963845235
+2022-12-27 11:56:40 INFO  TestPool:31 - 7 | Isabella      | 964385794
+2022-12-27 11:56:40 INFO  TestPool:31 - 8 | Mia      | 963436294
+2022-12-27 11:57:01 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 11:57:01 INFO  TestPool:31 - 1 | Olivia | 963845294
+2022-12-27 11:57:01 INFO  TestPool:31 - 2 | Emma | 963465294
+2022-12-27 11:57:01 INFO  TestPool:31 - 3 | Charlotte | 984245294
+2022-12-27 11:57:01 INFO  TestPool:31 - 4 | Amelia | 985345294
+2022-12-27 11:57:01 INFO  TestPool:31 - 5 | Ava | 963855294
+2022-12-27 11:57:01 INFO  TestPool:31 - 6 | Sophia | 963845235
+2022-12-27 11:57:01 INFO  TestPool:31 - 7 | Isabella | 964385794
+2022-12-27 11:57:01 INFO  TestPool:31 - 8 | Mia | 963436294
+2022-12-27 12:00:16 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:01:02 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:01:20 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:01:40 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:02:12 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:07:57 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:08:43 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:10:59 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:11:14 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:11:58 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:12:42 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:12:52 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:13:11 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:13:38 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:13:48 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:14:50 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:15:11 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:17:13 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:17:13 INFO  TestPool:29 - 1 | Olivia | 963845294
+2022-12-27 12:17:13 INFO  TestPool:29 - 2 | Emma | 963465294
+2022-12-27 12:17:13 INFO  TestPool:29 - 3 | Charlotte | 984245294
+2022-12-27 12:17:13 INFO  TestPool:29 - 4 | Amelia | 985345294
+2022-12-27 12:17:13 INFO  TestPool:29 - 5 | Ava | 963855294
+2022-12-27 12:17:13 INFO  TestPool:29 - 6 | Sophia | 963845235
+2022-12-27 12:17:13 INFO  TestPool:29 - 7 | Isabella | 964385794
+2022-12-27 12:17:13 INFO  TestPool:29 - 8 | Mia | 963436294
+2022-12-27 12:35:01 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:35:01 INFO  TestPool:28 - 1 | Olivia | 963845294
+2022-12-27 12:35:01 INFO  TestPool:28 - 2 | Emma | 963465294
+2022-12-27 12:35:01 INFO  TestPool:28 - 3 | Charlotte | 984245294
+2022-12-27 12:35:01 INFO  TestPool:28 - 4 | Amelia | 985345294
+2022-12-27 12:35:01 INFO  TestPool:28 - 5 | Ava | 963855294
+2022-12-27 12:35:01 INFO  TestPool:28 - 6 | Sophia | 963845235
+2022-12-27 12:35:01 INFO  TestPool:28 - 7 | Isabella | 964385794
+2022-12-27 12:35:01 INFO  TestPool:28 - 8 | Mia | 963436294
+2022-12-27 12:35:13 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 12:35:14 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:35:16 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 12:35:33 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 12:35:33 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 12:35:33 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 12:35:33 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 12:35:33 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 12:35:35 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 12:35:35 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 12:35:35 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 12:35:35 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 12:35:35 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 12:35:37 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 12:35:37 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 12:35:37 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 12:35:37 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 12:35:37 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 12:35:37 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 12:35:37 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 12:35:37 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 12:35:37 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 12:35:39 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 12:35:39 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 13:30:43 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 13:30:43 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 13:30:43 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 13:30:43 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 13:30:43 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 13:30:44 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 13:30:44 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 13:30:44 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 13:30:44 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 13:30:44 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 13:30:46 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 13:30:46 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 13:30:46 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 13:30:46 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 13:30:46 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 13:30:46 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 13:30:46 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 13:30:46 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 13:30:46 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 13:30:48 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 13:30:48 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 13:31:29 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 13:31:29 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 13:31:29 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 13:31:29 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 13:31:29 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 13:31:30 INFO  ConnectionPool:47 - Connection number - 1
+2022-12-27 13:31:30 INFO  ConnectionPool:47 - Connection number - 2
+2022-12-27 13:31:30 INFO  ConnectionPool:47 - Connection number - 3
+2022-12-27 13:31:31 INFO  ConnectionPool:47 - Connection number - 4
+2022-12-27 13:31:31 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 13:31:32 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 13:31:32 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 13:31:32 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 13:31:32 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 13:31:32 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 13:31:32 INFO  ConnectionPool:47 - Connection number - 5
+2022-12-27 13:31:32 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 13:31:33 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 13:31:33 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 13:31:34 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 13:31:34 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 16:28:50 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 16:28:50 INFO  MyThreadsCP:28 - Start Thread number - 16
+2022-12-27 16:28:50 INFO  MyThreadsCP:28 - Start Thread number - 15
+2022-12-27 16:28:50 INFO  MyThreadsCP:28 - Start Thread number - 14
+2022-12-27 16:28:50 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 16:28:52 INFO  ConnectionPool:47 - Connection number - 1 |  Thread ID -  12
+2022-12-27 16:28:52 INFO  ConnectionPool:47 - Connection number - 2 |  Thread ID -  13
+2022-12-27 16:28:52 INFO  ConnectionPool:47 - Connection number - 3 |  Thread ID -  14
+2022-12-27 16:28:52 INFO  ConnectionPool:47 - Connection number - 4 |  Thread ID -  15
+2022-12-27 16:28:52 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  16
+2022-12-27 16:28:54 INFO  MyThreadsCP:28 - Start Thread number - 12
+2022-12-27 16:28:54 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  12
+2022-12-27 16:28:54 INFO  MyThreadsCP:28 - Start Thread number - 13
+2022-12-27 16:28:54 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  13
+2022-12-27 16:29:13 INFO  ConnectionPool:47 - Connection number - 1 |  Thread ID -  12
+2022-12-27 16:29:13 INFO  ConnectionPool:47 - Connection number - 2 |  Thread ID -  16
+2022-12-27 16:29:13 INFO  ConnectionPool:47 - Connection number - 3 |  Thread ID -  15
+2022-12-27 16:29:13 INFO  ConnectionPool:47 - Connection number - 4 |  Thread ID -  14
+2022-12-27 16:29:13 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  13
+2022-12-27 16:29:15 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 16:29:15 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  12
+2022-12-27 16:29:15 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 16:29:15 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  16
+2022-12-27 16:29:15 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 16:29:15 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 16:29:15 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 16:29:17 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 16:29:17 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 16:29:29 INFO  ConnectionPool:47 - Connection number - 1 |  Thread ID -  12
+2022-12-27 16:29:30 INFO  ConnectionPool:47 - Connection number - 2 |  Thread ID -  16
+2022-12-27 16:29:30 INFO  ConnectionPool:47 - Connection number - 3 |  Thread ID -  15
+2022-12-27 16:29:30 INFO  ConnectionPool:47 - Connection number - 4 |  Thread ID -  14
+2022-12-27 16:29:30 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  13
+2022-12-27 16:29:31 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 16:29:32 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  12
+2022-12-27 16:29:32 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 16:29:32 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  16
+2022-12-27 16:29:32 INFO  MyThreadsCP:44 - Finish Thread number - 15
+2022-12-27 16:29:32 INFO  MyThreadsCP:44 - Finish Thread number - 14
+2022-12-27 16:29:32 INFO  MyThreadsCP:44 - Finish Thread number - 13
+2022-12-27 16:29:34 INFO  MyThreadsCP:44 - Finish Thread number - 12
+2022-12-27 16:29:34 INFO  MyThreadsCP:44 - Finish Thread number - 16
+2022-12-27 16:43:16 INFO  ConnectionPool:47 - Connection number - 1 |  Thread ID -  12
+2022-12-27 16:43:16 INFO  ConnectionPool:47 - Connection number - 2 |  Thread ID -  16
+2022-12-27 16:43:16 INFO  ConnectionPool:47 - Connection number - 3 |  Thread ID -  14
+2022-12-27 16:43:16 INFO  ConnectionPool:47 - Connection number - 4 |  Thread ID -  15
+2022-12-27 16:43:16 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  13
+2022-12-27 16:43:18 INFO  MyThreadsCP:45 - Finish Thread number - 12
+2022-12-27 16:43:18 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  12
+2022-12-27 16:43:18 INFO  MyThreadsCP:45 - Finish Thread number - 16
+2022-12-27 16:43:18 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  16
+2022-12-27 16:43:18 INFO  MyThreadsCP:45 - Finish Thread number - 14
+2022-12-27 16:43:18 INFO  MyThreadsCP:45 - Finish Thread number - 15
+2022-12-27 16:43:18 INFO  MyThreadsCP:45 - Finish Thread number - 13
+2022-12-27 16:43:20 INFO  MyThreadsCP:45 - Finish Thread number - 12
+2022-12-27 16:43:20 INFO  MyThreadsCP:45 - Finish Thread number - 16
+2022-12-27 16:44:03 INFO  ConnectionPool:47 - Connection number - 1 |  Thread ID -  12
+2022-12-27 16:44:03 INFO  ConnectionPool:47 - Connection number - 2 |  Thread ID -  18
+2022-12-27 16:44:03 INFO  ConnectionPool:47 - Connection number - 3 |  Thread ID -  17
+2022-12-27 16:44:03 INFO  ConnectionPool:47 - Connection number - 4 |  Thread ID -  16
+2022-12-27 16:44:04 INFO  ConnectionPool:47 - Connection number - 5 |  Thread ID -  15
+2022-12-27 16:44:04 ERROR MyThreadsCP:34 - java.sql.SQLException: Connection pool is full
+2022-12-27 16:44:04 ERROR MyThreadsCP:34 - java.sql.SQLException: Connection pool is full
+2022-12-27 16:44:04 INFO  MyThreadsCP:45 - Finish Thread number - 13
+2022-12-27 16:44:04 INFO  MyThreadsCP:45 - Finish Thread number - 14
+2022-12-27 16:44:05 INFO  MyThreadsCP:45 - Finish Thread number - 12
+2022-12-27 16:44:05 INFO  MyThreadsCP:45 - Finish Thread number - 18
+2022-12-27 16:44:05 INFO  MyThreadsCP:45 - Finish Thread number - 17
+2022-12-27 16:44:05 INFO  MyThreadsCP:45 - Finish Thread number - 16
+2022-12-27 16:44:06 INFO  MyThreadsCP:45 - Finish Thread number - 15
+2022-12-27 17:30:50 INFO  ConnectionPool:53 - Connection number - 1 |  Thread ID -  13
+2022-12-27 17:30:50 INFO  ConnectionPool:53 - Connection number - 2 |  Thread ID -  17
+2022-12-27 17:30:50 INFO  ConnectionPool:53 - Connection number - 3 |  Thread ID -  16
+2022-12-27 17:30:50 INFO  ConnectionPool:53 - Connection number - 4 |  Thread ID -  14
+2022-12-27 17:30:50 INFO  ConnectionPool:53 - Connection number - 5 |  Thread ID -  15
+2022-12-27 17:30:52 INFO  MyThreadsCP:46 - Finish Thread number - 13
+2022-12-27 17:30:52 INFO  ConnectionPool:53 - Connection number - 5 |  Thread ID -  13
+2022-12-27 17:30:52 INFO  MyThreadsCP:46 - Finish Thread number - 17
+2022-12-27 17:30:52 INFO  ConnectionPool:53 - Connection number - 5 |  Thread ID -  17
+2022-12-27 17:30:52 INFO  MyThreadsCP:46 - Finish Thread number - 16
+2022-12-27 17:30:52 INFO  MyThreadsCP:46 - Finish Thread number - 14
+2022-12-27 17:30:52 INFO  MyThreadsCP:46 - Finish Thread number - 15
+2022-12-27 17:30:54 INFO  MyThreadsCP:46 - Finish Thread number - 13
+2022-12-27 17:30:54 INFO  MyThreadsCP:46 - Finish Thread number - 17
+2022-12-27 17:31:00 INFO  ConnectionPool:53 - Connection number - 1 |  Thread ID -  13
+2022-12-27 17:31:01 INFO  ConnectionPool:53 - Connection number - 2 |  Thread ID -  16
+2022-12-27 17:31:01 INFO  ConnectionPool:53 - Connection number - 3 |  Thread ID -  15
+2022-12-27 17:31:01 INFO  ConnectionPool:53 - Connection number - 4 |  Thread ID -  14
+2022-12-27 17:31:01 INFO  ConnectionPool:53 - Connection number - 5 |  Thread ID -  12
+2022-12-27 17:31:02 INFO  MyThreadsCP:46 - Finish Thread number - 13
+2022-12-27 17:31:02 INFO  ConnectionPool:53 - Connection number - 5 |  Thread ID -  13
+2022-12-27 17:31:03 INFO  MyThreadsCP:46 - Finish Thread number - 16
+2022-12-27 17:31:03 INFO  ConnectionPool:53 - Connection number - 5 |  Thread ID -  16
+2022-12-27 17:31:03 INFO  MyThreadsCP:46 - Finish Thread number - 15
+2022-12-27 17:31:03 INFO  MyThreadsCP:46 - Finish Thread number - 14
+2022-12-27 17:31:03 INFO  MyThreadsCP:46 - Finish Thread number - 12
+2022-12-27 17:31:04 INFO  MyThreadsCP:46 - Finish Thread number - 13
+2022-12-27 17:31:05 INFO  MyThreadsCP:46 - Finish Thread number - 16
+2022-12-27 17:42:29 INFO  ConnectionPool:57 - Connection number - 1 |  Thread ID -  12
+2022-12-27 17:42:29 INFO  ConnectionPool:57 - Connection number - 2 |  Thread ID -  16
+2022-12-27 17:42:29 INFO  ConnectionPool:57 - Connection number - 3 |  Thread ID -  14
+2022-12-27 17:42:29 INFO  ConnectionPool:57 - Connection number - 4 |  Thread ID -  13
+2022-12-27 17:42:29 INFO  ConnectionPool:57 - Connection number - 5 |  Thread ID -  15
+2022-12-27 17:42:31 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-27 17:42:31 INFO  ConnectionPool:57 - Connection number - 5 |  Thread ID -  12
+2022-12-27 17:42:31 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-27 17:42:31 INFO  ConnectionPool:57 - Connection number - 5 |  Thread ID -  16
+2022-12-27 17:42:31 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-27 17:42:31 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-27 17:42:31 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-27 17:42:33 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-27 17:42:33 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-27 17:42:50 INFO  ConnectionPool:57 - Connection number - 1 |  Thread ID -  1
+2022-12-27 17:42:50 INFO  TestPool:28 - 1 | Olivia | 963845294
+2022-12-27 17:42:50 INFO  TestPool:28 - 2 | Emma | 963465294
+2022-12-27 17:42:50 INFO  TestPool:28 - 3 | Charlotte | 984245294
+2022-12-27 17:42:50 INFO  TestPool:28 - 4 | Amelia | 985345294
+2022-12-27 17:42:50 INFO  TestPool:28 - 5 | Ava | 963855294
+2022-12-27 17:42:50 INFO  TestPool:28 - 6 | Sophia | 963845235
+2022-12-27 17:42:50 INFO  TestPool:28 - 7 | Isabella | 964385794
+2022-12-27 17:42:50 INFO  TestPool:28 - 8 | Mia | 963436294
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 INFO  MyThreadsCP:41 - Finish Thread number - 17
+2022-12-28 14:59:24 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-28 14:59:24 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-28 14:59:24 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 INFO  MyThreadsCP:41 - Finish Thread number - 17
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-28 14:59:24 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-28 15:00:27 INFO  ConnectionPool:56 - Connection number - 1 |  Thread ID -  1
+2022-12-28 15:00:28 INFO  TestPool:28 - 1 | Olivia | 963845294
+2022-12-28 15:00:28 INFO  TestPool:28 - 2 | Emma | 963465294
+2022-12-28 15:00:28 INFO  TestPool:28 - 3 | Charlotte | 984245294
+2022-12-28 15:00:28 INFO  TestPool:28 - 4 | Amelia | 985345294
+2022-12-28 15:00:28 INFO  TestPool:28 - 5 | Ava | 963855294
+2022-12-28 15:00:28 INFO  TestPool:28 - 6 | Sophia | 963845235
+2022-12-28 15:00:28 INFO  TestPool:28 - 7 | Isabella | 964385794
+2022-12-28 15:00:28 INFO  TestPool:28 - 8 | Mia | 963436294
+2022-12-28 15:00:28 INFO  ConnectionPool:56 - Connection number - 1 |  Thread ID -  14
+2022-12-28 15:00:28 INFO  ConnectionPool:56 - Connection number - 2 |  Thread ID -  18
+2022-12-28 15:00:28 INFO  ConnectionPool:56 - Connection number - 3 |  Thread ID -  17
+2022-12-28 15:00:28 INFO  ConnectionPool:56 - Connection number - 4 |  Thread ID -  16
+2022-12-28 15:00:28 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  15
+2022-12-28 15:00:30 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-28 15:00:30 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  14
+2022-12-28 15:00:30 INFO  MyThreadsCP:41 - Finish Thread number - 18
+2022-12-28 15:00:30 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  18
+2022-12-28 15:00:30 INFO  MyThreadsCP:41 - Finish Thread number - 17
+2022-12-28 15:00:30 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-28 15:00:30 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-28 15:00:32 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-28 15:00:32 INFO  MyThreadsCP:41 - Finish Thread number - 18
+2022-12-28 15:46:38 INFO  ConnectionPool:56 - Connection number - 1 |  Thread ID -  12
+2022-12-28 15:46:38 INFO  ConnectionPool:56 - Connection number - 2 |  Thread ID -  16
+2022-12-28 15:46:38 INFO  ConnectionPool:56 - Connection number - 3 |  Thread ID -  15
+2022-12-28 15:46:39 INFO  ConnectionPool:56 - Connection number - 4 |  Thread ID -  14
+2022-12-28 15:46:39 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  13
+2022-12-28 15:46:40 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-28 15:46:40 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  12
+2022-12-28 15:46:40 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-28 15:46:40 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  16
+2022-12-28 15:46:40 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-28 15:46:41 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-28 15:46:41 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-28 15:46:42 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-28 15:46:42 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-28 15:47:11 INFO  ConnectionPool:56 - Connection number - 1 |  Thread ID -  13
+2022-12-28 15:47:11 INFO  ConnectionPool:56 - Connection number - 2 |  Thread ID -  16
+2022-12-28 15:47:11 INFO  ConnectionPool:56 - Connection number - 3 |  Thread ID -  15
+2022-12-28 15:47:11 INFO  ConnectionPool:56 - Connection number - 4 |  Thread ID -  14
+2022-12-28 15:47:11 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  12
+2022-12-28 15:47:13 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-28 15:47:13 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  13
+2022-12-28 15:47:13 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-28 15:47:13 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  16
+2022-12-28 15:47:13 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-28 15:47:13 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-28 15:47:13 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-28 15:47:15 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-28 15:47:15 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-28 15:57:46 INFO  ConnectionPool:56 - Connection number - 1 |  Thread ID -  12
+2022-12-28 15:57:46 INFO  ConnectionPool:56 - Connection number - 2 |  Thread ID -  17
+2022-12-28 15:57:46 INFO  ConnectionPool:56 - Connection number - 3 |  Thread ID -  16
+2022-12-28 15:57:46 INFO  ConnectionPool:56 - Connection number - 4 |  Thread ID -  14
+2022-12-28 15:57:46 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  13
+2022-12-28 15:57:48 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-28 15:57:48 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  12
+2022-12-28 15:57:48 INFO  MyThreadsCP:41 - Finish Thread number - 17
+2022-12-28 15:57:48 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  17
+2022-12-28 15:57:48 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-28 15:57:48 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-28 15:57:48 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-28 15:57:50 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-28 15:57:50 INFO  MyThreadsCP:41 - Finish Thread number - 17
+2022-12-29 12:43:52 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-29 12:43:52 INFO  LambdaMethods:22 - ----
+2022-12-29 12:43:52 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-29 12:43:52 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-29 12:43:52 INFO  LambdaMethods:24 - ----
+2022-12-29 12:43:52 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-29 12:43:52 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-29 12:43:52 INFO  LambdaMethods:26 - ----
+2022-12-29 12:43:52 INFO  LambdaMethods:34 - FORD - 170
+2022-12-29 12:43:52 INFO  LambdaMethods:34 - FORD - 210
+2022-12-29 12:43:52 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-29 12:43:52 INFO  LambdaMethods:29 - ----
+2022-12-29 12:43:52 INFO  DriverList:39 - true
+2022-12-29 12:43:52 INFO  DriverList:39 - true
+2022-12-29 12:43:52 INFO  DriverList:39 - true
+2022-12-29 12:43:52 INFO  LambdaMethods:31 - ----
+2022-12-29 12:43:52 INFO  Pickup:49 - FORD 5 seats
+2022-12-29 12:43:52 INFO  Pickup:49 - FORD 4 seats
+2022-12-29 12:43:52 INFO  Pickup:49 - BMW 8 seats
+2022-12-29 12:43:52 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-29 12:43:52 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-29 12:43:52 INFO  LambdaMethods:33 - ----
+2022-12-29 12:43:52 INFO  Order:192 - Double price - 40
+2022-12-29 12:43:52 INFO  LambdaMethods:35 - ----
+2022-12-29 12:43:52 INFO  Order:197 - Action price - 46.75
+2022-12-29 12:43:52 INFO  LambdaMethods:37 - ----
+2022-12-29 12:43:52 INFO  LambdaMethods:41 - Jack true
+2022-12-29 12:43:52 INFO  LambdaMethods:41 - John true
+2022-12-29 12:43:52 INFO  LambdaMethods:41 - Ann false
+2022-12-29 12:43:52 INFO  LambdaMethods:42 - ----
+2022-12-29 12:43:52 INFO  LambdaMethods:44 - JACK
+2022-12-29 12:43:52 INFO  LambdaMethods:44 - JOHN
+2022-12-29 12:43:52 INFO  LambdaMethods:44 - ANN
+2022-12-29 12:43:52 INFO  LambdaMethods:45 - ----
+2022-12-29 12:43:52 INFO  LambdaMethods:50 - FORD - 5
+2022-12-29 12:43:52 INFO  LambdaMethods:50 - BMW - 8
+2022-12-29 12:43:52 INFO  LambdaMethods:51 - ----
+2022-12-29 12:43:52 INFO  LambdaMethods:55 - Jack - 2025-08-11
+2022-12-29 12:43:52 INFO  LambdaMethods:55 - John - 2026-04-23
+2022-12-29 12:43:52 INFO  LambdaMethods:56 - ----
+2022-12-29 12:43:52 INFO  LambdaMethods:59 - true
+2022-12-29 12:43:52 INFO  LambdaMethods:60 - true
+2022-12-29 12:43:52 INFO  LambdaMethods:61 - true
+2022-12-29 12:43:52 INFO  LambdaMethods:72 - Jack Jonson, John Jackson, Ann Annieson,
+2022-12-29 12:43:52 INFO  LambdaMethods:75 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}]
+2022-12-29 12:43:53 INFO  LambdaMethods:78 - 5
+2022-12-29 12:45:14 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-29 12:45:15 INFO  LambdaMethods:22 - ----
+2022-12-29 12:45:15 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-29 12:45:15 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-29 12:45:15 INFO  LambdaMethods:24 - ----
+2022-12-29 12:45:15 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-29 12:45:15 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-29 12:45:15 INFO  LambdaMethods:26 - ----
+2022-12-29 12:45:15 INFO  LambdaMethods:34 - FORD - 170
+2022-12-29 12:45:15 INFO  LambdaMethods:34 - FORD - 210
+2022-12-29 12:45:15 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-29 12:45:15 INFO  LambdaMethods:29 - ----
+2022-12-29 12:45:15 INFO  DriverList:39 - true
+2022-12-29 12:45:15 INFO  DriverList:39 - true
+2022-12-29 12:45:15 INFO  DriverList:39 - true
+2022-12-29 12:45:15 INFO  LambdaMethods:31 - ----
+2022-12-29 12:45:15 INFO  Pickup:49 - FORD 5 seats
+2022-12-29 12:45:15 INFO  Pickup:49 - FORD 4 seats
+2022-12-29 12:45:15 INFO  Pickup:49 - BMW 8 seats
+2022-12-29 12:45:15 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-29 12:45:15 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-29 12:45:15 INFO  LambdaMethods:33 - ----
+2022-12-29 12:45:15 INFO  Order:192 - Double price - 40
+2022-12-29 12:45:15 INFO  LambdaMethods:35 - ----
+2022-12-29 12:45:15 INFO  Order:197 - Action price - 46.75
+2022-12-29 12:45:15 INFO  LambdaMethods:37 - ----
+2022-12-29 12:45:15 INFO  LambdaMethods:41 - Jack true
+2022-12-29 12:45:15 INFO  LambdaMethods:41 - John true
+2022-12-29 12:45:15 INFO  LambdaMethods:41 - Ann false
+2022-12-29 12:45:15 INFO  LambdaMethods:42 - ----
+2022-12-29 12:45:15 INFO  LambdaMethods:44 - JACK
+2022-12-29 12:45:15 INFO  LambdaMethods:44 - JOHN
+2022-12-29 12:45:15 INFO  LambdaMethods:44 - ANN
+2022-12-29 12:45:15 INFO  LambdaMethods:45 - ----
+2022-12-29 12:45:15 INFO  LambdaMethods:50 - FORD - 5
+2022-12-29 12:45:15 INFO  LambdaMethods:50 - BMW - 8
+2022-12-29 12:45:15 INFO  LambdaMethods:51 - ----
+2022-12-29 12:45:15 INFO  LambdaMethods:55 - Jack - 2025-08-11
+2022-12-29 12:45:15 INFO  LambdaMethods:55 - John - 2026-04-23
+2022-12-29 12:45:15 INFO  LambdaMethods:56 - ----
+2022-12-29 12:45:15 INFO  LambdaMethods:59 - true
+2022-12-29 12:45:15 INFO  LambdaMethods:60 - true
+2022-12-29 12:45:15 INFO  LambdaMethods:61 - true
+2022-12-29 12:45:15 INFO  LambdaMethods:72 - Jack Jonson, John Jackson, Ann Annieson,
+2022-12-29 12:45:15 INFO  LambdaMethods:75 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}]
+2022-12-29 12:45:15 INFO  LambdaMethods:78 - 5
+2022-12-29 12:45:17 INFO  ConnectionPool:56 - Connection number - 1 |  Thread ID -  13
+2022-12-29 12:45:17 INFO  ConnectionPool:56 - Connection number - 2 |  Thread ID -  15
+2022-12-29 12:45:17 INFO  ConnectionPool:56 - Connection number - 3 |  Thread ID -  17
+2022-12-29 12:45:17 INFO  ConnectionPool:56 - Connection number - 4 |  Thread ID -  16
+2022-12-29 12:45:17 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  14
+2022-12-29 12:45:19 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-29 12:45:19 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  13
+2022-12-29 12:45:19 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-29 12:45:19 INFO  ConnectionPool:56 - Connection number - 5 |  Thread ID -  15
+2022-12-29 12:45:19 INFO  MyThreadsCP:41 - Finish Thread number - 17
+2022-12-29 12:45:19 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-29 12:45:19 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-29 12:45:21 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-29 12:45:21 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-29 12:50:18 INFO  ConnectionPool:56 - Connection number - 1 |  Thread ID -  1
+2022-12-29 12:50:18 INFO  TestPool:28 - 1 | Olivia | 963845294
+2022-12-29 12:50:18 INFO  TestPool:28 - 2 | Emma | 963465294
+2022-12-29 12:50:18 INFO  TestPool:28 - 3 | Charlotte | 984245294
+2022-12-29 12:50:18 INFO  TestPool:28 - 4 | Amelia | 985345294
+2022-12-29 12:50:18 INFO  TestPool:28 - 5 | Ava | 963855294
+2022-12-29 12:50:18 INFO  TestPool:28 - 6 | Sophia | 963845235
+2022-12-29 12:50:18 INFO  TestPool:28 - 7 | Isabella | 964385794
+2022-12-29 12:50:18 INFO  TestPool:28 - 8 | Mia | 963436294
+2022-12-29 14:09:10 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  1
+2022-12-29 14:09:10 INFO  TestPool:28 - 1 | Olivia | 963845294
+2022-12-29 14:09:10 INFO  TestPool:28 - 2 | Emma | 963465294
+2022-12-29 14:09:10 INFO  TestPool:28 - 3 | Charlotte | 984245294
+2022-12-29 14:09:10 INFO  TestPool:28 - 4 | Amelia | 985345294
+2022-12-29 14:09:10 INFO  TestPool:28 - 5 | Ava | 963855294
+2022-12-29 14:09:10 INFO  TestPool:28 - 6 | Sophia | 963845235
+2022-12-29 14:09:10 INFO  TestPool:28 - 7 | Isabella | 964385794
+2022-12-29 14:09:10 INFO  TestPool:28 - 8 | Mia | 963436294
+2022-12-29 14:09:10 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  14
+2022-12-29 14:09:10 INFO  ConnectionPool:51 - Connection number - 2 |  Thread ID -  18
+2022-12-29 14:09:10 INFO  ConnectionPool:51 - Connection number - 3 |  Thread ID -  17
+2022-12-29 14:09:10 INFO  ConnectionPool:51 - Connection number - 4 |  Thread ID -  16
+2022-12-29 14:09:10 INFO  ConnectionPool:51 - Connection number - 5 |  Thread ID -  15
+2022-12-29 14:09:10 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-29 14:09:10 INFO  MyThreadsCP:41 - Finish Thread number - 17
+2022-12-29 14:09:10 INFO  MyThreadsCP:41 - Finish Thread number - 18
+2022-12-29 14:09:10 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-29 14:09:10 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-29 14:09:10 INFO  ConnectionPool:51 - Connection number - 5 |  Thread ID -  16
+2022-12-29 14:09:10 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-29 14:09:10 INFO  ConnectionPool:51 - Connection number - 5 |  Thread ID -  17
+2022-12-29 14:09:10 INFO  MyThreadsCP:41 - Finish Thread number - 17
+2022-12-29 14:09:30 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  12
+2022-12-29 14:09:30 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-29 14:09:30 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  16
+2022-12-29 14:09:30 INFO  ConnectionPool:51 - Connection number - 2 |  Thread ID -  15
+2022-12-29 14:09:30 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-29 14:09:30 INFO  ConnectionPool:51 - Connection number - 2 |  Thread ID -  14
+2022-12-29 14:09:30 INFO  ConnectionPool:51 - Connection number - 3 |  Thread ID -  13
+2022-12-29 14:09:30 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-29 14:09:30 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-29 14:09:30 INFO  ConnectionPool:51 - Connection number - 3 |  Thread ID -  15
+2022-12-29 14:09:30 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-29 14:09:30 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-29 14:09:30 INFO  ConnectionPool:51 - Connection number - 3 |  Thread ID -  12
+2022-12-29 14:09:30 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-29 15:55:37 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  13
+2022-12-29 15:55:37 INFO  ConnectionPool:51 - Connection number - 2 |  Thread ID -  15
+2022-12-29 15:55:37 INFO  ConnectionPool:51 - Connection number - 3 |  Thread ID -  14
+2022-12-29 15:55:37 INFO  ConnectionPool:51 - Connection number - 4 |  Thread ID -  12
+2022-12-29 15:55:37 INFO  ConnectionPool:51 - Connection number - 5 |  Thread ID -  16
+2022-12-29 15:55:39 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-29 15:55:39 INFO  ConnectionPool:51 - Connection number - 5 |  Thread ID -  13
+2022-12-29 15:55:39 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-29 15:55:39 INFO  ConnectionPool:51 - Connection number - 5 |  Thread ID -  15
+2022-12-29 15:55:39 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-29 15:55:39 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-29 15:55:39 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-29 15:55:41 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-29 15:55:41 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-30 18:22:54 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  16
+2022-12-30 18:22:54 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  15
+2022-12-30 18:22:54 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  14
+2022-12-30 18:22:54 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  12
+2022-12-30 18:22:54 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  13
+2022-12-30 18:22:56 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-30 18:22:56 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-30 18:22:56 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-30 18:22:56 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-30 18:22:56 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-30 18:22:56 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  14
+2022-12-30 18:22:56 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  15
+2022-12-30 18:22:58 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-30 18:22:58 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-30 18:23:18 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  16
+2022-12-30 18:23:18 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  12
+2022-12-30 18:23:18 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  14
+2022-12-30 18:23:18 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  15
+2022-12-30 18:23:18 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  13
+2022-12-30 18:23:20 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-30 18:23:20 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-30 18:23:20 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-30 18:23:20 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-30 18:23:20 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-30 18:23:20 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  16
+2022-12-30 18:23:20 INFO  ConnectionPool:51 - Connection number - 1 |  Thread ID -  14
+2022-12-30 18:23:22 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-30 18:23:22 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-30 18:23:51 INFO  ConnectionPool:53 - Connection number - 1 |  Thread ID -  15
+2022-12-30 18:23:51 INFO  ConnectionPool:53 - Connection number - 2 |  Thread ID -  14
+2022-12-30 18:23:51 INFO  ConnectionPool:53 - Connection number - 3 |  Thread ID -  16
+2022-12-30 18:23:51 INFO  ConnectionPool:53 - Connection number - 4 |  Thread ID -  12
+2022-12-30 18:23:51 INFO  ConnectionPool:53 - Connection number - 5 |  Thread ID -  13
+2022-12-30 18:23:53 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-30 18:23:53 INFO  ConnectionPool:53 - Connection number - 5 |  Thread ID -  15
+2022-12-30 18:23:53 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-30 18:23:53 INFO  ConnectionPool:53 - Connection number - 5 |  Thread ID -  14
+2022-12-30 18:23:53 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-30 18:23:53 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-30 18:23:53 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-30 18:23:55 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-30 18:23:55 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-30 18:27:36 INFO  ConnectionPool:54 - Connection number - 1 |  Thread ID -  12
+2022-12-30 18:27:36 INFO  ConnectionPool:54 - Connection number - 2 |  Thread ID -  16
+2022-12-30 18:27:36 INFO  ConnectionPool:54 - Connection number - 3 |  Thread ID -  15
+2022-12-30 18:27:36 INFO  ConnectionPool:54 - Connection number - 4 |  Thread ID -  14
+2022-12-30 18:27:36 INFO  ConnectionPool:54 - Connection number - 5 |  Thread ID -  13
+2022-12-30 18:27:38 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-30 18:27:38 INFO  ConnectionPool:54 - Connection number - 5 |  Thread ID -  12
+2022-12-30 18:27:38 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-30 18:27:38 INFO  ConnectionPool:54 - Connection number - 5 |  Thread ID -  16
+2022-12-30 18:27:38 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-30 18:27:38 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-30 18:27:38 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-30 18:27:40 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-30 18:27:40 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-30 18:46:38 INFO  ConnectionPool:54 - Connection number - 1 |  Thread ID -  12
+2022-12-30 18:46:38 INFO  ConnectionPool:54 - Connection number - 2 |  Thread ID -  16
+2022-12-30 18:46:38 INFO  ConnectionPool:54 - Connection number - 3 |  Thread ID -  15
+2022-12-30 18:46:38 INFO  ConnectionPool:54 - Connection number - 4 |  Thread ID -  14
+2022-12-30 18:46:38 INFO  ConnectionPool:54 - Connection number - 5 |  Thread ID -  13
+2022-12-30 18:46:40 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-30 18:46:40 INFO  ConnectionPool:54 - Connection number - 5 |  Thread ID -  12
+2022-12-30 18:46:40 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-30 18:46:40 INFO  ConnectionPool:54 - Connection number - 5 |  Thread ID -  16
+2022-12-30 18:46:40 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-30 18:46:40 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-30 18:46:40 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-30 18:46:42 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-30 18:46:42 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-30 18:58:43 INFO  LambdaMethods:18 - License{name='Ann', surname='Annieson', placeOfBirth='Taxes', dateOfBirth=08/08/2000, dateOfIssue=2018-03-16, dateOfExpired=2020-03-16, category=C}
+2022-12-30 18:58:43 INFO  LambdaMethods:22 - ----
+2022-12-30 18:58:43 INFO  LambdaMethods:18 - License{name='Jack', surname='Jonson', placeOfBirth='NewYork', dateOfBirth=20/07/1990, dateOfIssue=2020-08-11, dateOfExpired=2025-08-11, category=B}
+2022-12-30 18:58:43 INFO  LambdaMethods:18 - License{name='John', surname='Jackson', placeOfBirth='LA', dateOfBirth=14/05/1989, dateOfIssue=2021-04-23, dateOfExpired=2026-04-23, category=B}
+2022-12-30 18:58:43 INFO  LambdaMethods:24 - ----
+2022-12-30 18:58:43 INFO  LambdaMethods:26 - Pickup{cargoCarryMass=400, cargoPlaceWidth=2, cargoPlaceLength=2, cargoPlaceHeight=1} Car{seatPlaceNumber=5, carNumber='1234', maxSpeed=170, carWight=2, carLength=4, carHeight=2}
+2022-12-30 18:58:44 INFO  LambdaMethods:26 - Limousine{alcoholBar='Yes', limousineLength=6} Car{seatPlaceNumber=8, carNumber='0000', maxSpeed=70, carWight=2, carLength=6, carHeight=2}
+2022-12-30 18:58:44 INFO  LambdaMethods:26 - ----
+2022-12-30 18:58:44 INFO  LambdaMethods:34 - FORD - 170
+2022-12-30 18:58:44 INFO  LambdaMethods:34 - FORD - 210
+2022-12-30 18:58:44 INFO  LambdaMethods:34 - MITSUBISHI - 180
+2022-12-30 18:58:44 INFO  LambdaMethods:29 - ----
+2022-12-30 18:58:44 INFO  DriverList:39 - true
+2022-12-30 18:58:44 INFO  DriverList:39 - true
+2022-12-30 18:58:44 INFO  DriverList:39 - true
+2022-12-30 18:58:44 INFO  LambdaMethods:31 - ----
+2022-12-30 18:58:44 INFO  Pickup:49 - FORD 5 seats
+2022-12-30 18:58:44 INFO  Pickup:49 - FORD 4 seats
+2022-12-30 18:58:44 INFO  Pickup:49 - BMW 8 seats
+2022-12-30 18:58:44 INFO  Pickup:49 - MITSUBISHI 4 seats
+2022-12-30 18:58:44 INFO  Pickup:49 - TOYOTA 4 seats
+2022-12-30 18:58:44 INFO  LambdaMethods:33 - ----
+2022-12-30 18:58:44 INFO  Order:192 - Double price - 40
+2022-12-30 18:58:44 INFO  LambdaMethods:35 - ----
+2022-12-30 18:58:44 INFO  Order:197 - Action price - 46.75
+2022-12-30 18:58:44 INFO  LambdaMethods:37 - ----
+2022-12-30 18:58:44 INFO  LambdaMethods:41 - Jack true
+2022-12-30 18:58:44 INFO  LambdaMethods:41 - John true
+2022-12-30 18:58:44 INFO  LambdaMethods:41 - Ann false
+2022-12-30 18:58:44 INFO  LambdaMethods:42 - ----
+2022-12-30 18:58:44 INFO  LambdaMethods:44 - JACK
+2022-12-30 18:58:44 INFO  LambdaMethods:44 - JOHN
+2022-12-30 18:58:44 INFO  LambdaMethods:44 - ANN
+2022-12-30 18:58:44 INFO  LambdaMethods:45 - ----
+2022-12-30 18:58:44 INFO  LambdaMethods:50 - FORD - 5
+2022-12-30 18:58:44 INFO  LambdaMethods:50 - BMW - 8
+2022-12-30 18:58:44 INFO  LambdaMethods:51 - ----
+2022-12-30 18:58:44 INFO  LambdaMethods:55 - Jack - 2025-08-11
+2022-12-30 18:58:44 INFO  LambdaMethods:55 - John - 2026-04-23
+2022-12-30 18:58:44 INFO  LambdaMethods:56 - ----
+2022-12-30 18:58:44 INFO  LambdaMethods:59 - true
+2022-12-30 18:58:44 INFO  LambdaMethods:60 - true
+2022-12-30 18:58:44 INFO  LambdaMethods:61 - true
+2022-12-30 18:58:44 INFO  LambdaMethods:72 - Jack Jonson, John Jackson, Ann Annieson,
+2022-12-30 18:58:44 INFO  LambdaMethods:75 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}]
+2022-12-30 18:58:44 INFO  LambdaMethods:78 - 5
+2022-12-30 19:03:38 INFO  Reflection:63 - class org.apache.log4j.Logger LOG
+2022-12-30 19:03:38 INFO  Reflection:63 - int location
+2022-12-30 19:03:38 INFO  Reflection:63 - class java.lang.String luggage
+2022-12-30 19:03:38 INFO  Reflection:63 - int passengerNumber
+2022-12-30 19:03:38 INFO  Reflection:63 - class java.lang.String promoCode
+2022-12-30 19:03:38 INFO  Reflection:63 - class com.solvd.TaxiService.Taxi.Order order
+2022-12-30 19:03:38 INFO  Reflection:69 - Before changing - 1
+2022-12-30 19:03:38 INFO  Reflection:73 - After changing - 2
+2022-12-30 19:03:38 INFO  Reflection:77 - Before changing - No
+2022-12-30 19:03:38 INFO  Reflection:81 - After changing - Yes
+2022-12-30 19:03:38 INFO  Reflection:85 - Before changing - 0
+2022-12-30 19:03:38 INFO  Reflection:89 - After changing - 2
+2022-12-30 19:03:38 INFO  Reflection:94 - Yes
+2022-12-30 19:06:18 INFO  MyThreads:15 - true 13
+2022-12-30 19:06:18 INFO  MyThreads:15 - true 12
+2022-12-30 19:06:18 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 14
+2022-12-30 19:06:18 INFO  Main:14 - Optional[Dispatcher{education='Bachelor', driverManagementExperience='MEDIUM', categoryManagement='null'} Person{dateOfBirth='1990-05-12', name='Ban', surname='Banson', accessRights='Dispatcher', phoneNumber=973903953, gender='MALE'}] 15
+2022-12-30 19:06:22 INFO  Main:16 - 5 14
+2022-12-30 19:06:22 INFO  Main:16 - 5 15
+2022-12-30 19:06:23 INFO  MyThreads:17 - false 13
+2022-12-30 19:06:23 INFO  MyThreads:17 - false 12
+2022-12-30 19:16:30 INFO  ConnectionPool:54 - Connection number - 1 |  Thread ID -  1
+2022-12-30 19:16:30 INFO  TestPool:28 - 1 | Olivia | 963845294
+2022-12-30 19:16:30 INFO  TestPool:28 - 2 | Emma | 963465294
+2022-12-30 19:16:30 INFO  TestPool:28 - 3 | Charlotte | 984245294
+2022-12-30 19:16:30 INFO  TestPool:28 - 4 | Amelia | 985345294
+2022-12-30 19:16:30 INFO  TestPool:28 - 5 | Ava | 963855294
+2022-12-30 19:16:30 INFO  TestPool:28 - 6 | Sophia | 963845235
+2022-12-30 19:16:30 INFO  TestPool:28 - 7 | Isabella | 964385794
+2022-12-30 19:16:30 INFO  TestPool:28 - 8 | Mia | 963436294
+2022-12-30 19:22:21 INFO  ConnectionPool:54 - Connection number - 1 |  Thread ID -  1
+2022-12-30 19:22:21 INFO  TestPool:28 - 1 | Olivia | 963845294
+2022-12-30 19:22:21 INFO  TestPool:28 - 2 | Emma | 963465294
+2022-12-30 19:22:21 INFO  TestPool:28 - 3 | Charlotte | 984245294
+2022-12-30 19:22:21 INFO  TestPool:28 - 4 | Amelia | 985345294
+2022-12-30 19:22:21 INFO  TestPool:28 - 5 | Ava | 963855294
+2022-12-30 19:22:21 INFO  TestPool:28 - 6 | Sophia | 963845235
+2022-12-30 19:22:21 INFO  TestPool:28 - 7 | Isabella | 964385794
+2022-12-30 19:22:21 INFO  TestPool:28 - 8 | Mia | 963436294
+2022-12-30 19:22:35 INFO  ConnectionPool:54 - Connection number - 1 |  Thread ID -  13
+2022-12-30 19:22:36 INFO  ConnectionPool:54 - Connection number - 2 |  Thread ID -  16
+2022-12-30 19:22:36 INFO  ConnectionPool:54 - Connection number - 3 |  Thread ID -  15
+2022-12-30 19:22:36 INFO  ConnectionPool:54 - Connection number - 4 |  Thread ID -  14
+2022-12-30 19:22:36 INFO  ConnectionPool:54 - Connection number - 5 |  Thread ID -  12
+2022-12-30 19:22:37 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-30 19:22:37 INFO  ConnectionPool:54 - Connection number - 5 |  Thread ID -  13
+2022-12-30 19:22:38 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-30 19:22:38 INFO  ConnectionPool:54 - Connection number - 5 |  Thread ID -  16
+2022-12-30 19:22:38 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2022-12-30 19:22:38 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2022-12-30 19:22:38 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2022-12-30 19:22:39 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2022-12-30 19:22:40 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2022-12-30 19:25:12 INFO  Client:39 - Order created
+2022-12-30 19:25:12 INFO  Dispatcher:39 - Order confirmed
+2022-12-30 19:25:12 INFO  Driver:43 - Driver on the way
+2022-12-30 19:25:12 INFO  Order:173 - Price - 27
+2022-12-30 19:25:12 INFO  Order:174 - Car model - FORD
+2022-12-30 19:25:12 INFO  Order:175 - Car number - 2552
+2022-12-30 19:25:12 INFO  Order:176 - Driver name - John
+2022-12-30 19:25:12 INFO  Order:177 - Driver phone number - +380970756443
+2022-12-30 19:25:12 INFO  Order:179 - Driver knowledge of city Level - MEDIUM
+2022-12-30 19:25:12 INFO  Order:181 - Driver license expired date - 2026-04-23
+2022-12-30 19:25:12 INFO  Driver:81 - Driver license validity period - 3 year(s), 3 month(s), 24 day(s)
+2022-12-30 19:25:12 INFO  Order:184 - Dispatcher - Sofi

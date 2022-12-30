@@ -297,3 +297,33 @@ Driver phone number - +380970756443
 Driver knowledge of city Level - MEDIUM
 Driver license expired date - 2026-04-23
 Order creation time - 2022-12-21T11:04:53.733976
+ 
+LAST ORDER: 
+Price - 24
+Car model - FORD
+Car number - 2552
+Driver name - John
+Driver phone number - +380970756443
+Driver knowledge of city Level - MEDIUM
+Driver license expired date - 2026-04-23
+Order creation time - 2022-12-27T11:27:54.065629
+ 
+LAST ORDER: 
+Price - 24
+Car model - BMW
+Car number - 0000
+Driver name - Ann
+Driver phone number - +380670023456
+Driver knowledge of city Level - HEIGHT
+Driver license expired date - 2020-03-16
+Order creation time - 2022-12-27T11:28:00.942786
+ 
+LAST ORDER: 
+Price - 27
+Car model - FORD
+Car number - 2552
+Driver name - John
+Driver phone number - +380970756443
+Driver knowledge of city Level - MEDIUM
+Driver license expired date - 2026-04-23
+Order creation time - 2022-12-30T19:25:12.181718

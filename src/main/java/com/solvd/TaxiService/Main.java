@@ -1,16 +1,17 @@
 package com.solvd.TaxiService;
 
 
-import com.solvd.TaxiService.Taxi.ConnectionPool;
+import com.solvd.TaxiService.GUI.TaxiSimpleGUI;
+import com.solvd.TaxiService.Taxi.LambdaExercise;
+import com.solvd.TaxiService.Taxi.Reflection;
+import com.solvd.TaxiService.Taxi.TestPool;
+import com.solvd.TaxiService.Threads.MyRunnable;
+import com.solvd.TaxiService.Threads.MyThreads;
 import com.solvd.TaxiService.Threads.MyThreadsCP;
 import org.apache.log4j.Logger;
 
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
-import java.sql.Connection;
-import java.sql.SQLException;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 public class Main {
 
@@ -51,7 +52,7 @@ public class Main {
 //        Reflection.refChengMethod();
 
 
-//            TestPool.testPool();
+//        TestPool.testPool();
 
 //        for (int i = 0; i < 2; i++) {
 //            MyThreads myThreads = new MyThreads();

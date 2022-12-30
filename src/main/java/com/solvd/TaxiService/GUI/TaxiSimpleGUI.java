@@ -1,7 +1,8 @@
-package com.solvd.TaxiService.Taxi;
+package com.solvd.TaxiService.GUI;
 
 import com.solvd.TaxiService.Person.Client;
 import com.solvd.TaxiService.Person.Dispatcher;
+import com.solvd.TaxiService.Taxi.Order;
 import com.solvd.TaxiService.enums.TaxiCars;
 
 import javax.swing.*;
@@ -15,17 +16,17 @@ import java.time.LocalDateTime;
 public class TaxiSimpleGUI extends JFrame {
 
     private final TaxiCars[] cars = {TaxiCars.LIMOUSINE, TaxiCars.CROSSOVER, TaxiCars.PICKUP};
-    private final JComboBox<TaxiCars> inputTypeCar = new JComboBox(cars);
-    private final JTextField inputDistance = new JTextField(5);
-    private final JTextField inputPassengerNumber = new JTextField(5);
-    private final JCheckBox internetInCar = new JCheckBox("Internet in car:", false);
-    private final JCheckBox animalTransportation = new JCheckBox("Animal transportation:", false);
-    private final JCheckBox conditioner = new JCheckBox("Conditioner:", false);
-    private final JCheckBox silenceInCar = new JCheckBox("SilenceInCar:", false);
-    private final JCheckBox LuggageInCabin = new JCheckBox("Luggage in cabin:", false);
-    private final JLabel distanceLabel = new JLabel(" Input distance:");
-    private final JLabel carTypeLabel = new JLabel(" Input car type:");
-    private final JLabel passNumberLabel = new JLabel(" Input passengers number:");
+    protected final JComboBox<TaxiCars> inputTypeCar = new JComboBox(cars);
+    protected final JTextField inputDistance = new JTextField(5);
+    protected final JTextField inputPassengerNumber = new JTextField(5);
+    protected final JCheckBox internetInCar = new JCheckBox("Internet in car:", false);
+    protected final JCheckBox animalTransportation = new JCheckBox("Animal transportation:", false);
+    protected final JCheckBox conditioner = new JCheckBox("Conditioner:", false);
+    protected final JCheckBox silenceInCar = new JCheckBox("SilenceInCar:", false);
+    protected final JCheckBox LuggageInCabin = new JCheckBox("Luggage in cabin:", false);
+    protected final JLabel distanceLabel = new JLabel(" Input distance:");
+    protected final JLabel carTypeLabel = new JLabel(" Input car type:");
+    protected final JLabel passNumberLabel = new JLabel(" Input passengers number:");
 
     public TaxiSimpleGUI() {
         super("Taxi Service");
@@ -51,6 +52,7 @@ public class TaxiSimpleGUI extends JFrame {
         container.add(LuggageInCabin);
 
         JButton confirm = new JButton("Confirm order");
+
         confirm.addActionListener(new ButtonEventListener());
         container.add(confirm);
     }

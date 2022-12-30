@@ -1,11 +1,15 @@
 package com.solvd.TaxiService.Taxi;
 
+import org.apache.log4j.Logger;
+
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
 public class TestPool {
+
+    private static final Logger LOGGER = Logger.getLogger(TestPool.class);
 
     public static void testPool() {
 
@@ -16,23 +20,16 @@ public class TestPool {
         ConnectionPool pool = new ConnectionPool(dbUrl, dbUser, dbPass, 5);
         Connection conn = null;
 
-
-
         try {
             conn = pool.getConnection();
             try (Statement statement = conn.createStatement()) {
-                ResultSet resultSet = statement.executeQuery("SELECT * FROM taxi_clients WHERE client_name = 'Mia'");
+                ResultSet resultSet = statement.executeQuery("SELECT * FROM taxi_clients ");
                 while (resultSet.next()) {
-                    System.out.print(resultSet.getString(1));
-                    System.out.print(" | ");
-                    System.out.print(resultSet.getString(2));
-                    System.out.print(" | ");
-                    System.out.print(resultSet.getString(3));
-                    System.out.println();
-
+                    LOGGER.info(resultSet.getString(1) + " | "
+                            + resultSet.getString(2) + " | "
+                            + resultSet.getString(3));
                 }
             }
-
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

@@ -77,3 +77,31 @@
 2022-12-15 21:25:26 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
 2022-12-15 21:25:27 ERROR Order:97 - com.solvd.TaxiService.exception.ChoiceException: Not correct choice distance of driving 2 or passenger number -2. Try again.
 2022-12-20 11:54:25 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-27 11:17:03 ERROR MyThreadsCP:33 - java.sql.SQLException: Connection pool is full
+2022-12-27 11:17:03 ERROR MyThreadsCP:33 - java.sql.SQLException: Connection pool is full
+2022-12-27 11:18:51 ERROR MyThreadsCP:33 - java.sql.SQLException: Connection pool is full
+2022-12-27 11:18:51 ERROR MyThreadsCP:33 - java.sql.SQLException: Connection pool is full
+2022-12-27 11:28:00 ERROR Driver:90 - com.solvd.TaxiService.exception.PeriodException: License period expired
+2022-12-27 16:44:04 ERROR MyThreadsCP:34 - java.sql.SQLException: Connection pool is full
+2022-12-27 16:44:04 ERROR MyThreadsCP:34 - java.sql.SQLException: Connection pool is full
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2022-12-28 14:59:24 ERROR MyThreadsCP:30 - com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.

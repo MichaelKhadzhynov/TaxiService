@@ -12,11 +12,15 @@ import java.util.Stack;
 
 public class ConnectionPool {
     private static final Logger LOGGER = Logger.getLogger(ConnectionPool.class);
-    private final String dataBaseUrl;
-    private final String userName;
-    private final String password;
+    private static final ConnectionPool INSTANCE = new ConnectionPool();
 
-    private int maxPoolSize = 5;
+    private  String dataBaseUrl = "jdbc:mysql://localhost:3306/myDB";
+    private  String userName  = "root";
+    private  String password = "12345678";
+
+
+
+    private  int maxPoolSize = 5;
     private int connectionNumber = 0;
 
     private static final String SQL_VERIFICATION = "select_1";
@@ -33,6 +37,9 @@ public class ConnectionPool {
 
     }
 
+    public ConnectionPool() {
+    }
+
     public synchronized Connection getConnection() throws SQLException {
         Connection conn = null;
         if (isFull()) {
@@ -44,7 +51,7 @@ public class ConnectionPool {
         }
 
         conn = makeAvailable(conn);
-        System.out.println("Connection number - " + connectionNumber);
+        LOGGER.info("Connection number - " + connectionNumber + " | " + " Thread ID - " + " " + Thread.currentThread().getId());
 
         return conn;
     }
@@ -74,8 +81,7 @@ public class ConnectionPool {
     }
 
     private Connection createNewConnection() throws SQLException {
-        Connection conn = DriverManager.getConnection(dataBaseUrl, userName, password);
-        return conn;
+        return DriverManager.getConnection(dataBaseUrl, userName, password);
     }
 
     private Connection getConnectionFromPool()  {
@@ -110,4 +116,8 @@ public class ConnectionPool {
         }
     }
 
+
+    public static ConnectionPool getInstance() {
+        return ConnectionPool.INSTANCE;
+    }
 }

@@ -5,13 +5,11 @@ import com.solvd.TaxiService.Lists.CarList;
 import com.solvd.TaxiService.Lists.DispatcherList;
 import com.solvd.TaxiService.Lists.DriverList;
 import com.solvd.TaxiService.Lists.LicenseList;
-import com.solvd.TaxiService.Person.Dispatcher;
 import com.solvd.TaxiService.Person.License;
 import com.solvd.TaxiService.enums.DrivingCategory;
 import org.apache.log4j.Logger;
 
 import java.time.LocalDate;
-import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -20,13 +18,14 @@ public class LambdaExercise {
 
     public static void lambdaExercise() {
 
-        LambdaMethods.check(LicenseList.licensesList(), (License t) -> t.getCategory().equals(DrivingCategory.C));
+        LambdaMethods.check(LicenseList.licensesList(),  t -> t.getCategory().equals(DrivingCategory.C));
         LOGGER.info("----");
         LambdaMethods.check(LicenseList.licensesList(), t -> LocalDate.parse(t.getDateOfExpired()).isAfter(LocalDate.now()));
         LOGGER.info("----");
         LambdaMethods.length(CarList.carList(), t -> t.getCarLength() > 3);
         LOGGER.info("----");
         LambdaMethods.speed(CarList.carList(), t -> t.getMaxSpeed() > 150);
+
         LOGGER.info("----");
         DriverList.nameNotEmpty();
         LOGGER.info("----");
