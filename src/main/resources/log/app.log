@@ -11962,3 +11962,5 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 2022-12-30 19:25:12 INFO  Order:181 - Driver license expired date - 2026-04-23
 2022-12-30 19:25:12 INFO  Driver:81 - Driver license validity period - 3 year(s), 3 month(s), 24 day(s)
 2022-12-30 19:25:12 INFO  Order:184 - Dispatcher - Sofi
+2022-12-31 11:56:02 INFO  Main:14 - Thread1 start
+2022-12-31 11:56:02 INFO  Main:32 - Thread2 start

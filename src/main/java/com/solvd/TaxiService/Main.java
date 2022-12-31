@@ -5,6 +5,7 @@ import com.solvd.TaxiService.GUI.TaxiSimpleGUI;
 import com.solvd.TaxiService.Taxi.LambdaExercise;
 import com.solvd.TaxiService.Taxi.Reflection;
 import com.solvd.TaxiService.Taxi.TestPool;
+import com.solvd.TaxiService.Threads.DeadLock;
 import com.solvd.TaxiService.Threads.MyRunnable;
 import com.solvd.TaxiService.Threads.MyThreads;
 import com.solvd.TaxiService.Threads.MyThreadsCP;
@@ -66,6 +67,8 @@ public class Main {
 //        }
 
 //        MyThreadsCP.myThreadsCP();
+
+//        DeadLock.lock();
 
     }
 }
