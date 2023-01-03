@@ -11964,3 +11964,45 @@ The last packet sent successfully to the server was 0 milliseconds ago. The driv
 2022-12-30 19:25:12 INFO  Order:184 - Dispatcher - Sofi
 2022-12-31 11:56:02 INFO  Main:14 - Thread1 start
 2022-12-31 11:56:02 INFO  Main:32 - Thread2 start
+2023-01-01 12:41:10 INFO  ConnectionPool:45 - Connection number - 1 |  Thread ID -  12
+2023-01-01 12:41:10 INFO  ConnectionPool:45 - Connection number - 2 |  Thread ID -  13
+2023-01-01 12:41:10 INFO  ConnectionPool:45 - Connection number - 3 |  Thread ID -  14
+2023-01-01 12:41:10 INFO  ConnectionPool:45 - Connection number - 4 |  Thread ID -  15
+2023-01-01 12:41:10 INFO  ConnectionPool:45 - Connection number - 5 |  Thread ID -  16
+2023-01-01 12:41:12 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2023-01-01 12:41:12 INFO  ConnectionPool:45 - Connection number - 5 |  Thread ID -  12
+2023-01-01 12:41:12 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2023-01-01 12:41:12 INFO  ConnectionPool:45 - Connection number - 5 |  Thread ID -  13
+2023-01-01 12:41:12 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2023-01-01 12:41:12 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2023-01-01 12:41:12 INFO  MyThreadsCP:41 - Finish Thread number - 16
+2023-01-01 12:41:14 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2023-01-01 12:41:14 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2023-01-03 12:38:04 INFO  ConnectionPool:45 - Connection number - 1 |  Thread ID -  11
+2023-01-03 12:38:04 INFO  ConnectionPool:45 - Connection number - 2 |  Thread ID -  14
+2023-01-03 12:38:04 INFO  ConnectionPool:45 - Connection number - 3 |  Thread ID -  12
+2023-01-03 12:38:04 INFO  ConnectionPool:45 - Connection number - 4 |  Thread ID -  13
+2023-01-03 12:38:04 INFO  ConnectionPool:45 - Connection number - 5 |  Thread ID -  15
+2023-01-03 12:38:06 INFO  MyThreadsCP:41 - Finish Thread number - 11
+2023-01-03 12:38:06 INFO  ConnectionPool:45 - Connection number - 5 |  Thread ID -  11
+2023-01-03 12:38:06 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2023-01-03 12:38:06 INFO  ConnectionPool:45 - Connection number - 5 |  Thread ID -  14
+2023-01-03 12:38:06 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2023-01-03 12:38:06 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2023-01-03 12:38:06 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2023-01-03 12:38:08 INFO  MyThreadsCP:41 - Finish Thread number - 11
+2023-01-03 12:38:08 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2023-01-03 12:38:37 INFO  ConnectionPool:45 - Connection number - 1 |  Thread ID -  12
+2023-01-03 12:38:37 INFO  ConnectionPool:45 - Connection number - 2 |  Thread ID -  13
+2023-01-03 12:38:37 INFO  ConnectionPool:45 - Connection number - 3 |  Thread ID -  14
+2023-01-03 12:38:37 INFO  ConnectionPool:45 - Connection number - 4 |  Thread ID -  15
+2023-01-03 12:38:37 INFO  ConnectionPool:45 - Connection number - 5 |  Thread ID -  11
+2023-01-03 12:38:39 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2023-01-03 12:38:39 INFO  ConnectionPool:45 - Connection number - 5 |  Thread ID -  12
+2023-01-03 12:38:39 INFO  MyThreadsCP:41 - Finish Thread number - 13
+2023-01-03 12:38:39 INFO  ConnectionPool:45 - Connection number - 5 |  Thread ID -  13
+2023-01-03 12:38:39 INFO  MyThreadsCP:41 - Finish Thread number - 14
+2023-01-03 12:38:39 INFO  MyThreadsCP:41 - Finish Thread number - 15
+2023-01-03 12:38:39 INFO  MyThreadsCP:41 - Finish Thread number - 11
+2023-01-03 12:38:41 INFO  MyThreadsCP:41 - Finish Thread number - 12
+2023-01-03 12:38:41 INFO  MyThreadsCP:41 - Finish Thread number - 13

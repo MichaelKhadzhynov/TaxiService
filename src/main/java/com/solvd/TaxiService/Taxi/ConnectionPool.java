@@ -28,7 +28,7 @@ public class ConnectionPool {
     Stack<Connection> freePool = new Stack<>();
     Set<Connection> occupiedPool = new HashSet<>();
 
-    public ConnectionPool() {
+    private ConnectionPool() {
     }
 
     public synchronized Connection getConnection() throws SQLException {

@@ -40,8 +40,8 @@ public class Main {
 //        order.orderHistoryRecording();
 //
 //
-//        TaxiSimpleGUI app = new TaxiSimpleGUI();
-//        app.setVisible(true);
+        TaxiSimpleGUI app = new TaxiSimpleGUI();
+        app.setVisible(true);
 //
 //
 //        FileReaderWriter.fileReaderWriter();
